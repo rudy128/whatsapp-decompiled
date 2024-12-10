@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_enabled="false">
+        <bitmap android:src="0x7f080467" android:tint="0x7f060999"/>
+    </item>
+    <item>
+        <bitmap android:src="0x7f080467" android:tint="0x7f06099a"/>
+    </item>
+</selector>

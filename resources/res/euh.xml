@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.TextEmojiLabel android:textColor="0x7f06025c" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b04ef" android:focusable="false" android:layout_width="wrap_content" android:maxLines="1" android:drawablePadding="0x7f070181" app:NOT_FOUND_0xa="0x7f06025c" style="0x7f1501f2"/>
+    <com.whatsapp.conversation.conversationrow.InteractiveButtonsRowContentLayout android:id="0x7f0b0514" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</merge>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.facebook.smartcapture.components.DottedAlignmentView android:id="0x7f0b0b09" android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp" android:alpha="0"/>
+    <com.facebook.smartcapture.components.DarkenedFrameView android:id="0x7f0b0988" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ImageView android:id="0x7f0b11b3" android:src="0x7f0801e2" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="0x7f1501d9"/>
+    <ImageView android:id="0x7f0b11b4" android:src="0x7f0801e2" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:rotation="90" style="0x7f1501d9"/>
+    <ImageView android:id="0x7f0b11b1" android:src="0x7f0801e2" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:rotation="270" style="0x7f1501d9"/>
+    <ImageView android:id="0x7f0b11b2" android:src="0x7f0801e2" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:rotation="180" style="0x7f1501d9"/>
+    <TextView android:textSize="20sp" android:textStyle="bold" android:textColor="?unknown_attr_ref: 7f04098d" android:gravity="center" android:id="0x7f0b23af" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9dp" android:shadowColor="?unknown_attr_ref: 7f040996" android:shadowRadius="15" android:drawablePadding="8dp" android:layout_centerHorizontal="true"/>
+</RelativeLayout>

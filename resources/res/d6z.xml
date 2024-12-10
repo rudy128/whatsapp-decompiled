@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.CircularProgressBar android:id="0x7f0b218b" android:layout_width="0x7f070e10" android:layout_height="0x7f070e10" android:indeterminate="true" app:NOT_FOUND_0x4="0x7f060c13" app:NOT_FOUND_0x5="?unknown_attr_ref: 7f04082b" style="?android:attr/progressBarStyle"/>
+</FrameLayout>

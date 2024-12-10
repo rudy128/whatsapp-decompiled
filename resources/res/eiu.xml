@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:id="0x7f0b0941" android:layout="0x7f0e0518" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09"/>
+    <ViewStub android:id="0x7f0b0cab" android:layout="0x7f0e0524" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e09" android:layout_marginRight="0x7f070e09"/>
+    <com.whatsapp.WaTextView android:textStyle="bold" android:id="0x7f0b0cae" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e09" android:layout_marginRight="0x7f070e09" android:textAlignment="viewStart" style="0x7f1506c2"/>
+    <ViewStub android:id="0x7f0b0cac" android:layout="0x7f0e0525" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e0b" android:layout_marginRight="0x7f070e09"/>
+    <ViewStub android:id="0x7f0b0cad" android:layout="0x7f0e0527" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e06" android:layout_marginRight="0x7f070e09"/>
+</LinearLayout>

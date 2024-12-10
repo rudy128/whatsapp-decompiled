@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b259f" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b25a0" android:layout_width="match_parent" android:layout_height="wrap_content" android:contentInsetLeft="0dp" app:NOT_FOUND_0x9="0dp" app:NOT_FOUND_0xa="0dp"/>
+    <LinearLayout android:id="0x7f0b038d" android:background="?unknown_attr_ref: 7f0400ef" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="0x7f0b25a0">
+        <FrameLayout android:id="0x7f0b0397" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent">
+            <ProgressBar android:layout_gravity="center" android:id="0x7f0b039e" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </FrameLayout>
+    </LinearLayout>
+</RelativeLayout>

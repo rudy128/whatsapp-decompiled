@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b0562" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.chatinfo.view.custom.ChatInfoLayoutV2 android:id="0x7f0b0886" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <com.whatsapp.WaListView android:id="@android:id/list" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="0x7f0801f9" android:drawSelectorOnTop="true" android:cacheColorHint="@android:color/transparent" android:divider="@null" android:dividerHeight="0dp" android:choiceMode="none" android:headerDividersEnabled="false" android:footerDividersEnabled="false" android:overScrollMode="never" android:transitionGroup="true"/>
+            <FrameLayout android:gravity="center_vertical" android:id="0x7f0b0fbe" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content" android:transitionGroup="true">
+                <com.whatsapp.WaImageView android:id="0x7f0b1967" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:contentDescription="0x7f1233c4"/>
+                <View android:layout_gravity="bottom" android:id="0x7f0b03f7" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="96dp"/>
+                <View android:layout_gravity="top" android:id="0x7f0b2310" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="48dp"/>
+                <View android:id="0x7f0b194e" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?unknown_attr_ref: 7f040010" app:NOT_FOUND_0x1b="0x7f150634" app:NOT_FOUND_0x1c="0x7f15062f"/>
+                <ProgressBar android:layout_gravity="center" android:id="0x7f0b194f" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleInverse"/>
+                <FrameLayout android:layout_gravity="center" android:id="0x7f0b2165" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f070002">
+                    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="0x7f070065" android:paddingTop="0x7f071100" android:paddingBottom="0x7f071100" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <com.whatsapp.components.ScalingFrameLayout android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b08b6" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginEnd="0x7f070b94">
+                            <com.whatsapp.TextEmojiLabel android:id="0x7f0b08b4" android:visibility="gone" style="0x7f1501c3"/>
+                        </com.whatsapp.components.ScalingFrameLayout>
+                    </LinearLayout>
+                    <FrameLayout android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:layout_width="48dp" android:layout_height="0x7f070002">
+                        <ProgressBar android:layout_gravity="center" android:id="0x7f0b0694" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleSmallInverse"/>
+                    </FrameLayout>
+                    <com.whatsapp.chatinfo.view.custom.CollapsingProfilePhotoView android:id="0x7f0b073b" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                </FrameLayout>
+            </FrameLayout>
+        </com.whatsapp.chatinfo.view.custom.ChatInfoLayoutV2>
+    </LinearLayout>
+    <FrameLayout android:id="0x7f0b1d79" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="start" android:orientation="vertical" android:id="0x7f0b2617" android:paddingLeft="13dp" android:paddingTop="8dp" android:paddingRight="13dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="18sp" android:textColor="0x7f060682" android:ellipsize="end" android:id="0x7f0b0fe0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"/>
+        <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <TextView android:textSize="0x7f0710a0" android:textColor="0x7f060680" android:ellipsize="end" android:id="0x7f0b099d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textAllCaps="true"/>
+    </LinearLayout>
+    <TextView android:textSize="13.5sp" android:textColor="0x7f060682" android:ellipsize="end" android:id="0x7f0b0886" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-2dp"/>
+</LinearLayout>

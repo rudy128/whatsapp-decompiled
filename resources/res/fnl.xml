@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0880" android:background="0x7f080196" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+    <androidx.core.widget.NestedScrollView android:id="0x7f0b1d5a" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp">
+            <com.whatsapp.WaTextView android:textSize="20sp" android:textColor="?unknown_attr_ref: 7f0408cf" android:layout_gravity="center_horizontal" android:id="0x7f0b1ea1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:fontFamily="?unknown_attr_ref: 7f04056b"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409e9" android:gravity="center" android:layout_gravity="center_horizontal" android:id="0x7f0b1ea0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp"/>
+            <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center" android:id="0x7f0b1176" android:paddingLeft="4dp" android:paddingRight="4dp" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b0460" android:layout_width="match_parent" android:layout_marginLeft="8dp" android:layout_marginTop="16dp" android:layout_marginRight="8dp" android:text="0x7f121532" style="0x7f150671"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b045a" android:layout_width="match_parent" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:text="0x7f121b03" style="0x7f150673"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

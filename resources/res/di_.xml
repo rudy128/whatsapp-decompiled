@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="0x7f0710fd" android:paddingTop="0x7f0710fd" android:paddingRight="0x7f0710fd" android:paddingBottom="0x7f071109" android:layout_width="match_parent" android:layout_height="wrap_content" android:NOT_FOUND_0xd="0x7f0710fd">
+        <com.whatsapp.TextEmojiLabel android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:id="0x7f0b10f1" android:paddingTop="0x7f071100" android:paddingBottom="0x7f071100" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1219d0" android:NOT_FOUND_0xe="0x7f071100" app:NOT_FOUND_0xf="0x7f060db2" style="0x7f1506bf"/>
+        <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b10f0" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1506bf"/>
+    </LinearLayout>
+    <View android:background="?unknown_attr_ref: 7f04032a" android:layout_width="match_parent" android:layout_height="0x7f070d4b"/>
+</merge>

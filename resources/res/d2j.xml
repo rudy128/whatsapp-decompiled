@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.info.views.ChatInfoMediaCardV2 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b06b2" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x4="?unknown_attr_ref: 7f0408ce" app:NOT_FOUND_0x5="0x7f122e1a" style="0x7f15029c"/>

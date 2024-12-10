@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:color="?android:attr/colorControlHighlight">
+    <item android:id="@android:id/mask">
+        <shape>
+            <corners android:radius="0x7f070847"/>
+            <solid android:color="0x7f060caf"/>
+        </shape>
+    </item>
+    <item>
+        <selector>
+            <item android:state_pressed="true">
+                <shape>
+                    <corners android:radius="0x7f070847"/>
+                    <solid android:color="0x7f060cb1"/>
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <corners android:radius="0x7f070847"/>
+                    <solid android:color="0x7f060caf"/>
+                </shape>
+            </item>
+        </selector>
+    </item>
+</ripple>

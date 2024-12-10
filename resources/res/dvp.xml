@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b0298" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b02ab" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.AutoFitGridRecyclerView android:id="0x7f0b11ad" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" app:NOT_FOUND_0x11="0x7f07060f"/>
+        <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="0x7f0b1ff2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.expressionstray.expression.avatars.AvatarStickersCategoriesView android:id="0x7f0b0637" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b0297" android:layout="0x7f0e013b" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="0x7f0b02a4" android:paddingLeft="16dp" android:paddingTop="16dp" android:paddingRight="16dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:layout_gravity="center_horizontal" android:id="0x7f0b16cc" android:layout_width="96dp" android:layout_height="96dp"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textStyle="bold" android:textColor="?unknown_attr_ref: 7f0400f2" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b02a3" android:paddingTop="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12104b"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0400f2" android:layout_gravity="center" android:id="0x7f0b02a5" android:paddingTop="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f121053"/>
+    </LinearLayout>
+    <ViewStub android:layout_gravity="center" android:id="0x7f0b16b3" android:visibility="gone" android:layout="0x7f0e0914" android:inflatedId="0x7f0b16b2" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</FrameLayout>

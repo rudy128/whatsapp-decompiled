@@ -1,0 +1,13 @@
+package X;
+
+/* renamed from: X.2ce  reason: invalid class name and case insensitive filesystem */
+public final class C53512ce {
+    public final AnonymousClass190 A00;
+    public final C18030ve A01;
+
+    public C53512ce(AnonymousClass190 r1, C18030ve r2) {
+        C18070vi.A0j(r2, r1);
+        this.A01 = r2;
+        this.A00 = r1;
+    }
+}

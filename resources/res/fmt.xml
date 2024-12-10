@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.wds.components.button.WDSButton xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center_horizontal" android:id="0x7f0b1f60" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12271f" app:NOT_FOUND_0x5="4" app:NOT_FOUND_0x6="0x7f0809ca" app:NOT_FOUND_0x7="1" app:NOT_FOUND_0x8="0"/>

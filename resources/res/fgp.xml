@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:id="0x7f0b143b" android:padding="0x7f070cc9" android:layout_width="0x7f070064" android:layout_height="0x7f070064">
+    <com.airbnb.lottie.LottieAnimationView android:id="0x7f0b143a" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x7="true" app:NOT_FOUND_0x8="true" app:NOT_FOUND_0x9="0x7f140069"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b1439" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:tint="0x7f060db2" app:NOT_FOUND_0xa="0x7f080ad2"/>
+</FrameLayout>

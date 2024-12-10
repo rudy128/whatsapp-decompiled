@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="0x7f08076e" android:padding="0x7f070e07" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x8="0x7f0b026a" app:NOT_FOUND_0x9="0">
+    <ViewStub android:id="0x7f0b0a27" android:layout="0x7f0e0813" android:inflatedId="0x7f0b0a27" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b1416" android:layout="0x7f0e0810" android:inflatedId="0x7f0b1416" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b1415" android:layout="0x7f0e080f" android:inflatedId="0x7f0b1415" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

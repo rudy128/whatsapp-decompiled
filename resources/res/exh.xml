@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="0x7f0808ae" android:paddingRight="0x7f0710fd" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView android:id="0x7f0b0608" android:layout_width="0x7f07082a" android:layout_height="0x7f07082a" android:layout_marginLeft="0x7f0710fd" android:layout_marginTop="0x7f071109" android:layout_marginRight="0x7f0710fd" android:layout_marginBottom="0x7f071109" android:layout_centerVertical="true" app:NOT_FOUND_0x12="0x7f070254" app:NOT_FOUND_0x13="0dp" style="0x7f150386">
+        <com.whatsapp.WaImageView android:id="0x7f0b0607" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </androidx.cardview.widget.CardView>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0x7f0710fd" android:layout_toLeftOf="0x7f0b0603" android:layout_toRightOf="0x7f0b0608" android:layout_centerVertical="true">
+        <com.whatsapp.TextEmojiLabel android:id="0x7f0b0609" style="0x7f15038a"/>
+        <com.whatsapp.TextEmojiLabel android:id="0x7f0b060a" android:visibility="gone" android:duplicateParentState="true" style="0x7f15038c"/>
+        <com.whatsapp.TextEmojiLabel android:id="0x7f0b060b" android:visibility="gone" android:duplicateParentState="true" style="0x7f15038c"/>
+        <com.whatsapp.TextEmojiLabel android:textColor="?unknown_attr_ref: 7f040d4a" android:id="0x7f0b0606" style="0x7f150388"/>
+    </LinearLayout>
+    <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040d4b" android:id="0x7f0b0603" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.contact.photos.MultiContactThumbnail android:layout_gravity="center" android:id="0x7f0b053e" android:layout_width="0x7f07020c" android:layout_height="0x7f07020c" app:NOT_FOUND_0x7="0x7f07020a" app:NOT_FOUND_0x8="0x7f07020b"/>
+    <View android:layout_gravity="center" android:id="0x7f0b0987" android:background="0x7f08082f" android:layout_width="0x7f07020c" android:layout_height="0x7f07020c" android:alpha="0"/>
+</FrameLayout>

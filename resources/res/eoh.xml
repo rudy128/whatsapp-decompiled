@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:id="0x7f0b1d92" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f070002" android:elevation="?unknown_attr_ref: 7f040034">
+        <include layout="0x7f0e0653"/>
+    </FrameLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b22c6" android:layout_width="match_parent" android:layout_height="0x7f070002">
+        <com.whatsapp.WaTextView android:textSize="18sp" android:textColor="?unknown_attr_ref: 7f040d2d" android:id="0x7f0b0699" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <com.whatsapp.WaImageView android:id="0x7f0b1d6a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f1233e9" app:NOT_FOUND_0x10="0x7f08060a" style="0x7f150006"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b0698" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="androidx.recyclerview.widget.LinearLayoutManager"/>
+    <ViewStub android:id="0x7f0b1dbb" android:layout="0x7f0e0b46" android:inflatedId="0x7f0b1dbb" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView style="0x7f1502ad">
+        <LinearLayout style="0x7f1502b0">
+            <com.whatsapp.WaImageView android:id="0x7f0b113d" app:NOT_FOUND_0x5="0x7f0808e7" style="0x7f1502a4"/>
+            <com.whatsapp.WaImageView android:id="0x7f0b113e" app:NOT_FOUND_0x5="0x7f080222" style="0x7f1502a5"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b1131" android:text="0x7f1214c3" style="0x7f1502af"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b112f" android:text="0x7f1214bd" style="0x7f1502ac"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b1130" android:text="0x7f1214c0" style="0x7f1502a3"/>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout style="0x7f1502a1">
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b112e" android:text="0x7f1214bc" style="0x7f1502a2"/>
+    </LinearLayout>
+</LinearLayout>

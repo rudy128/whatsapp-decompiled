@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b2349" android:background="0x7f080950" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ScrollView android:id="0x7f0b2344" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="0dp" android:fillViewport="true" android:layout_weight="3">
+            <LinearLayout android:orientation="vertical" android:id="0x7f0b2343" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="46dp"/>
+        </ScrollView>
+        <View android:id="0x7f0b2340" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    </LinearLayout>
+    <RelativeLayout android:orientation="horizontal" android:id="0x7f0b2338" android:background="0x7f060922" android:paddingLeft="16dp" android:paddingRight="5dp" android:layout_width="match_parent" android:layout_height="46dp" android:foreground="?unknown_attr_ref: 7f0409fb" android:layoutDirection="ltr">
+        <TextView android:textSize="16sp" android:textColor="0x7f060a18" android:gravity="left" android:id="0x7f0b2353" android:layout_width="220dp" android:layout_height="wrap_content" android:text="To:" android:fontFamily="sans-serif"/>
+        <android.widget.Space android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"/>
+        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="0x7f060a18" android:ellipsize="end" android:gravity="left" android:id="0x7f0b2354" android:layout_width="200dp" android:layout_height="wrap_content" android:singleLine="true" android:layout_toRightOf="0x7f0b2353" android:fontFamily="sans-serif"/>
+        <TextView android:textSize="16sp" android:textColor="0x7f060a18" android:gravity="left" android:id="0x7f0b2335" android:layout_width="220dp" android:layout_height="wrap_content" android:text="Sending:" android:layout_below="0x7f0b2353" android:fontFamily="sans-serif"/>
+        <android.widget.Space android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"/>
+        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="0x7f060a18" android:ellipsize="end" android:gravity="left" android:id="0x7f0b2336" android:layout_width="110dp" android:layout_height="wrap_content" android:maxWidth="140dp" android:singleLine="true" android:layout_toRightOf="0x7f0b2335" android:layout_below="0x7f0b2354" android:fontFamily="sans-serif"/>
+        <ImageView android:id="0x7f0b2337" android:layout_width="200dp" android:layout_height="wrap_content" android:src="0x7f08051d" android:tint="0x7f060a18" android:layout_toRightOf="0x7f0b2336" android:layout_below="0x7f0b2354"/>
+    </RelativeLayout>
+    <View android:background="#d7d7d7" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="46dp" android:alpha="0.9"/>
+</FrameLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.CircleWaImageView android:id="0x7f0b048b" android:background="0x7f08014c" android:layout_width="0x7f07010f" android:layout_height="0x7f07010f" android:layout_marginLeft="0x7f07071e" android:layout_marginRight="0x7f07071e" android:src="0x7f080147" android:layout_marginStart="0x7f07071e" android:layout_marginEnd="0x7f07071e"/>
+    <com.whatsapp.TextEmojiLabel android:layout_gravity="center_vertical" android:id="0x7f0b04ca" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0x7f07071e" android:layout_marginEnd="0x7f07071e" app:NOT_FOUND_0xb="?unknown_attr_ref: 7f04056b" style="0x7f1502df"/>
+</LinearLayout>

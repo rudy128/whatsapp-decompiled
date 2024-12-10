@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.google.android.material.textfield.TextInputLayout android:theme="0x7f150203" android:textColorHint="0x7f060299" android:gravity="start" android:id="0x7f0b10dc" android:layout_width="match_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" app:NOT_FOUND_0xe="0x7f080298" app:NOT_FOUND_0xf="true">
+        <com.google.android.material.textfield.TextInputEditText android:textSize="0x7f071098" android:textColor="0x7f06029a" android:gravity="start" android:id="0x7f0b1025" android:paddingTop="0x7f0704ba" android:paddingBottom="0x7f0704ba" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:imeOptions="flagNoExtractUi" android:textAlignment="viewStart"/>
+    </com.google.android.material.textfield.TextInputLayout>
+</LinearLayout>

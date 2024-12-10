@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="left" android:orientation="vertical" android:paddingLeft="0x7f070024" android:paddingTop="0x7f070025" android:paddingRight="0x7f070024" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.checkbox.RtlCheckBox android:textSize="0x7f07109c" android:id="0x7f0b0373" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1233d5"/>
+</FrameLayout>

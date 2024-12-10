@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="0x7f070e09" android:paddingRight="0x7f070e09" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:textSize="20sp" android:textStyle="bold" android:textColor="?unknown_attr_ref: 7f040d2d" android:gravity="center_horizontal" android:id="0x7f0b239b" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09" android:layout_marginBottom="0x7f070e09" android:text="0x7f122b34" android:textAlignment="center"/>
+        <RadioGroup android:layout_gravity="center" android:orientation="vertical" android:id="0x7f0b1b4a" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.radio.RadioButtonWithSubtitle android:id="0x7f0b1b48" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09" app:NOT_FOUND_0xf="0x7f1234a3" app:NOT_FOUND_0x10="0x7f1234a5"/>
+            <com.whatsapp.radio.RadioButtonWithSubtitle android:id="0x7f0b1b49" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09" android:layout_marginBottom="0x7f070e09" app:NOT_FOUND_0xf="0x7f1234a4" app:NOT_FOUND_0x10="0x7f1234a6"/>
+        </RadioGroup>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

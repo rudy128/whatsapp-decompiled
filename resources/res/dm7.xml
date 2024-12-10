@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:layout_marginRight="12dp" android:layout_marginEnd="12dp">
+        <com.whatsapp.WaImageButton android:layout_gravity="end" android:id="0x7f0b1b1c" android:background="?unknown_attr_ref: 7f04000e" android:layout_width="10dp" android:layout_height="10dp" android:contentDescription="0x7f12319f" app:NOT_FOUND_0x14="0x7f0809c4" app:NOT_FOUND_0x15="0x7f060e38"/>
+    </FrameLayout>
+    <com.whatsapp.WaTextView android:gravity="center" android:id="0x7f0b1b1f" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:NOT_FOUND_0x12="16dp" style="0x7f15049d"/>
+    <LinearLayout android:orientation="horizontal" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:NOT_FOUND_0x13="16dp">
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1b1e" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginRight="4dp" android:layout_weight="1" android:layout_marginEnd="4dp" style="0x7f150671"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1b1d" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:layout_weight="1" android:layout_marginStart="4dp" style="0x7f150679"/>
+    </LinearLayout>
+    <com.whatsapp.TextEmojiLabel android:textColor="?unknown_attr_ref: 7f0409e9" android:gravity="center" android:id="0x7f0b1b1b" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginTop="12dp" android:layout_marginRight="16dp" android:layout_marginBottom="16dp" android:NOT_FOUND_0x12="16dp" style="0x7f150494"/>
+</LinearLayout>

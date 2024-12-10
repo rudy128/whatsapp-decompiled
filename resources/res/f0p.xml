@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.WaTextView android:id="0x7f0b0a67" style="0x7f150210"/>
+    <com.whatsapp.WaTextView android:id="0x7f0b0a66" style="0x7f15020f"/>
+</merge>

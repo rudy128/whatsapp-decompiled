@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:id="0x7f0b0018" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f070d51">
+            <com.whatsapp.WaImageButton android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="0x7f0b03fa" android:background="?unknown_attr_ref: 7f0409fc" android:layout_width="0x7f07030f" android:layout_height="0x7f07030f" android:contentDescription="0x7f12319f" android:layout_marginStart="0x7f070e06" app:NOT_FOUND_0x13="0x7f080446" app:NOT_FOUND_0x14="0x7f060626"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f0710a3" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b0414" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f122540" android:layout_marginStart="0x7f07030f" android:layout_marginEnd="0x7f07030f" style="0x7f150682"/>
+        </FrameLayout>
+        <com.whatsapp.ListItemWithLeftIcon android:gravity="center" android:id="0x7f0b15fa" android:paddingTop="0x7f070e0b" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f12253f" app:NOT_FOUND_0x10="0x7f0804d0" app:NOT_FOUND_0x11="0x7f060e3b" app:NOT_FOUND_0x12="0x7f1218e8" style="0x7f1504a0"/>
+        <com.whatsapp.ListItemWithLeftIcon android:gravity="center" android:id="0x7f0b0cf8" android:paddingTop="0x7f070e0b" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f12253d" app:NOT_FOUND_0x10="0x7f0809e2" app:NOT_FOUND_0x12="0x7f12253e" style="0x7f1504a0"/>
+    </LinearLayout>
+</ScrollView>

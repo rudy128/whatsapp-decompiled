@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:id="0x7f0b0e5e" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0x7f07015d">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b0e5e" android:background="0x7f080724" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.components.button.ThumbnailButton android:id="0x7f0b2267" android:layout_width="0x7f070414" android:layout_height="0x7f070414" android:scaleType="centerCrop" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x15="0"/>
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textStyle="bold" android:textColor="?unknown_attr_ref: 7f0408cf" android:ellipsize="end" android:id="0x7f0b0fdc" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070415" android:layout_marginTop="0x7f070416" android:layout_marginRight="0x7f070415" android:maxLines="2" app:NOT_FOUND_0x10="0x7f0b216d" app:NOT_FOUND_0x12="0x7f0b2267" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x15="0" app:NOT_FOUND_0x16="2"/>
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f0710a0" android:textColor="?unknown_attr_ref: 7f0409e9" android:ellipsize="end" android:id="0x7f0b216d" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070415" android:layout_marginTop="0x7f070417" android:layout_marginRight="0x7f070415" android:layout_marginBottom="0x7f070416" android:maxLines="2" app:NOT_FOUND_0xf="0x7f0b2267" app:NOT_FOUND_0x12="0x7f0b2267" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0x7f0b0fdc"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+</merge>

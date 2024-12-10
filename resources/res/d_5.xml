@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="right" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <include layout="0x7f0e03d2"/>
+            <com.whatsapp.WaFrameLayout android:id="0x7f0b13bd" android:padding="0x7f07048b" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <view android:id="0x7f0b225b" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" class="com.whatsapp.conversation.conversationrow.ConversationRowVideo$RowVideoView"/>
+                <ViewStub android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="0x7f0b15ae" android:layout="0x7f0e0892" android:inflatedId="0x7f0b15ae" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0x7f070f87"/>
+                <com.whatsapp.WaTextView android:textSize="12.5sp" android:textStyle="bold" android:textColor="@android:color/white" android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="0x7f0b10c9" android:paddingLeft="10dp" android:paddingRight="10dp" android:paddingBottom="0x7f0710ff" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:singleLine="true" android:drawablePadding="4dp"/>
+                <ViewStub android:layout_gravity="center" android:id="0x7f0b201b" android:layout="0x7f0e0d5a" android:inflatedId="0x7f0b201b" android:layout_width="0x7f07078a" android:layout_height="0x7f07078a"/>
+                <FrameLayout android:layout_gravity="center" android:id="0x7f0b08a8" android:background="0x7f080281" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ViewStub android:layout_gravity="center" android:id="0x7f0b1ac5" android:layout="0x7f0e025d" android:inflatedId="0x7f0b1ac5" android:layout_width="64dp" android:layout_height="64dp"/>
+                    <ViewStub android:layout_gravity="center" android:id="0x7f0b05d4" android:layout="0x7f0e022a" android:inflatedId="0x7f0b05d4" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b08a5" style="0x7f1501e4"/>
+                </FrameLayout>
+            </com.whatsapp.WaFrameLayout>
+            <ViewStub android:id="0x7f0b21ad" android:layout="0x7f0e0c99" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <com.whatsapp.components.TextAndDateLayout android:id="0x7f0b2219" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.TextEmojiLabel android:textAppearance="?unknown_attr_ref: 7f040cef" android:layout_gravity="left" android:id="0x7f0b05de" android:paddingLeft="0x7f070430" android:paddingRight="0x7f070430" android:paddingBottom="0x7f07048b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-1dp"/>
+                <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0b09b4" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ViewStub android:id="0x7f0b165e" android:layout="0x7f0e08f7" android:inflatedId="0x7f0b165e" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                    <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f0402a3" android:id="0x7f0b099d" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150685"/>
+                    <ViewStub android:id="0x7f0b25cd" android:layout="0x7f0e0403" android:inflatedId="0x7f0b25cd" android:layout_width="0x7f071022" android:layout_height="0x7f071021"/>
+                </LinearLayout>
+            </com.whatsapp.components.TextAndDateLayout>
+        </LinearLayout>
+    </FrameLayout>
+</merge>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b17cb" android:background="?unknown_attr_ref: 7f0407ea" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:id="0x7f0b06ec" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

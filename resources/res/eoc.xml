@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0x7f0706d7">
+    <com.whatsapp.WaImageView android:id="0x7f0b0839" android:layout_width="0x7f07037a" android:layout_height="0x7f07037a" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:contentDescription="0x7f1233c4"/>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginRight="0x7f071103" android:layout_weight="1">
+        <com.whatsapp.TextEmojiLabel android:id="0x7f0b0834" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xc="?unknown_attr_ref: 7f040569" style="0x7f1502de"/>
+        <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f04092f" android:id="0x7f0b17d7" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <com.whatsapp.WaImageButton android:id="0x7f0b0526" android:background="0x7f0808ae" android:layout_width="50dp" android:layout_height="match_parent" android:contentDescription="0x7f123159" app:NOT_FOUND_0xd="0x7f080412" app:NOT_FOUND_0xe="?unknown_attr_ref: 7f040168"/>
+    <com.whatsapp.WaImageButton android:id="0x7f0b24c4" android:background="0x7f0808ae" android:layout_width="50dp" android:layout_height="match_parent" android:layout_marginRight="0x7f0710ff" android:contentDescription="0x7f1234b8" app:NOT_FOUND_0xd="0x7f080696" app:NOT_FOUND_0xe="?unknown_attr_ref: 7f040168"/>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1d88" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:layout_gravity="center_vertical" android:id="0x7f0b22ee" android:layout_width="match_parent" android:layout_height="56dp" style="0x7f150632">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:minHeight="24dp">
+            <com.airbnb.lottie.LottieAnimationView android:id="0x7f0b151f" android:visibility="gone" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginEnd="0x7f070e06"/>
+            <com.whatsapp.search.views.TokenizedSearchInput android:id="0x7f0b1d98" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </LinearLayout>
+    </com.whatsapp.wds.components.topbar.WDSToolbar>
+    <View android:id="0x7f0b0ab9" style="0x7f1503bf"/>
+    <Space android:id="0x7f0b2001" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f071108"/>
+    <View android:id="0x7f0b2385" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123485"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b1ca3" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:layout_marginStart="0x7f070d3d"/>
+    <com.whatsapp.search.views.ProgressView android:id="0x7f0b1ac4" android:layout_width="match_parent" android:layout_height="0dp"/>
+    <View android:id="0x7f0b2384" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123484"/>
+</LinearLayout>

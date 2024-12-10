@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b0880" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:theme="0x7f1505be" android:id="0x7f0b01e7" android:layout_width="0dp" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x12="0">
+        <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" style="0x7f150632"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b25c4" android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp" app:NOT_FOUND_0xe="0x7f0b25c3" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x11="0x7f0b01e7" style="0x7f1501d0"/>
+    <LinearLayout android:gravity="bottom|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="0x7f0b25c3" android:padding="0x7f071012" android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp" app:NOT_FOUND_0xe="0x7f0b25c6" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x11="0x7f0b25c4">
+        <com.whatsapp.WaTextView android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f12304a"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b25c5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="140dp" android:layout_marginBottom="140dp" android:text="0x7f12304b" style="0x7f150671"/>
+    </LinearLayout>
+    <FrameLayout android:id="0x7f0b25c6" android:layout_width="0dp" android:layout_height="0dp" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x11="0x7f0b25c3">
+        <ProgressBar android:layout_gravity="center" android:layout_width="48dp" android:layout_height="48dp" android:indeterminate="true" style="?android:attr/progressBarStyleLarge"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

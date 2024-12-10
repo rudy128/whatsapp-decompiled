@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b049b" android:background="?unknown_attr_ref: 7f04013a" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ProgressBar android:layout_gravity="center" android:id="0x7f0b04a0" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="0x7f0b049d" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f07016a" android:layout_marginRight="0x7f07016a">
+        <com.whatsapp.WaTextView android:gravity="center" android:id="0x7f0b049f" android:layout_marginLeft="0x7f070c59" android:text="0x7f120599" app:NOT_FOUND_0x10="0x7f071097" style="0x7f1501b9"/>
+        <com.whatsapp.wds.components.button.WDSButton android:textSize="0x7f07109c" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b049e" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070c59" android:text="0x7f1205a8" app:NOT_FOUND_0x10="0x7f071097" style="0x7f150162"/>
+    </LinearLayout>
+    <androidx.cardview.widget.CardView android:id="0x7f0b04a3" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f070c5c">
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b04a1" android:background="?unknown_attr_ref: 7f0408ce" android:paddingBottom="0x7f070c62" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1e54" android:background="0x7f08087d" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:layout_gravity="top" android:id="0x7f0b0fbe" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageButton android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:id="0x7f0b070c" android:background="@null" android:padding="0x7f070773" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f12319f" app:NOT_FOUND_0x17="0x7f080446"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:gravity="center" android:layout_gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070b6e" android:layout_marginTop="0x7f070b6a" android:layout_marginRight="0x7f070b6e" android:layout_marginBottom="0x7f070b6a" android:text="0x7f121bbd" android:layout_centerInParent="true" android:lineSpacingMultiplier="1.28" app:NOT_FOUND_0x14="?unknown_attr_ref: 7f04056b"/>
+    </RelativeLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b188d" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x15="androidx.recyclerview.widget.LinearLayoutManager"/>
+    <LinearLayout android:id="0x7f0b0511" android:background="?android:attr/selectableItemBackground" android:padding="0x7f070b6a" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070b70">
+        <com.whatsapp.wds.components.button.WDSButton android:textColor="?unknown_attr_ref: 7f040d35" android:id="0x7f0b089f" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f12055b" android:letterSpacing="0.125" app:NOT_FOUND_0x16="0" style="0x7f150671"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:id="0x7f0b25e9" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center" android:id="0x7f0b25ec" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+        <com.whatsapp.webpagepreview.WebPagePreviewCornerShadowView android:id="0x7f0b25eb" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.whatsapp.WaImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="0x7f0b25ea" android:padding="8dp" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </FrameLayout>
+</merge>

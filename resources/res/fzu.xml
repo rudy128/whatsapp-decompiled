@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center" android:orientation="vertical" android:id="0x7f0b2572" android:padding="0x7f070e09" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.google.android.material.imageview.ShapeableImageView android:layout_gravity="center" android:id="0x7f0b0ebe" android:background="@null" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" app:NOT_FOUND_0xa="0x7f15065b"/>
+        <include layout="0x7f0e0dca"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.core.widget.NestedScrollView>

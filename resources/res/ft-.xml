@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:id="0x7f0b23da" android:layout_width="0x7f070f43" android:layout_height="0x7f070f43"/>
+    <View android:id="0x7f0b23d8" android:background="0x7f0807dc" android:layout_width="0x7f070e0f" android:layout_height="match_parent" android:layout_marginStart="0x7f070e07"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b23d9" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="0x7f070e06" android:paddingEnd="0x7f070e06"/>
+</merge>

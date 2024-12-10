@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0886" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e03d2"/>
+    <include layout="0x7f0e0405"/>
+    <FrameLayout android:id="0x7f0b1355" android:padding="0x7f07048b" android:layout_width="match_parent" android:layout_height="0x7f070437">
+        <com.whatsapp.WaImageView android:id="0x7f0b225b" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+        <com.whatsapp.location.WaMapView android:id="0x7f0b1356" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b2261" android:background="0x7f0808ae" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="0x7f12165c"/>
+        <FrameLayout android:id="0x7f0b12f2" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ProgressBar android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="0x7f0b1ac5" android:visibility="gone" android:layout_width="0x7f070438" android:layout_height="0x7f070438" android:layout_margin="8dp"/>
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b14e6" android:paddingTop="0x7f071104" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b1301" android:layout="0x7f0e07b0" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b1300" android:layout="0x7f0e07ae" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b12f7" android:layout="0x7f0e079f" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <LinearLayout android:layout_gravity="right" android:orientation="horizontal" android:id="0x7f0b09b4" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1501e7">
+            <com.whatsapp.WaTextView android:id="0x7f0b099d" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150685"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

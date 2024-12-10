@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.contact.FacepileItemMaskView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.whatsapp.components.button.ThumbnailButton android:id="0x7f0b2030" android:visibility="visible" android:layout_width="0x7f070640" android:layout_height="0x7f070640" android:scaleType="fitCenter" app:NOT_FOUND_0x5="?unknown_attr_ref: 7f0408ce" app:NOT_FOUND_0x6="0x7f07063c" app:NOT_FOUND_0x7="false" app:NOT_FOUND_0x8="0x7f07063f"/>
+</com.whatsapp.contact.FacepileItemMaskView>

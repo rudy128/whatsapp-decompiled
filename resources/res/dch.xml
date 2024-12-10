@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_gravity="center" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="0x7f070cd2" android:paddingTop="0x7f070cd2" android:paddingRight="0x7f070cd2" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="24dp" android:text="0x7f1208cb" style="0x7f15039a"/>
+            <com.whatsapp.WaImageView android:gravity="top" android:layout_width="80dp" android:layout_height="80dp" app:NOT_FOUND_0x13="0x7f080464"/>
+            <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_weight="1">
+                <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0400f1" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginTop="8dp" android:layout_marginRight="16dp" android:layout_marginBottom="24dp" android:text="0x7f1208c9"/>
+                <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0400f2" android:gravity="center" android:id="0x7f0b070a" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="24dp"/>
+                <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center" android:id="0x7f0b070c" android:layout_marginBottom="24dp" android:text="0x7f1201c7" style="0x7f150671"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

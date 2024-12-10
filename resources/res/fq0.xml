@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b20fb" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b213e" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="0x7f0b213d" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ProgressBar android:layout_gravity="center" android:layout_width="40dp" android:layout_height="40dp"/>
+        <com.whatsapp.WaTextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:text="0x7f1228be"/>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="0x7f0b0bd2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:layout_gravity="center_horizontal" android:layout_width="72dp" android:layout_height="72dp" android:layout_marginBottom="16dp" app:NOT_FOUND_0xf="0x7f080922"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:layout_gravity="center_horizontal" android:id="0x7f0b0bfc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1228b9"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0408cc" android:layout_gravity="center_horizontal" android:id="0x7f0b0eca" android:background="0x7f0808ae" android:padding="6dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:text="0x7f12288d" android:textAllCaps="true"/>
+    </LinearLayout>
+</FrameLayout>

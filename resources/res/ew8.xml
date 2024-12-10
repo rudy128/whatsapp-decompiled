@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1d55" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColorLink="?unknown_attr_ref: 7f040d4d" android:id="0x7f0b0c4f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e0d" android:layout_marginTop="0x7f070e09" android:layout_marginRight="0x7f070e0d" android:layout_marginBottom="0x7f070e09" android:text="0x7f1215c8" android:layout_marginStart="0x7f070e0d" android:layout_marginEnd="0x7f070e0d" style="0x7f150443"/>
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:id="0x7f0b0c4e" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e0a" android:layout_marginTop="0x7f070e13" android:layout_marginRight="0x7f070e0a" android:layout_marginBottom="0x7f070e0a" android:layout_marginStart="0x7f070e0a" android:layout_marginEnd="0x7f070e0a" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="376dp"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <com.whatsapp.WaTextView android:textSize="0x7f070591" android:textStyle="bold" android:gravity="center_horizontal" android:id="0x7f0b0c50" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e0d" android:layout_marginRight="0x7f070e0d" android:text="0x7f1215c9" android:layout_marginStart="0x7f070e0d" android:layout_marginEnd="0x7f070e0d"/>
+        <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    </LinearLayout>
+</ScrollView>

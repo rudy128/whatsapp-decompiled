@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="left|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="30dp">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <LinearLayout android:layout_gravity="left" android:paddingBottom="0x7f071104" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageView android:layout_gravity="left|center_vertical|center_horizontal|center" android:background="0x7f08084b" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="10dp" android:scaleType="center" app:NOT_FOUND_0x14="0x7f08057a"/>
+            <com.whatsapp.components.TextAndDateLayout android:layout_gravity="right" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textStyle="italic" android:textColor="?unknown_attr_ref: 7f040c23" android:layout_gravity="left" android:id="0x7f0b14eb" android:paddingLeft="8dp" android:paddingTop="0x7f071104" android:paddingRight="0x7f070430" android:paddingBottom="3dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f120c4a"/>
+                <LinearLayout android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0b09b4" android:paddingLeft="0x7f071100" android:paddingRight="0x7f071100" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ViewStub android:id="0x7f0b0443" android:layout="0x7f0e034b" android:inflatedId="0x7f0b0443" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                    <com.whatsapp.WaTextView android:id="0x7f0b099d" android:paddingBottom="1dp" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150687"/>
+                </LinearLayout>
+            </com.whatsapp.components.TextAndDateLayout>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <item android:icon="0x7f080a58" android:id="0x7f0b1440" android:minWidth="0dp" android:minHeight="0dp" android:title="@null" app:showAsAction="ifRoom">
+        <menu>
+            <item android:icon="@null" android:id="0x7f0b149d" android:title="0x7f123299" app:showAsAction="always"/>
+        </menu>
+    </item>
+</menu>

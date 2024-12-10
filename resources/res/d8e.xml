@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b16f3" android:paddingTop="0x7f070297" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f150149">
+    <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="0x7f0b16f1" android:paddingLeft="0x7f070295" android:paddingRight="0x7f070295" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070296" android:layout_marginBottom="0x7f070294" android:lineSpacingExtra="4sp"/>
+    <com.whatsapp.wds.components.button.WDSButtonGroup android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="0x7f0b00d7" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0">
+        <com.whatsapp.wds.components.button.WDSButton android:textSize="0x7f07109c" android:id="0x7f0b16ef" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.wds.components.button.WDSButton android:textSize="0x7f07109c" android:id="0x7f0b16f0" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </com.whatsapp.wds.components.button.WDSButtonGroup>
+</LinearLayout>

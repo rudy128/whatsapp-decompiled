@@ -1,0 +1,18 @@
+package X;
+
+import com.whatsapp.bot.metaai.imagine.AiImagineBottomSheet;
+
+/* renamed from: X.7hg  reason: invalid class name and case insensitive filesystem */
+public final class C148587hg extends AnonymousClass11G implements C18090vk {
+    public final /* synthetic */ AiImagineBottomSheet this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public C148587hg(AiImagineBottomSheet aiImagineBottomSheet) {
+        super(0);
+        this.this$0 = aiImagineBottomSheet;
+    }
+
+    public /* bridge */ /* synthetic */ Object invoke() {
+        return new C109765dy(this.this$0, 2);
+    }
+}

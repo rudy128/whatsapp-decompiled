@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.KeyboardPopupLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b132f" android:background="?unknown_attr_ref: 7f0408ce" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="0x7f0b1788" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include android:id="0x7f0b22f2" android:background="?unknown_attr_ref: 7f040be1" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="0x7f0b1788" layout="0x7f0e0ccd"/>
+    <include layout="0x7f0e09ee"/>
+</com.whatsapp.KeyboardPopupLayout>

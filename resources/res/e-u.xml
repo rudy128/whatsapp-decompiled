@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageButton android:layout_gravity="center" android:id="0x7f0b02ac" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:contentDescription="0x7f12315e" android:layout_marginStart="12dp" android:layout_marginEnd="12dp" app:NOT_FOUND_0x19="0x7f0803bb" app:NOT_FOUND_0x1a="?unknown_attr_ref: 7f0402ec" style="?unknown_attr_ref: 7f040018"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040857" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710fe" android:layout_marginBottom="0x7f0710fe" android:text="0x7f121e03" app:NOT_FOUND_0x18="?unknown_attr_ref: 7f04056b"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b0518" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f0710fe">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:padding="5dp" android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="16dp" android:scaleType="fitXY" app:NOT_FOUND_0x19="0x7f08062f" app:NOT_FOUND_0x1a="#128c7e"/>
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <com.whatsapp.WaTextView android:textSize="0x7f071098" android:ellipsize="end" android:id="0x7f0b051a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="0x7f1502de"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:id="0x7f0b0519" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <com.whatsapp.WaImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="0x7f0b0517" android:paddingLeft="16dp" android:paddingRight="16dp" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="match_parent" app:NOT_FOUND_0x19="0x7f080432" app:NOT_FOUND_0x1a="?unknown_attr_ref: 7f040869"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b1ec5" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f0710fe">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:padding="5dp" android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="16dp" android:scaleType="fitXY" app:NOT_FOUND_0x19="0x7f0804cd" app:NOT_FOUND_0x1a="#128c7e"/>
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <com.whatsapp.WaTextView android:textSize="0x7f071098" android:ellipsize="end" android:id="0x7f0b1ec7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="0x7f1502de"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:id="0x7f0b1ec6" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <com.whatsapp.WaImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="0x7f0b1ec4" android:paddingLeft="16dp" android:paddingRight="16dp" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="match_parent" app:NOT_FOUND_0x19="0x7f080432" app:NOT_FOUND_0x1a="?unknown_attr_ref: 7f040869"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,212 @@
+package X;
+
+import com.whatsapp.community.iq.GetGroupProfilePicturesProtocolHelper;
+import com.whatsapp.community.membersuggestedgroups.MemberSuggestedGroupsManager;
+import com.whatsapp.group.GetSubgroupsManager;
+import com.whatsapp.group.iq.GetGroupInfoProtocolHelper;
+import com.whatsapp.util.Log;
+import java.util.List;
+import java.util.Set;
+import java.util.concurrent.CopyOnWriteArrayList;
+
+/* renamed from: X.3Uc  reason: invalid class name */
+public abstract class AnonymousClass3Uc extends AnonymousClass1J2 {
+    public int A00 = -1;
+    public long A01;
+    public AnonymousClass4YA A02;
+    public C29691ci A03;
+    public AnonymousClass1E7 A04;
+    public Integer A05;
+    public Integer A06;
+    public String A07;
+    public boolean A08;
+    public boolean A09 = true;
+    public boolean A0A = true;
+    public final int A0B;
+    public final C22801Dg A0C = new C22801Dg();
+    public final AnonymousClass1DT A0D = AnonymousClass3MW.A0L();
+    public final AnonymousClass1DT A0E = AnonymousClass3MW.A0L();
+    public final AnonymousClass1DT A0F;
+    public final AnonymousClass1DT A0G = AnonymousClass3MW.A0L();
+    public final AnonymousClass1DT A0H = AnonymousClass3MW.A0L();
+    public final AnonymousClass1DT A0I = AnonymousClass3MW.A0L();
+    public final AnonymousClass190 A0J;
+    public final AnonymousClass4Ix A0K;
+    public final C56352hK A0L;
+    public final AnonymousClass4Xp A0M;
+    public final C34511kb A0N;
+    public final C187239fU A0O;
+    public final C93914jk A0P;
+    public final C87834Xg A0Q;
+    public final C98914rv A0R;
+    public final GetGroupProfilePicturesProtocolHelper A0S;
+    public final MemberSuggestedGroupsManager A0T;
+    public final C57792je A0U;
+    public final C58672l4 A0V;
+    public final AnonymousClass1M9 A0W;
+    public final C24921Me A0X;
+    public final AnonymousClass11P A0Y;
+    public final AnonymousClass1CJ A0Z;
+    public final AnonymousClass1NN A0a;
+    public final AnonymousClass122 A0b;
+    public final AnonymousClass1QB A0c;
+    public final AnonymousClass1MZ A0d;
+    public final AnonymousClass1R3 A0e;
+    public final C24681Lg A0f;
+    public final AnonymousClass4XG A0g;
+    public final C88194Yr A0h;
+    public final C18030ve A0i;
+    public final GetSubgroupsManager A0j;
+    public final AnonymousClass126 A0k;
+    public final AnonymousClass12M A0l;
+    public final AnonymousClass1MG A0m;
+    public final C26211Rg A0n;
+    public final GetGroupInfoProtocolHelper A0o;
+    public final C42211xo A0p;
+    public final AnonymousClass1EC A0q;
+    public final C25011Mn A0r;
+    public final C28401aA A0s;
+    public final C27001Ui A0t;
+    public final AnonymousClass1W6 A0u;
+    public final C41111vp A0v = AnonymousClass3MW.A0n(new AnonymousClass4YM(false, false, false));
+    public final C41111vp A0w = AnonymousClass3MW.A0n(0);
+    public final C41111vp A0x = AnonymousClass3MW.A0n(AnonymousClass000.A13());
+    public final C41111vp A0y = AnonymousClass3MW.A0n(false);
+    public final C41111vp A0z = AnonymousClass3MW.A0n(AnonymousClass000.A13());
+    public final C200710s A10;
+    public final C41731wy A11 = new C41731wy((Object) null);
+    public final C41731wy A12 = AnonymousClass3MW.A0o();
+    public final C41731wy A13 = AnonymousClass3MW.A0o();
+    public final C41731wy A14 = AnonymousClass3MW.A0o();
+    public final AnonymousClass10I A15;
+    public final List A16 = AnonymousClass000.A13();
+    public final List A17 = AnonymousClass000.A13();
+    public final Set A18 = C17880vN.A14();
+    public final C22821Di A19 = new AnonymousClass5RI(this);
+    public final AnonymousClass1OX A1A;
+    public final List A1B = new CopyOnWriteArrayList();
+
+    public abstract void A0U();
+
+    public final void A0V(AnonymousClass1E7 r8, String str) {
+        C18070vi.A0d(r8, 1);
+        C187239fU r3 = this.A0O;
+        AnonymousClass1EC r4 = this.A0q;
+        r3.A03.A0E(C77003oy.A00);
+        r3.A04.CGF(new C21456AkN(r8, r3, r4, str, 11));
+    }
+
+    public void A0T() {
+        if (C18020vd.A05(C18040vf.A02, this.A0i, 9027)) {
+            C98754rf.A00(this.A10, this, 33);
+        }
+    }
+
+    public AnonymousClass3Uc(AnonymousClass190 r40, AnonymousClass4Ix r41, C56352hK r42, C34511kb r43, C187239fU r44, C93914jk r45, C87834Xg r46, GetGroupProfilePicturesProtocolHelper getGroupProfilePicturesProtocolHelper, MemberSuggestedGroupsManager memberSuggestedGroupsManager, C57792je r49, C58672l4 r50, AnonymousClass1M9 r51, C24921Me r52, AnonymousClass11P r53, AnonymousClass1CJ r54, AnonymousClass1NN r55, AnonymousClass122 r56, AnonymousClass1QB r57, AnonymousClass1MZ r58, AnonymousClass1R3 r59, C24681Lg r60, AnonymousClass4XG r61, C88194Yr r62, C18030ve r63, GetSubgroupsManager getSubgroupsManager, AnonymousClass126 r65, AnonymousClass12M r66, AnonymousClass1MG r67, C26211Rg r68, GetGroupInfoProtocolHelper getGroupInfoProtocolHelper, C42211xo r70, AnonymousClass1EC r71, C25011Mn r72, C28401aA r73, C27001Ui r74, AnonymousClass1W6 r75, AnonymousClass10I r76, AnonymousClass1OX r77, int i) {
+        AnonymousClass1DT A0M2;
+        AnonymousClass11P r29 = r53;
+        C18070vi.A0d(r29, 1);
+        C18030ve r22 = r63;
+        AnonymousClass10I r4 = r76;
+        AnonymousClass190 r38 = r40;
+        C18070vi.A0p(r22, r38, r4);
+        AnonymousClass1CJ r7 = r54;
+        C18070vi.A0d(r7, 5);
+        AnonymousClass1M9 r8 = r51;
+        AnonymousClass1OX r3 = r77;
+        C28401aA r14 = r73;
+        C25011Mn r15 = r72;
+        AnonymousClass1MG r18 = r67;
+        C18070vi.A0x(r14, r15, r18, r8, r3);
+        AnonymousClass1QB r26 = r57;
+        AnonymousClass122 r27 = r56;
+        C24921Me r30 = r52;
+        AnonymousClass126 r20 = r65;
+        AnonymousClass1W6 r12 = r75;
+        C18070vi.A0y(r30, r26, r27, r12, r20);
+        C24681Lg r24 = r60;
+        C42211xo r16 = r70;
+        C26211Rg r17 = r68;
+        AnonymousClass12M r19 = r66;
+        C18070vi.A0t(r19, r24, r17, r16);
+        C88194Yr r23 = r62;
+        GetSubgroupsManager getSubgroupsManager2 = getSubgroupsManager;
+        C27001Ui r13 = r74;
+        C34511kb r36 = r43;
+        C18070vi.A0u(r23, getSubgroupsManager2, r13, r36);
+        AnonymousClass1NN r28 = r55;
+        C18070vi.A0d(r28, 24);
+        AnonymousClass1MZ r25 = r58;
+        C18070vi.A0d(r25, 25);
+        C87834Xg r35 = r46;
+        C18070vi.A0d(r35, 26);
+        AnonymousClass4XG r11 = r61;
+        C58672l4 r31 = r50;
+        GetGroupInfoProtocolHelper getGroupInfoProtocolHelper2 = getGroupInfoProtocolHelper;
+        MemberSuggestedGroupsManager memberSuggestedGroupsManager2 = memberSuggestedGroupsManager;
+        C72483Me.A15(memberSuggestedGroupsManager2, getGroupInfoProtocolHelper2, r11, r31);
+        C57792je r32 = r49;
+        C18070vi.A0d(r32, 32);
+        AnonymousClass4Ix r37 = r41;
+        C18070vi.A0d(r37, 33);
+        C56352hK r9 = r42;
+        C18070vi.A0d(r9, 34);
+        GetGroupProfilePicturesProtocolHelper getGroupProfilePicturesProtocolHelper2 = getGroupProfilePicturesProtocolHelper;
+        C18070vi.A0d(getGroupProfilePicturesProtocolHelper2, 35);
+        AnonymousClass1R3 r6 = r59;
+        C18070vi.A0d(r6, 36);
+        AnonymousClass1EC r5 = r71;
+        C18070vi.A0d(r5, 38);
+        this.A0Y = r29;
+        this.A0i = r22;
+        this.A0J = r38;
+        this.A15 = r4;
+        this.A0Z = r7;
+        this.A0s = r14;
+        this.A0r = r15;
+        this.A0m = r18;
+        this.A0W = r8;
+        this.A1A = r3;
+        this.A0X = r30;
+        this.A0c = r26;
+        this.A0b = r27;
+        this.A0u = r12;
+        this.A0k = r20;
+        this.A0l = r19;
+        this.A0f = r24;
+        this.A0n = r17;
+        this.A0p = r16;
+        this.A0h = r23;
+        this.A0j = getSubgroupsManager2;
+        this.A0t = r13;
+        this.A0N = r36;
+        this.A0a = r28;
+        this.A0d = r25;
+        this.A0Q = r35;
+        this.A0O = r44;
+        this.A0T = memberSuggestedGroupsManager2;
+        this.A0o = getGroupInfoProtocolHelper2;
+        this.A0g = r11;
+        this.A0V = r31;
+        this.A0U = r32;
+        this.A0K = r37;
+        this.A0L = r9;
+        this.A0S = getGroupProfilePicturesProtocolHelper2;
+        this.A0e = r6;
+        this.A0P = r45;
+        this.A0q = r5;
+        this.A0B = i;
+        this.A0M = r9.A00(r5, r3);
+        AnonymousClass1E7 A0E2 = r8.A0E(r5);
+        this.A04 = A0E2;
+        if (A0E2 == null) {
+            A0M2 = AnonymousClass3MW.A0L();
+        } else {
+            A0M2 = AnonymousClass3MW.A0M(A0E2);
+        }
+        this.A0F = A0M2;
+        Log.i("CommunitySubgroupsViewModel/init/Creating serialExecutor");
+        this.A10 = new C200710s(r4, false);
+        this.A0R = new C98914rv(r7);
+    }
+}

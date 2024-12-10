@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="0x7f070d58">
+    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="top" android:id="0x7f0b1e66" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:nestedScrollingEnabled="false"/>
+    <View android:layout_gravity="center" android:id="0x7f0b1e67" android:background="0x7f080278" android:layout_width="match_parent" android:layout_height="0x7f07037e" android:layout_alignParentBottom="true"/>
+    <com.whatsapp.WaImageButton android:id="0x7f0b1e69" android:background="0x7f0808a2" android:visibility="gone" android:layout_width="0x7f070d5a" android:layout_height="0x7f070d5a" android:layout_marginTop="0x7f070d5d" android:layout_alignTop="0x7f0b1e66" android:layout_alignParentRight="true" android:contentDescription="0x7f123384" android:elevation="0x7f070d59" app:NOT_FOUND_0xf="0x7f08049c"/>
+    <com.whatsapp.WaImageButton android:id="0x7f0b1e6a" android:background="0x7f0808a2" android:visibility="gone" android:layout_width="0x7f070d5a" android:layout_height="0x7f070d5a" android:layout_marginTop="0x7f070d5d" android:layout_alignTop="0x7f0b1e66" android:layout_alignParentRight="true" android:contentDescription="0x7f123384" android:elevation="0x7f070d59" app:NOT_FOUND_0xf="0x7f08049c"/>
+</merge>

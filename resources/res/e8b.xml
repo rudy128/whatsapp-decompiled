@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0d">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b1260" android:paddingRight="0x7f070e0d" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f08061f"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:textColorLink="?unknown_attr_ref: 7f040d4d" android:gravity="left" android:id="0x7f0b0a32" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="4sp"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0e" android:layout_marginBottom="0x7f071101">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b2497" android:paddingRight="0x7f070e0d" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f0805ca"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:textColorLink="?unknown_attr_ref: 7f040d4d" android:gravity="left" android:id="0x7f0b0a37" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="4sp"/>
+    </LinearLayout>
+    <View android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b0136" android:layout_marginBottom="16dp" android:text="0x7f1200ff" app:NOT_FOUND_0x10="2" style="0x7f15067a"/>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1acb" android:layout_width="0x7f070f3b" android:layout_height="0x7f070f3b" android:layout_centerHorizontal="true">
+    <com.whatsapp.CircularProgressBar android:layout_gravity="center_vertical" android:id="0x7f0b1ac5" android:layout_width="match_parent" android:layout_height="match_parent" android:indeterminate="false" android:indeterminateOnly="false" app:NOT_FOUND_0xb="0x7f060625"/>
+    <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b070c" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp" android:src="0x7f080446" app:NOT_FOUND_0xb="0x7f060625"/>
+</FrameLayout>

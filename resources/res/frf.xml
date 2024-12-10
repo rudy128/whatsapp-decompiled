@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1cf2" android:layout_width="match_parent" android:layout_height="match_parent" android:transitionGroup="true">
+    <ViewStub android:id="0x7f0b0f42" android:inflatedId="0x7f0b0f3d" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.whatsapp.scroller.RecyclerFastScroller android:id="0x7f0b1d59" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ScrollView android:id="0x7f0b16be" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.WaTextView android:textSize="18sp" android:textColor="?android:attr/textColorPrimary" android:layout_gravity="center" android:id="0x7f0b16bf" android:paddingBottom="0x7f071102" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </ScrollView>
+    <com.whatsapp.CircularProgressBar android:layout_gravity="center" android:id="0x7f0b1ac5" android:visibility="gone" android:layout_width="64dp" android:layout_height="64dp" android:indeterminateOnly="true" app:NOT_FOUND_0xe="0x7f060c13" app:NOT_FOUND_0xf="?unknown_attr_ref: 7f0408cc"/>
+    <View android:layout_gravity="top" android:id="0x7f0b2385" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="0x7f0709d7" android:transitionName="0x7f123485"/>
+    <View android:layout_gravity="top" android:id="0x7f0b0fdd" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="-56dp" android:transitionName="0x7f123488"/>
+    <View android:layout_gravity="bottom" android:id="0x7f0b2384" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123484"/>
+    <View android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b0e92" android:layout_width="0dp" android:layout_height="0dp" android:transitionName="0x7f123486"/>
+    <View android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b0e9d" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginRight="44dp" android:transitionName="0x7f12348b"/>
+</FrameLayout>

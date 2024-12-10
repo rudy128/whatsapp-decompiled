@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingTop="0x7f070f4e" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.collections.ObservableRecyclerView android:id="0x7f0b2089" android:paddingBottom="0x7f070f4f" android:scrollbars="none" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="0x7f070f4f" android:paddingEnd="0x7f070f4f"/>
+</LinearLayout>

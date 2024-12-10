@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.WaDynamicRoundCornerImageView android:id="0x7f0b2143" android:layout_width="match_parent" android:layout_height="match_parent" android:src="?unknown_attr_ref: 7f040d81" app:NOT_FOUND_0x1f="0x7f0701d2"/>
+    <FrameLayout android:padding="1dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <SurfaceView android:id="0x7f0b21a6" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <TextureView android:id="0x7f0b2246" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b24c9" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.whatsapp.WaDynamicRoundCornerImageView android:id="0x7f0b0e60" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" app:NOT_FOUND_0x1f="0x7f0701d2"/>
+            <com.whatsapp.WaImageView android:id="0x7f0b15b1" android:layout_width="0x7f0701d5" android:layout_height="0x7f0701d5" android:layout_margin="0x7f070f7d" android:contentDescription="0x7f122fa3" app:NOT_FOUND_0x1b="0" app:NOT_FOUND_0x1c="0" app:NOT_FOUND_0x20="0x7f080acf"/>
+            <ViewStub android:id="0x7f0b15ef" android:layout="0x7f0e08a1" android:inflatedId="0x7f0b15ef" android:layout_width="0x7f0701d3" android:layout_height="0x7f0701d3" android:layout_margin="0x7f070f7d" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1c="0"/>
+            <ViewStub android:id="0x7f0b202f" android:layout="0x7f0e0be8" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x1a="0" app:NOT_FOUND_0x1c="0"/>
+            <ViewStub android:layout_gravity="center" android:id="0x7f0b12eb" android:layout="0x7f0e079d" android:inflatedId="0x7f0b12eb" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1b="0" app:NOT_FOUND_0x1c="0"/>
+            <ViewStub android:id="0x7f0b05c6" android:layout="0x7f0e0227" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f071104" android:layout_marginTop="0x7f071100" android:layout_marginRight="0x7f071104" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1c="0"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b17e2" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.whatsapp.WaDynamicRoundCornerImageView android:id="0x7f0b229a" android:layout_width="match_parent" android:layout_height="match_parent" android:src="0x7f060c97" app:NOT_FOUND_0x1f="0x7f0701d2"/>
+            <com.whatsapp.WaDynamicRoundCornerImageView android:id="0x7f0b0546" android:padding="1dp" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:alpha="0.3" app:NOT_FOUND_0x1f="0x7f0701d2"/>
+            <com.whatsapp.components.button.ThumbnailButton android:id="0x7f0b17e1" android:focusable="false" android:layout_width="0dp" android:layout_height="0dp" android:src="0x7f08014b" android:importantForAccessibility="no" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="w,h,1:1" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x19="0.6" app:NOT_FOUND_0x1b="0" app:NOT_FOUND_0x1c="0" app:NOT_FOUND_0x1d="2" app:NOT_FOUND_0x1e="0.6"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+    <View android:id="0x7f0b0987" android:background="?unknown_attr_ref: 7f040c42" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0"/>
+    <ViewStub android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:id="0x7f0b15d1" android:layout="0x7f0e0d59" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="0x7f0710ff" android:layout_marginStart="0x7f071108" android:layout_marginEnd="0x7f071108"/>
+</FrameLayout>

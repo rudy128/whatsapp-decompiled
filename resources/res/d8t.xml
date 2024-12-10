@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e03d2"/>
+    <include layout="0x7f0e0339"/>
+</LinearLayout>

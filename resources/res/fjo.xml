@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f150145">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:id="0x7f0b1048" android:layout_width="48dp" android:layout_height="48dp" android:layout_marginLeft="0x7f07050d" android:scaleType="center" android:layout_marginStart="0x7f07050d" app:NOT_FOUND_0xb="0" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0x7f080586" app:NOT_FOUND_0x10="?unknown_attr_ref: 7f0405ee"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b09df" android:paddingTop="0x7f070c5a" android:paddingBottom="0x7f070c5a" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f07050d" android:layout_marginRight="0x7f070c59" android:text="0x7f120438" android:layout_marginStart="0x7f07050d" android:layout_marginEnd="0x7f070c59" app:NOT_FOUND_0xb="0" app:NOT_FOUND_0xc="0x7f0b1048" app:NOT_FOUND_0xe="0" style="0x7f1502df"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.whatsapp.InfoCard>

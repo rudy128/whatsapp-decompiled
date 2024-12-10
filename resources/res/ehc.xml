@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="0x7f0705ab" android:layout_height="0x7f0705ab">
+    <com.whatsapp.expressionstray.expression.emoji.view.EmojiImageView android:layout_gravity="center" android:id="0x7f0b0ba3" android:background="?unknown_attr_ref: 7f0409fb" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</FrameLayout>

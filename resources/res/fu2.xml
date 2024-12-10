@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.qrcode.WaQrScannerView android:id="0x7f0b1b12" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentBottom="true"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentTop="true">
+        <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <View android:id="0x7f0b1f4a" android:background="0x7f060d52" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <com.whatsapp.payments.ui.widget.IndiaUpiQrScannerOverlay android:id="0x7f0b1794" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0xe="1"/>
+            <com.whatsapp.WaImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="0x7f0b1b11" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:contentDescription="0x7f122467" app:NOT_FOUND_0xf="0x7f0804a4" app:NOT_FOUND_0x10="?unknown_attr_ref: 7f040d35" style="0x7f150006"/>
+            <com.whatsapp.WaImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b1b10" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" app:NOT_FOUND_0xf="0x7f08030c" app:NOT_FOUND_0x10="?unknown_attr_ref: 7f040d35" style="0x7f150006"/>
+        </FrameLayout>
+        <ViewStub android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b03dd" android:layout="0x7f0e0a9b" android:inflatedId="0x7f0b03dc" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="0"/>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b1024" android:layout="0x7f0e0d11" android:inflatedId="0x7f0b1024" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</RelativeLayout>

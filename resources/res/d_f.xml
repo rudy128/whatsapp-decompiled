@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:layout_gravity="end" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="0x7f070676" android:minHeight="20dp">
+        <LinearLayout android:orientation="horizontal" android:id="0x7f0b0e02" android:background="0x7f08023a" android:paddingTop="0x7f070677" android:paddingBottom="0x7f070e0b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0x7f0701e9" android:paddingStart="0x7f070677" android:paddingEnd="0x7f070e12">
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <View android:id="0x7f0b0e05" android:background="0x7f0801b6" android:layout_width="0x7f0701f0" android:layout_height="0x7f0701f0"/>
+                <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b0e04" android:layout_width="0x7f070678" android:layout_height="0x7f070678" android:scaleType="centerInside" android:tint="0x7f060d70"/>
+            </FrameLayout>
+            <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:paddingBottom="0x7f070e0c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="0x7f070e06" android:layout_marginEnd="0x7f070e06">
+                <com.whatsapp.TextEmojiLabel android:textStyle="bold" android:textColor="0x7f060582" android:ellipsize="end" android:id="0x7f0b0e07" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2"/>
+                <com.whatsapp.TextEmojiLabel android:textStyle="normal" android:textColor="0x7f060581" android:ellipsize="end" android:id="0x7f0b0e06" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2"/>
+            </LinearLayout>
+            <include layout="0x7f0e0368"/>
+        </LinearLayout>
+    </FrameLayout>
+</merge>

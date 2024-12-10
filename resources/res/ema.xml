@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View android:layout_gravity="top" android:background="0x7f080962" android:layout_width="match_parent" android:layout_height="0x7f070c71"/>
+        <include android:id="0x7f0b247d" layout="0x7f0e0d35"/>
+    </FrameLayout>
+    <View style="0x7f1503bf"/>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="0x7f0b247e" layout="0x7f0e0d35"/>
+        <View android:layout_gravity="bottom" android:background="0x7f080963" android:layout_width="match_parent" android:layout_height="0x7f070c71"/>
+    </FrameLayout>
+</LinearLayout>

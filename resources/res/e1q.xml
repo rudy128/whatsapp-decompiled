@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="0x7f0709de">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.components.button.ThumbnailButton android:id="0x7f0b0839" style="0x7f1501c6"/>
+        <ViewStub android:id="0x7f0b215d" android:visibility="gone" android:layout="0x7f0e0db0" android:inflatedId="0x7f0b215d" android:layout_width="0x7f070336" android:layout_height="0x7f070334" android:layout_marginRight="0x7f070335" style="0x7f1501c6"/>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingRight="0x7f07083b" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.whatsapp.TextEmojiLabel android:id="0x7f0b1a4d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="0x7f1502da"/>
+            <com.whatsapp.TextEmojiLabel android:textAppearance="0x7f150484" android:ellipsize="end" android:id="0x7f0b1dfa" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1"/>
+        </LinearLayout>
+    </LinearLayout>
+    <View android:layout_gravity="bottom" android:id="0x7f0b1ec9" style="0x7f1503bf"/>
+</FrameLayout>

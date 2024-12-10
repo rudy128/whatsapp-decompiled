@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b2271" android:background="?android:attr/selectableItemBackground" android:paddingLeft="0x7f070e0d" android:paddingTop="0x7f070f01" android:paddingRight="0x7f070e0d" android:paddingBottom="0x7f070f01" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:id="0x7f0b084e" android:layout_width="0x7f070f05" android:layout_height="0x7f070f05">
+        <com.whatsapp.wds.components.profilephoto.WDSProfilePhoto android:id="0x7f0b2273" android:layout_width="0x7f070e0d" android:layout_height="0x7f070e0d" android:src="0x7f0806f5" android:scaleType="centerInside" android:layout_centerInParent="true"/>
+        <ViewStub android:id="0x7f0b2296" android:layout="0x7f0e0cc6" android:inflatedId="0x7f0b2295" android:layout_width="0x7f070f05" android:layout_height="0x7f070f05" android:scaleType="fitCenter" android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_weight="1">
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040a3e" android:layout_gravity="start" android:id="0x7f0b2275" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070e0f" android:textAlignment="viewStart" app:NOT_FOUND_0x16="?unknown_attr_ref: 7f040569"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f070835" android:textColor="?unknown_attr_ref: 7f040a3d" android:layout_gravity="start" android:id="0x7f0b2274" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" app:NOT_FOUND_0x16="?unknown_attr_ref: 7f040569"/>
+    </LinearLayout>
+</LinearLayout>

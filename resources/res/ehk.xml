@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0bb0" android:background="?unknown_attr_ref: 7f040362" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b1dca" android:paddingLeft="0x7f070bfd" android:paddingRight="0x7f070bfd" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="0x7f0705ab" android:paddingStart="0x7f070bfd" android:paddingEnd="0x7f070bfd"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040363" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b16cb" android:layout_width="match_parent" android:layout_height="0x7f0705ab" android:layout_marginLeft="8dp" android:text="0x7f121258"/>
+        <FrameLayout android:id="0x7f0b1acb" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f0705ab">
+            <ProgressBar android:layout_gravity="center" android:id="0x7f0b0bcd" android:layout_width="36dp" android:layout_height="36dp"/>
+        </FrameLayout>
+    </FrameLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="44dp" android:layout_marginLeft="8dp" android:layout_marginTop="0x7f0710ff" android:layout_marginRight="8dp" android:layout_marginBottom="0x7f0710ff">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b02ac" android:layout_width="40dp" android:layout_height="match_parent" android:contentDescription="0x7f12315e" app:NOT_FOUND_0x1a="0x7f0803bb" app:NOT_FOUND_0x1b="0x7f060626" style="0x7f150006"/>
+        <com.whatsapp.InterceptingEditText android:layout_gravity="center_vertical" android:id="0x7f0b1d65" android:background="@android:color/transparent" android:layout_width="0dp" android:layout_height="wrap_content" android:hint="0x7f120e41" android:singleLine="true" android:layout_weight="1" android:inputType="text" android:imeOptions="actionSearch"/>
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b0702" android:visibility="invisible" android:layout_width="40dp" android:layout_height="match_parent" android:contentDescription="0x7f12319c" app:NOT_FOUND_0x1a="0x7f080446" app:NOT_FOUND_0x1b="0x7f060626" app:NOT_FOUND_0x1c="9" style="0x7f150006"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e0a" android:layout_marginRight="0x7f070e09" android:NOT_FOUND_0xa="0x7f070e09">
+        <com.whatsapp.WaImageView android:layout_gravity="top" android:id="0x7f0b0cbf" android:layout_width="0x7f0710b9" android:layout_height="0x7f0710b9" android:layout_marginTop="0x7f070e0f" android:layout_marginEnd="0x7f070e09" app:NOT_FOUND_0xb="0x7f0809c7" app:NOT_FOUND_0xc="0x7f060626"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:layout_gravity="center_vertical" android:id="0x7f0b0cbe" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f1506bc"/>
+            <ViewStub android:id="0x7f0b0c95" android:layout="0x7f0e0511" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b0cc5" android:layout="0x7f0e0528" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e0d" android:layout_marginRight="0x7f070e09" android:NOT_FOUND_0xa="0x7f070e09"/>
+    <ViewStub android:id="0x7f0b0cbc" android:layout="0x7f0e0523" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e0d" android:layout_marginRight="0x7f070e09" android:NOT_FOUND_0xa="0x7f070e09"/>
+    <View android:layout_marginTop="0x7f070e0a" style="0x7f1503c5"/>
+</LinearLayout>

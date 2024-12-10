@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:background="0x7f080281" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x11="0">
+    <com.whatsapp.CircularProgressBar android:layout_gravity="center" android:id="0x7f0b1ac5" android:visibility="gone" android:layout_width="64dp" android:layout_height="64dp" android:indeterminateOnly="false" app:NOT_FOUND_0x8="0x7f060c13" app:NOT_FOUND_0x9="?unknown_attr_ref: 7f040d80" app:NOT_FOUND_0xa="0x7f060c13" app:NOT_FOUND_0xb="?unknown_attr_ref: 7f0400e2" app:NOT_FOUND_0xc="1dp" app:NOT_FOUND_0xd="5"/>
+    <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b05ce" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x12="0x7f080450"/>
+    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b08a5" android:text="0x7f1205e8" style="0x7f1501e4"/>
+</FrameLayout>

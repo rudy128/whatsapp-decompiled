@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.components.MainChildCoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x6="0x7f0b023d">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b023d" android:background="0x7f080b4b" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:background="0x7f080b4b" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <FrameLayout android:id="0x7f0b1788" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <include android:id="0x7f0b1ddc" layout="0x7f0e0cce"/>
+        </LinearLayout>
+        <include layout="0x7f0e0129"/>
+    </LinearLayout>
+</com.whatsapp.components.MainChildCoordinatorLayout>

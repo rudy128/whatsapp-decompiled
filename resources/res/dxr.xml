@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:id="0x7f0b1288" style="0x7f1502d7"/>
+    <com.whatsapp.InfoCard android:id="0x7f0b121f" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x5="?unknown_attr_ref: 7f0408ce" style="0x7f15029c">
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b1289" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x6="0x7f080ae1" app:NOT_FOUND_0x8="0x7f1201b7"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b0cfc" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x6="0x7f080467" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f04092d" app:NOT_FOUND_0x8="0x7f120c9e" app:NOT_FOUND_0x9="?unknown_attr_ref: 7f04092d"/>
+    </com.whatsapp.InfoCard>
+</LinearLayout>

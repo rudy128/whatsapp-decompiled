@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="0x7f070002">
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b1d68" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.WaImageView android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b1d63" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f12315e" app:NOT_FOUND_0xa="0x7f0803bb" app:NOT_FOUND_0xb="?unknown_attr_ref: 7f0406ac" style="?unknown_attr_ref: 7f040018"/>
+        <ViewStub android:id="0x7f0b063c" android:layout="0x7f0e08ba" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <androidx.appcompat.widget.SearchView android:layout_gravity="center_vertical" android:id="0x7f0b1de0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="0x7f0710fe" android:minWidth="25dp" android:iconifiedByDefault="false" style="0x7f15072f"/>
+    </LinearLayout>
+</merge>

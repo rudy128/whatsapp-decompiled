@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" style="0x7f150632"/>
+    <com.whatsapp.wds.components.list.header.WDSSectionHeader android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e09" android:layout_marginRight="0x7f070e09" android:layout_marginBottom="0x7f070e06" app:NOT_FOUND_0x13="0x7f1217e3"/>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b0303" android:paddingTop="0x7f070e06" android:paddingBottom="0x7f070e06" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="0x7f070e09" android:paddingEnd="0x7f070e0a">
+        <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:layout_gravity="center_vertical" android:id="0x7f0b0302" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="0x7f070e06"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="0x7f070e06" android:paddingEnd="0x7f070e06">
+            <com.whatsapp.WaTextView android:id="0x7f0b02ff" android:layout_width="match_parent" android:layout_height="wrap_content" style="?unknown_attr_ref: 7f040cef"/>
+            <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f121790" style="?unknown_attr_ref: 7f040cf5"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b1a31" android:paddingTop="0x7f070e06" android:paddingBottom="0x7f070e06" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="0x7f070e09" android:paddingEnd="0x7f070e0a">
+        <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:layout_gravity="center_vertical" android:id="0x7f0b1a30" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="0x7f070e06"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="0x7f070e06" android:paddingEnd="0x7f070e06">
+            <com.whatsapp.WaTextView android:id="0x7f0b1a33" android:layout_width="match_parent" android:layout_height="wrap_content" style="?unknown_attr_ref: 7f040cef"/>
+            <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1217e4" style="?unknown_attr_ref: 7f040cf5"/>
+            <ViewStub android:id="0x7f0b1a34" android:layout="0x7f0e0a57" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b1a32" android:layout="0x7f0e0a58" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

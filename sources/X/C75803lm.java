@@ -1,0 +1,44 @@
+package X;
+
+import android.os.Parcel;
+import android.os.Parcelable;
+
+/* renamed from: X.3lm  reason: invalid class name and case insensitive filesystem */
+public final class C75803lm extends C1416576l {
+    public static final Parcelable.Creator CREATOR = new Object();
+    public final boolean A00;
+
+    public final int describeContents() {
+        return 0;
+    }
+
+    public boolean equals(Object obj) {
+        return this == obj || ((obj instanceof C75803lm) && this.A00 == ((C75803lm) obj).A00);
+    }
+
+    public final void writeToParcel(Parcel parcel, int i) {
+        C18070vi.A0d(parcel, 0);
+        parcel.writeInt(this.A00 ? 1 : 0);
+    }
+
+    public boolean A00() {
+        return this.A00;
+    }
+
+    public int hashCode() {
+        if (this.A00) {
+            return 1231;
+        }
+        return 1237;
+    }
+
+    public C75803lm(boolean z) {
+        this.A00 = z;
+    }
+
+    public String toString() {
+        StringBuilder A10 = AnonymousClass000.A10();
+        A10.append("BonsaiOnboardingFabToMetaAi(needDefaultBot=");
+        return C17900vP.A0F(A10, this.A00);
+    }
+}

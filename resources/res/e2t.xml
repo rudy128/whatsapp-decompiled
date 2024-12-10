@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.WaTextView android:textAppearance="?unknown_attr_ref: 7f040b7b" android:id="0x7f0b1422" android:padding="0x7f0710fd" android:layout_width="0dp" android:layout_height="wrap_content" android:textAlignment="textStart" app:NOT_FOUND_0x9="0" app:NOT_FOUND_0xa="0" app:NOT_FOUND_0xc="0x7f0b09ed" app:NOT_FOUND_0xe="0" style="0x7f1506bc"/>
+    <com.whatsapp.WaImageButton android:id="0x7f0b09ed" android:background="?unknown_attr_ref: 7f0409fc" android:layout_width="0x7f07104b" android:layout_height="0x7f07104b" android:contentDescription="0x7f1231fa" android:layout_marginEnd="0x7f0710fd" app:NOT_FOUND_0x9="0" app:NOT_FOUND_0xb="0x7f0b1422" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0x7f080465" app:NOT_FOUND_0x10="?unknown_attr_ref: 7f040a3b"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

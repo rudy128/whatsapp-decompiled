@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="0x7f123417">
+    <com.whatsapp.preference.WaCheckBoxPreference android:persistent="false" android:title="0x7f123412" android:key="jid_use_custom" android:defaultValue="false" app:iconSpaceReserved="false"/>
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f12340b" android:key="notification" app:allowDividerAbove="false" app:iconSpaceReserved="false">
+        <com.whatsapp.preference.WaRingtonePreference android:persistent="false" android:title="0x7f123410" android:key="jid_message_tone" android:summary="0x7f123411" android:defaultValue="content://settings/system/notification_sound" app:allowDividerBelow="true" app:iconSpaceReserved="false"/>
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f030027" android:title="0x7f123415" android:key="jid_message_vibrate" android:summary="0x7f123416" android:defaultValue="1" android:entryValues="0x7f030028" app:allowDividerAbove="true" app:allowDividerBelow="true" app:iconSpaceReserved="false"/>
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f03001c" android:title="0x7f12340e" android:key="jid_message_popup" android:summary="0x7f12340f" android:defaultValue="0" android:entryValues="0x7f03001d" app:allowDividerAbove="true" app:allowDividerBelow="true" app:iconSpaceReserved="false"/>
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:title="0x7f12340c" android:key="jid_message_light" android:summary="0x7f12340d" android:defaultValue="FFFFFF" android:entryValues="0x7f030018" app:allowDividerAbove="true" app:allowDividerBelow="true" app:iconSpaceReserved="false"/>
+        <com.whatsapp.preference.WaCheckBoxPreference android:persistent="false" android:title="0x7f123413" android:key="jid_use_high_priority_notifications" android:summary="0x7f123414" android:defaultValue="true" app:allowDividerAbove="true" app:iconSpaceReserved="false"/>
+    </com.whatsapp.preference.WaPreferenceCategory>
+    <com.whatsapp.preference.WaPreferenceCategory android:title="0x7f1233ff" android:key="jid_call" app:allowDividerAbove="false" app:iconSpaceReserved="false">
+        <com.whatsapp.preference.WaRingtonePreference android:persistent="false" android:title="0x7f123400" android:key="jid_call_ringtone" android:summary="0x7f123401" android:defaultValue="content://settings/system/ringtone" app:allowDividerBelow="true" app:iconSpaceReserved="false"/>
+        <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f030027" android:title="0x7f123415" android:key="jid_call_vibrate" android:summary="0x7f123402" android:defaultValue="1" android:entryValues="0x7f030028" app:allowDividerAbove="true" app:allowDividerBelow="true" app:iconSpaceReserved="false"/>
+    </com.whatsapp.preference.WaPreferenceCategory>
+</PreferenceScreen>

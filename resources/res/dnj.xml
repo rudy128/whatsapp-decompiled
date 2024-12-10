@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b04e6" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:NOT_FOUND_0xd="3" style="?unknown_attr_ref: 7f04014e">
+    <androidx.appcompat.widget.ButtonBarLayout android:gravity="bottom" android:orientation="horizontal" android:paddingLeft="?unknown_attr_ref: 7f040311" android:paddingTop="0x7f071026" android:paddingRight="?unknown_attr_ref: 7f040311" android:paddingBottom="0x7f071026" android:layout_width="match_parent" android:layout_height="wrap_content" android:layoutDirection="locale">
+        <com.whatsapp.wds.components.button.WDSButton android:id="@android:id/button3" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?unknown_attr_ref: 7f04014c"/>
+        <android.widget.Space android:id="0x7f0b2005" android:visibility="?unknown_attr_ref: 7f04072e" android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="@android:id/button2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?unknown_attr_ref: 7f04014b"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="@android:id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?unknown_attr_ref: 7f04014d"/>
+    </androidx.appcompat.widget.ButtonBarLayout>
+</ScrollView>

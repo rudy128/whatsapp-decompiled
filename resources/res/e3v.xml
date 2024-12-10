@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_gravity="top" android:orientation="horizontal" android:id="0x7f0b157a" android:paddingLeft="0x7f070a44" android:paddingRight="0x7f070a44" android:baselineAligned="false" android:paddingStart="0x7f070a44" android:paddingEnd="0x7f070a44" style="?unknown_attr_ref: 7f04073c">
+        <FrameLayout android:id="0x7f0b157c" android:paddingLeft="0x7f070a4a" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:paddingStart="0x7f070a4a">
+            <include layout="0x7f0e0874"/>
+            <include layout="0x7f0e0873"/>
+        </FrameLayout>
+        <include layout="0x7f0e0875"/>
+    </LinearLayout>
+    <View android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="0x7f070a46" style="?unknown_attr_ref: 7f04073b"/>
+</merge>

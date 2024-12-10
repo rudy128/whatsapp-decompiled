@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingTop="0x7f071109" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="0x7f0710fd" app:NOT_FOUND_0x7="1" app:NOT_FOUND_0x8="?unknown_attr_ref: 7f0400f6" app:NOT_FOUND_0x9="true" app:NOT_FOUND_0xa="1200" app:NOT_FOUND_0xb="1" app:NOT_FOUND_0xc="0x7f060191" app:NOT_FOUND_0xd="0">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:id="0x7f0b247b" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1506bf"/>
+        <include layout="0x7f0e0d2e"/>
+        <ViewStub android:id="0x7f0b2475" android:layout="0x7f0e0d30" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b2474" android:layout="0x7f0e0d2f" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</com.facebook.shimmer.ShimmerFrameLayout>

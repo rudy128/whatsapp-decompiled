@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:id="0x7f0b12aa" style="?unknown_attr_ref: 7f0406dd"/>
+    <com.whatsapp.WaTextView android:id="0x7f0b0fd9" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" style="0x7f150343"/>
+</FrameLayout>

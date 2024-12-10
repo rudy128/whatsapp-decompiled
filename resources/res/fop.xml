@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1cf8" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:id="0x7f0b24d5" android:background="?unknown_attr_ref: 7f0400de" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b24d7" style="0x7f15041f"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <View android:id="0x7f0b24d8" android:background="?unknown_attr_ref: 7f0400de" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.whatsapp.status.playback.widget.StatusPlaybackPager android:id="0x7f0b17b9" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</FrameLayout>

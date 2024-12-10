@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:layout_marginTop="0x7f070e0b" android:layout_marginBottom="0x7f070e0b" android:NOT_FOUND_0x10="0x7f070e0b" style="0x7f1503c5"/>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b0ca3" android:background="?android:attr/selectableItemBackground" android:padding="0x7f070e09" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f0710b9">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:layout_width="0x7f0710bb" android:layout_height="0x7f0710bb" android:layout_marginEnd="0x7f070e09" app:NOT_FOUND_0x11="0x7f080465" app:NOT_FOUND_0x12="0x7f060dc4"/>
+        <com.whatsapp.WaTextView android:textColor="0x7f060dc4" android:layout_gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120f88" style="0x7f1504a5"/>
+    </LinearLayout>
+    <View android:layout_marginTop="0x7f070e0b" style="0x7f1503c5"/>
+    <com.whatsapp.WaTextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e09" android:layout_marginRight="0x7f070e09" android:layout_marginBottom="0x7f070e06" android:text="0x7f120fa7" android:NOT_FOUND_0xf="0x7f070e09" style="0x7f1506c0"/>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.WaImageButton android:id="0x7f0b1761" style="0x7f15032c"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b176a" android:text="0x7f1230ea" android:layout_alignTop="0x7f0b1761" android:layout_alignBottom="0x7f0b1761" style="0x7f15032d"/>
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b04ed" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <com.whatsapp.wds.components.button.WDSButton android:enabled="false" android:id="0x7f0b0954" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120bc3" style="0x7f150671"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b09d1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120c47" style="0x7f150679"/>
+        </LinearLayout>
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b1767" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_above="0x7f0b14e0" android:layout_below="0x7f0b176a" app:NOT_FOUND_0xf="androidx.recyclerview.widget.LinearLayoutManager"/>
+        <ViewStub android:id="0x7f0b14e0" android:layout="0x7f0e082e" android:inflatedId="0x7f0b14e0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+    <ProgressBar android:layout_gravity="center" android:id="0x7f0b1766" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyle"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

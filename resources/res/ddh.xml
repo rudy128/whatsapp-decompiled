@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" style="0x7f150632"/>
+    <ScrollView android:id="0x7f0b07a5" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_height="wrap_content" style="0x7f1501d1">
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0">
+                <com.whatsapp.wds.components.list.header.WDSSectionHeader android:paddingLeft="0x7f0710fd" android:paddingRight="0x7f0710fd" android:layout_width="match_parent" android:layout_height="wrap_content" android:NOT_FOUND_0xa="0x7f0710fd" app:NOT_FOUND_0xb="0x7f1209d6" app:NOT_FOUND_0xc="0"/>
+                <ViewStub android:id="0x7f0b07a4" android:layout="0x7f0e0298" android:inflatedId="0x7f0b07a4" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b07a3" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0x7f1231b6" app:NOT_FOUND_0x11="0x7f1209c8" app:NOT_FOUND_0x12="true"/>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</LinearLayout>

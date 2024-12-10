@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b0f09" android:background="?unknown_attr_ref: 7f0409fb" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f0704a1">
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b0f03" android:background="0x7f08023f" android:layout_width="0x7f07037a" android:layout_height="0x7f07037a" android:layout_marginLeft="0x7f07071f" android:scaleType="center" android:cropToPadding="false" app:NOT_FOUND_0x13="0x7f08065a" app:NOT_FOUND_0x14="?unknown_attr_ref: 7f040593"/>
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b0efd" android:paddingLeft="0x7f070821" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginRight="0x7f07071f" android:layout_marginBottom="10dp" android:layout_weight="1">
+            <com.whatsapp.WaTextView android:layout_gravity="left" android:id="0x7f0b0eff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1232b3" style="0x7f1502de"/>
+            <ProgressBar android:layout_gravity="center_vertical" android:id="0x7f0b0f06" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:progressTint="?unknown_attr_ref: 7f040777" android:indeterminateTint="?unknown_attr_ref: 7f040777" android:indeterminateTintMode="src_atop" style="?android:attr/progressBarStyleHorizontal"/>
+            <com.whatsapp.WaTextView android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b0efe" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1232b2" style="0x7f1502da"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

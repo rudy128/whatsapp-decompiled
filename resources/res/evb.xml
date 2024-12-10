@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0x7f0707d4" android:layout_marginTop="0x7f07011f" android:layout_marginBottom="0x7f07011f">
+    <com.whatsapp.WaImageView android:id="0x7f0b1199" android:layout_width="0x7f0707d4" android:layout_height="match_parent" android:layout_marginLeft="0x7f07110a" android:layout_marginRight="0x7f07110a" android:scaleType="fitCenter" android:layout_alignParentLeft="true"/>
+    <com.whatsapp.WaTextView android:gravity="center_vertical" android:id="0x7f0b119b" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_toRightOf="0x7f0b1199" style="0x7f1502c9"/>
+    <com.whatsapp.checkbox.RtlCheckBox android:layout_gravity="center" android:id="0x7f0b1198" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginRight="0x7f07110a" android:layout_alignParentRight="true" style="0x7f15035e"/>
+</RelativeLayout>

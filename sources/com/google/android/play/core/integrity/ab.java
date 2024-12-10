@@ -1,0 +1,16 @@
+package com.google.android.play.core.integrity;
+
+import X.C28524E5v;
+import X.C28666EDd;
+
+public final class ab implements C28666EDd {
+    public final C28524E5v a;
+
+    public ab(C28524E5v e5v) {
+        this.a = e5v;
+    }
+
+    public final /* bridge */ /* synthetic */ Object a() {
+        return new aa((aj) this.a.a());
+    }
+}

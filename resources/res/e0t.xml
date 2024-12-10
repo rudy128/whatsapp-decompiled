@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1403" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:id="0x7f0b02b2" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:id="0x7f0b17ba" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <View android:layout_gravity="top" android:id="0x7f0b22cb" android:background="0x7f08076d" android:layout_width="match_parent" android:layout_height="150dp"/>
+    <FrameLayout android:layout_gravity="top" android:id="0x7f0b22f0" android:background="0x7f06089b" android:layout_width="match_parent" android:layout_height="wrap_content" android:transitionName="0x7f123485">
+        <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" android:background="0x7f060c13" android:layout_width="match_parent" android:layout_height="0x7f070065" app:NOT_FOUND_0x8="0x7f150634" app:NOT_FOUND_0x9="0x7f1501ff"/>
+    </FrameLayout>
+    <View android:layout_gravity="top" android:id="0x7f0b13d7" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123488"/>
+    <View android:layout_gravity="bottom" android:id="0x7f0b13d6" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123487"/>
+    <View android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b13d8" android:layout_width="0dp" android:layout_height="0dp" android:transitionName="0x7f12348b"/>
+    <View android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123484"/>
+    <com.whatsapp.components.InsetsDrawingView android:id="0x7f0b10ea" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:id="0x7f0b1400" android:layout="0x7f0e0800" android:inflatedId="0x7f0b1400" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

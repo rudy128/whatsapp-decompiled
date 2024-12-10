@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+    <View android:id="0x7f0b1817" android:background="0x7f0802f1" android:visibility="invisible" android:layout_width="116dp" android:layout_height="74dp" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x12="0"/>
+    <androidx.cardview.widget.CardView android:id="0x7f0b1816" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xa="?unknown_attr_ref: 7f0403b7" app:NOT_FOUND_0xb="4dp" app:NOT_FOUND_0xc="0dp" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0">
+        <com.whatsapp.WaImageView android:id="0x7f0b02b6" android:layout_width="112dp" android:layout_height="70dp" android:scaleType="fitXY"/>
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b1cb5" android:background="0x7f080281" android:visibility="gone" android:layout_width="0x7f07061f" android:layout_height="0x7f07061e" android:scaleType="center" app:NOT_FOUND_0x13="0x7f08047c"/>
+        <ProgressBar android:layout_gravity="center" android:id="0x7f0b0213" android:visibility="gone" android:layout_width="0x7f070621" android:layout_height="0x7f070620" android:indeterminate="true"/>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:layout_gravity="center_horizontal" android:id="0x7f0b15db" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070a97" android:layout_marginBottom="0x7f070a98">
+        <View android:layout_gravity="center" android:id="0x7f0b15da" android:layout_width="0dp" android:layout_height="0dp"/>
+        <ImageView android:layout_gravity="center" android:id="0x7f0b15dc" android:duplicateParentState="true" android:layout_width="0x7f070a96" android:layout_height="0x7f070a96" android:contentDescription="@null"/>
+    </FrameLayout>
+    <com.google.android.material.internal.BaselineLayout android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b15dd" android:paddingBottom="0x7f070a98" android:duplicateParentState="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="0x7f070a99" android:ellipsize="end" android:id="0x7f0b15df" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1"/>
+        <TextView android:textSize="0x7f070a91" android:ellipsize="end" android:id="0x7f0b15de" android:visibility="invisible" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1"/>
+    </com.google.android.material.internal.BaselineLayout>
+</merge>

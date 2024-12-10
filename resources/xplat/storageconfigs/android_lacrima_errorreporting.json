@@ -1,0 +1,12 @@
+{
+  "type": "path",
+  "oncall": "android_lacrima",
+  "path": {
+    "name": "errorreporting",
+    "location": "PERSISTENT_ROOT"
+  },
+  "privacy": "NOT_SCOPED",
+  "description": "errorreporting",
+  "name": "android_lacrima_errorreporting",
+  "id": 172453231
+}

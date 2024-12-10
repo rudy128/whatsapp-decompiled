@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="0x7f080175" android:paddingLeft="0x7f070c59" android:paddingTop="0x7f070c59" android:paddingRight="0x7f070c59" android:paddingBottom="0x7f070c59" android:layout_width="match_parent" android:layout_height="273dp" android:layout_marginLeft="0x7f070c60" android:layout_marginRight="0x7f070c60" android:paddingStart="0x7f070c59" android:paddingEnd="0x7f070c59" android:layout_marginStart="0x7f070c60" android:layout_marginEnd="0x7f070c60" style="0x7f15015e">
+    <com.facebook.shimmer.ShimmerFrameLayout android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f15015e">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <View android:id="0x7f0b04ca" android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070523" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x16="0"/>
+            <View android:id="0x7f0b0153" android:background="0x7f0801be" android:layout_width="wrap_content" android:layout_height="0x7f070523" android:layout_marginTop="4dp" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0x7f0b04ca"/>
+            <androidx.appcompat.widget.LinearLayoutCompat android:id="0x7f0b0639" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0x7f0b0153">
+                <View android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070523" android:layout_weight="1"/>
+                <View android:background="0x7f0801be" android:visibility="invisible" android:layout_width="0dp" android:layout_height="0x7f070523" android:layout_weight="1"/>
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <androidx.appcompat.widget.LinearLayoutCompat android:orientation="horizontal" android:id="0x7f0b061e" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="12dp" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0x7f0b0639">
+                <View android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070506" android:layout_marginRight="2dp" android:layout_weight="1"/>
+                <View android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070506" android:layout_marginRight="2dp" android:layout_weight="1"/>
+                <View android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070506" android:layout_weight="1"/>
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <androidx.appcompat.widget.LinearLayoutCompat android:id="0x7f0b23a2" android:layout_width="match_parent" android:layout_height="0x7f070523" android:layout_marginTop="8dp" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0x7f0b061e">
+                <View android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070523" android:layout_weight="3"/>
+                <View android:background="0x7f0801be" android:visibility="invisible" android:layout_width="0dp" android:layout_height="0x7f070523" android:layout_weight="1"/>
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <androidx.appcompat.widget.LinearLayoutCompat android:id="0x7f0b1c90" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0x7f0b23a2">
+                <View android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070523" android:layout_weight="1"/>
+                <View android:background="0x7f0801be" android:visibility="invisible" android:layout_width="0dp" android:layout_height="0x7f070523" android:layout_weight="1"/>
+            </androidx.appcompat.widget.LinearLayoutCompat>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+</FrameLayout>

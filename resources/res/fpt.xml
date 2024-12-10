@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center_horizontal" android:paddingLeft="20dp" android:paddingTop="22dp" android:paddingRight="20dp" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b0e34" android:paddingLeft="4dp" android:paddingTop="0x7f071104" android:paddingRight="4dp" android:paddingBottom="0x7f071104" android:clipChildren="false" android:clipToPadding="false" android:layout_width="0x7f070e4d" android:layout_height="0x7f070e4c" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0">
+        <com.google.android.material.button.MaterialButtonToggleGroup android:layout_gravity="center_vertical" android:id="0x7f0b1b86" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0x13="true" app:NOT_FOUND_0x14="true">
+            <com.google.android.material.button.MaterialButton android:id="0x7f0b0bd0" android:paddingLeft="19dp" android:paddingRight="15dp" android:visibility="visible" android:layout_weight="1" android:contentDescription="0x7f123246" app:NOT_FOUND_0xe="0x7f080a56" style="0x7f15042b"/>
+            <com.google.android.material.button.MaterialButton android:id="0x7f0b02a0" android:paddingLeft="16dp" android:paddingRight="19dp" android:visibility="visible" android:layout_weight="1" android:contentDescription="0x7f12315d" app:NOT_FOUND_0xe="0x7f080624" style="0x7f15042b"/>
+        </com.google.android.material.button.MaterialButtonToggleGroup>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

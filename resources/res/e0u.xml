@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b008c" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b22c6" android:background="?unknown_attr_ref: 7f0409fb" android:paddingBottom="0x7f071104" android:clickable="true" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="0x7f0b1ac5" android:layout_centerVertical="true" android:animateLayoutChanges="true">
+        <com.whatsapp.TextEmojiLabel android:ellipsize="end" android:gravity="left" android:layout_gravity="left" android:id="0x7f0b0834" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:lines="1" android:scrollHorizontally="true" android:shadowColor="0x7f06089c" android:shadowDx="0" android:shadowDy="0" android:shadowRadius="5" style="0x7f1504f9"/>
+        <LinearLayout android:layout_gravity="left" android:orientation="horizontal" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="false">
+            <com.whatsapp.WaTextView android:ellipsize="end" android:layout_gravity="left" android:id="0x7f0b09a6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:lines="1" android:shadowColor="0x7f06089c" android:shadowDx="0" android:shadowDy="0" android:shadowRadius="5" style="0x7f1504f6"/>
+            <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:enabled="false" android:orientation="horizontal" android:id="0x7f0b1ac5" android:paddingLeft="0x7f071104" android:paddingRight="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:paddingStart="0x7f071104" android:paddingEnd="8dp" android:layout_alignParentEnd="true" style="0x7f150006">
+        <com.whatsapp.CircularProgressBar android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="24dp" android:layout_height="24dp" android:indeterminateOnly="true" app:NOT_FOUND_0x1f="0x7f060c13" app:NOT_FOUND_0x20="?unknown_attr_ref: 7f040d35" app:NOT_FOUND_0x21="4"/>
+    </LinearLayout>
+</RelativeLayout>

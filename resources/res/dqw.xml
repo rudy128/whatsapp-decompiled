@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1095" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" app:NOT_FOUND_0x9="0x7f123324" app:NOT_FOUND_0xa="0x7f1504f8" style="0x7f150632"/>
+    <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b1096" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x8="0x7f080aeb"/>
+    <ViewStub android:id="0x7f0b1093" android:layout="0x7f0e0670" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.whatsapp.TextEmojiLabel android:id="0x7f0b1094" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e06" android:layout_marginStart="0x7f070e0d" android:layout_marginEnd="0x7f070e0d" style="0x7f1506c0"/>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b22f2" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" android:background="?unknown_attr_ref: 7f040bde" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?unknown_attr_ref: 7f040010" app:NOT_FOUND_0x9="0x7f1506a6" app:NOT_FOUND_0xa="0x7f15062f"/>
+    <com.whatsapp.wds.components.search.WDSSearchView android:id="0x7f0b25e6" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010" android:hint="0x7f1224c1" android:navigationIcon="?unknown_attr_ref: 7f0405ce" app:NOT_FOUND_0x8="true" style="0x7f15069f"/>
+</merge>

@@ -1,0 +1,38 @@
+package X;
+
+/* renamed from: X.435  reason: invalid class name */
+public final class AnonymousClass435 extends C83294Eo {
+    public final String A00;
+    public final String A01;
+
+    public AnonymousClass435(String str, String str2) {
+        C18070vi.A0d(str2, 2);
+        this.A00 = str;
+        this.A01 = str2;
+    }
+
+    public boolean equals(Object obj) {
+        if (this != obj) {
+            if (obj instanceof AnonymousClass435) {
+                AnonymousClass435 r5 = (AnonymousClass435) obj;
+                if (!C18070vi.A18(this.A00, r5.A00) || !C18070vi.A18(this.A01, r5.A01)) {
+                    return false;
+                }
+            }
+            return false;
+        }
+        return true;
+    }
+
+    public int hashCode() {
+        return C17880vN.A03(this.A00) + this.A01.hashCode();
+    }
+
+    public String toString() {
+        StringBuilder A10 = AnonymousClass000.A10();
+        A10.append("SingleSelectDownloadedLanguageItem(language=");
+        A10.append(this.A00);
+        A10.append(", languageTag=");
+        return C17900vP.A0B(this.A01, A10);
+    }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0164" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" style="0x7f15029c">
+    <FrameLayout android:background="?unknown_attr_ref: 7f0408ce" android:paddingLeft="0x7f070e09" android:paddingRight="0x7f070e09" style="0x7f150263">
+        <com.whatsapp.WaTextView android:ellipsize="end" android:text="0x7f121ff9" android:singleLine="true" style="0x7f150266"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b0165" style="0x7f150264"/>
+    </FrameLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b0166" android:background="?unknown_attr_ref: 7f0408ce" android:paddingTop="0x7f070e0c" android:paddingBottom="0x7f070e07" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</com.whatsapp.InfoCard>

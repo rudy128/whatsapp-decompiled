@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.button.MaterialButtonToggleGroup xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1387" android:visibility="gone" android:layout_width="0x7f0709a1" android:layout_height="0x7f07099e" android:contentDescription="0x7f1232fa" app:NOT_FOUND_0x9="0x7f0b1385" app:NOT_FOUND_0xa="true" app:NOT_FOUND_0xb="true">
+    <com.google.android.material.button.MaterialButton android:id="0x7f0b1385" android:layout_width="wrap_content" android:text="0x7f123308" android:insetTop="8dp" style="?unknown_attr_ref: 7f040733"/>
+    <com.google.android.material.button.MaterialButton android:id="0x7f0b1386" android:layout_width="wrap_content" android:text="0x7f12330c" android:insetBottom="8dp" style="?unknown_attr_ref: 7f040733"/>
+</com.google.android.material.button.MaterialButtonToggleGroup>

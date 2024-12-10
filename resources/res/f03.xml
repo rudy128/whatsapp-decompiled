@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textfield.TextInputEditText xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:theme="0x7f1506ea" android:textColor="?unknown_attr_ref: 7f0408cf" android:id="0x7f0b223b" android:layout_width="match_parent" android:layout_height="wrap_content" android:imeOptions="flagNoExtractUi"/>

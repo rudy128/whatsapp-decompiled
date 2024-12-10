@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.chip.Chip xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:textColor="0x7f060db0" android:id="0x7f0b1d81" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="0x7f070d16" app:NOT_FOUND_0x5="0x7f060c13" app:NOT_FOUND_0x6="0x7f0602da" app:NOT_FOUND_0x7="1dp" app:NOT_FOUND_0x8="false"/>

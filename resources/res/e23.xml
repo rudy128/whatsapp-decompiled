@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:background="0x7f0608b9" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.calling.wds.CallingMediaWDSButton android:layout_gravity="center_vertical" android:id="0x7f0b15ab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0709ff" android:layout_marginTop="0x7f070a00" android:layout_marginRight="0x7f0709ff" android:layout_marginBottom="0x7f070a00" app:NOT_FOUND_0x15="0x7f0806a5" app:NOT_FOUND_0x17="1"/>
+    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b22ca" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:importantForAccessibility="yes">
+        <ViewStub android:id="0x7f0b0247" android:layout="0x7f0e07be" android:inflatedId="0x7f0b0246" android:layout_width="0x7f070868" android:layout_height="0x7f070866" android:layout_marginEnd="0x7f070e06"/>
+        <ViewStub android:id="0x7f0b0b08" android:layout="0x7f0e0dbc" android:layout_width="0x7f070868" android:layout_height="0x7f070866" android:layout_marginEnd="0x7f070e06"/>
+        <ViewStub android:id="0x7f0b0521" android:layout="0x7f0e0851" android:layout_width="0x7f0709fe" android:layout_height="0x7f0709fd" android:layout_marginEnd="0x7f070e0b"/>
+        <com.whatsapp.WaTextView android:textColor="0x7f0608ba" android:ellipsize="middle" android:id="0x7f0b22b0" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="0x7f1506bf"/>
+    </LinearLayout>
+    <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center_vertical" android:id="0x7f0b0c3f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0709ff" android:layout_marginTop="0x7f070a00" android:layout_marginRight="0x7f0709ff" android:layout_marginBottom="0x7f070a00" app:NOT_FOUND_0x14="4" app:NOT_FOUND_0x15="0x7f0809db" app:NOT_FOUND_0x16="true" app:NOT_FOUND_0x17="1"/>
+</merge>

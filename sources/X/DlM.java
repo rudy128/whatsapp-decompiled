@@ -1,0 +1,15 @@
+package X;
+
+public final class DlM extends AnonymousClass11G implements C18090vk {
+    public final /* synthetic */ C25622Cj2 this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public DlM(C25622Cj2 cj2) {
+        super(0);
+        this.this$0 = cj2;
+    }
+
+    public /* bridge */ /* synthetic */ Object invoke() {
+        return this.this$0.A05.get();
+    }
+}

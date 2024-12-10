@@ -1,0 +1,25 @@
+package X;
+
+/* renamed from: X.8m6  reason: invalid class name */
+public final class AnonymousClass8m6 extends AnonymousClass9XE {
+    public final AnonymousClass9MB A00;
+
+    public boolean equals(Object obj) {
+        return this == obj || ((obj instanceof AnonymousClass8m6) && C18070vi.A18(this.A00, ((AnonymousClass8m6) obj).A00));
+    }
+
+    public int hashCode() {
+        return this.A00.hashCode();
+    }
+
+    public AnonymousClass8m6(AnonymousClass9MB r2) {
+        super(C18460wS.A00);
+        this.A00 = r2;
+    }
+
+    public String toString() {
+        StringBuilder A10 = AnonymousClass000.A10();
+        A10.append("FailedStartSearch(failureType=");
+        return AnonymousClass001.A1F(this.A00, A10);
+    }
+}

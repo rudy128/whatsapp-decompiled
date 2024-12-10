@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:id="0x7f0b120d" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp">
+        <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center" android:id="0x7f0b120c" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+        <View android:layout_gravity="center" android:id="0x7f0b10d7" android:background="?unknown_attr_ref: 7f0400de" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.whatsapp.text.ShadowDimsTextView android:textSize="0x7f0710a0" android:textColor="?unknown_attr_ref: 7f040d35" android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="center" android:id="0x7f0b10d6" android:paddingBottom="0x7f071100" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="50dp" android:layout_marginRight="50dp" android:text="0x7f1232ce" android:drawableTop="0x7f0805cf" android:drawablePadding="6dp" android:layout_marginStart="50dp" android:layout_marginEnd="50dp" app:NOT_FOUND_0x1d="0x7f0609da" app:NOT_FOUND_0x1e="1dp" app:NOT_FOUND_0x1f="6dp"/>
+        <com.whatsapp.CircularProgressBar android:layout_gravity="center" android:id="0x7f0b120b" android:layout_width="80dp" android:layout_height="80dp" android:indeterminateOnly="true" app:NOT_FOUND_0x17="0x7f060c13" app:NOT_FOUND_0x18="0x7f06090c" app:NOT_FOUND_0x19="0x7f060c13" app:NOT_FOUND_0x1a="0x7f06090d" app:NOT_FOUND_0x1b="1dp" app:NOT_FOUND_0x1c="10"/>
+        <FrameLayout android:layout_gravity="center" android:id="0x7f0b19a0" android:background="0x7f080281" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b199d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f122165" app:NOT_FOUND_0x20="0x7f08068d"/>
+        </FrameLayout>
+        <com.whatsapp.WaImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="0x7f0b1313" android:padding="0x7f070773" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f121baa"/>
+    </FrameLayout>
+</merge>

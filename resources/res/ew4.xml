@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?unknown_attr_ref: 7f0409fb" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageView android:id="0x7f0b0a49" android:layout_width="40dp" android:layout_height="40dp" android:scaleType="fitCenter" app:NOT_FOUND_0xf="0x7f08026a"/>
+            <com.whatsapp.WaImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b21c1" android:background="0x7f080202" android:padding="1.4dp" android:visibility="gone" android:layout_width="14dp" android:layout_height="14dp" app:NOT_FOUND_0xf="0x7f080658"/>
+            <com.whatsapp.WaImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b0c75" android:background="0x7f080202" android:padding="0.1dp" android:visibility="gone" android:layout_width="14dp" android:layout_height="14dp" app:NOT_FOUND_0xf="0x7f080492"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_weight="1">
+            <com.whatsapp.WaTextView android:id="0x7f0b15c7" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1502df"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b205a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3dp" android:maxLines="2" android:singleLine="false" style="0x7f1502dc"/>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

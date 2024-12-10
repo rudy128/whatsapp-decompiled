@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.WaTextView android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="0x7f0b12a6" android:layout_width="match_parent" android:layout_height="match_parent" android:text="0x7f121604" android:layout_marginStart="0x7f0710fe" style="0x7f1506c0"/>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="0x7f0b12ae" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="0x7f0710fd">
+            <com.whatsapp.WaEditText android:textColor="?unknown_attr_ref: 7f0408cf" android:id="0x7f0b12ac" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="0x7f121606" android:inputType="text" android:privateImeOptions="disableSticker=true;disableGifKeyboard=true" android:imeOptions="actionDone" android:textAlignment="viewStart" style="0x7f1506bc"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409e9" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:id="0x7f0b12ad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="0x7f07104f"/>
+        </FrameLayout>
+        <com.whatsapp.WaImageButton android:layout_gravity="center" android:id="0x7f0b1290" android:layout_width="48dp" android:layout_height="48dp" android:contentDescription="0x7f123245" android:layout_marginStart="0x7f071104" android:layout_marginEnd="0x7f0710ff" app:NOT_FOUND_0x13="0x7f080513" app:NOT_FOUND_0x14="0x7f06061a" style="0x7f150006"/>
+    </LinearLayout>
+    <com.whatsapp.WaTextView android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="0x7f0b0307" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="0x7f071108" android:text="0x7f121608" android:layout_marginStart="0x7f0710fe" style="0x7f1506c0"/>
+</LinearLayout>

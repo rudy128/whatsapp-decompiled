@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingLeft="0x7f07110a" android:paddingRight="0x7f07110a" android:paddingBottom="0x7f071109" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.google.android.material.card.MaterialCardView android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f0710fd" app:NOT_FOUND_0xe="0dp" app:NOT_FOUND_0xf="0x7f071108" app:NOT_FOUND_0x11="?unknown_attr_ref: 7f040d51" app:NOT_FOUND_0x12="1sp">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <FrameLayout android:id="0x7f0b06a3" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f040d4a" android:gravity="center" android:id="0x7f0b169a" android:paddingTop="0x7f071109" android:paddingBottom="0x7f071109" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f1506be"/>
+                <com.whatsapp.wds.components.button.WDSButtonGroup android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x10="2">
+                    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1624" android:paddingBottom="0x7f071108" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f12196f" app:NOT_FOUND_0xc="1" app:NOT_FOUND_0x13="2"/>
+                    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b167b" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f121a41" app:NOT_FOUND_0x13="2"/>
+                </com.whatsapp.wds.components.button.WDSButtonGroup>
+            </LinearLayout>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</FrameLayout>

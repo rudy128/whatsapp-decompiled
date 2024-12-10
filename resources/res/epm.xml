@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.WaTextView android:gravity="center" android:id="0x7f0b051d" android:background="?unknown_attr_ref: 7f0408ce" android:paddingTop="0x7f070e09" android:paddingBottom="0x7f070e09" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1205f4"/>
+    <View android:id="0x7f0b1288" style="0x7f1502d7"/>
+    <com.whatsapp.InfoCard android:id="0x7f0b121f" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xc="?unknown_attr_ref: 7f0408ce" style="0x7f15029c">
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b0d93" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f080a13" app:NOT_FOUND_0x10="0x7f1210be"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b1293" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f080ae1" app:NOT_FOUND_0x10="0x7f1201b7"/>
+        <ViewStub android:id="0x7f0b00bc" android:layout="0x7f0e003b" android:inflatedId="0x7f0b1bf9" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b0cfc" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f08054d" app:NOT_FOUND_0xe="?unknown_attr_ref: 7f04092d" app:NOT_FOUND_0x10="0x7f12100f" app:NOT_FOUND_0x11="?unknown_attr_ref: 7f04092d"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b1c2f" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f08065d" app:NOT_FOUND_0xe="?unknown_attr_ref: 7f04092d" app:NOT_FOUND_0xf="false" app:NOT_FOUND_0x10="0x7f1223a1" app:NOT_FOUND_0x11="?unknown_attr_ref: 7f04092d"/>
+    </com.whatsapp.InfoCard>
+</LinearLayout>

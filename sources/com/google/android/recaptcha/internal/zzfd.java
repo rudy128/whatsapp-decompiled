@@ -1,0 +1,19 @@
+package com.google.android.recaptcha.internal;
+
+import X.AnonymousClass000;
+
+public final class zzfd extends zzfe {
+    public static final zzfd zza = new Object();
+
+    public final int hashCode() {
+        return 2040732332;
+    }
+
+    public final String toString() {
+        return "Optional.absent()";
+    }
+
+    public final boolean equals(Object obj) {
+        return AnonymousClass000.A1Z(obj, this);
+    }
+}

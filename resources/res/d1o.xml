@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <View android:id="0x7f0b0fdd" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123488"/>
+    <View android:id="0x7f0b0e36" android:layout_width="match_parent" android:layout_height="0dp" android:layout_alignParentBottom="true" android:transitionName="0x7f123487"/>
+    <View android:id="0x7f0b0dcc" android:layout_width="0dp" android:layout_height="0dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:transitionName="0x7f123486"/>
+    <View android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b1e8d" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginRight="44dp" android:layout_alignParentBottom="true" android:layout_marginEnd="44dp" android:layout_alignParentEnd="true" android:transitionName="0x7f12348b"/>
+</merge>

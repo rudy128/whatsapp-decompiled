@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="0x7f0b1c73" android:padding="0x7f07110a" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:gravity="center" android:id="0x7f0b1c72" android:paddingBottom="0x7f0710fd" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f121a39" style="0x7f1506c3"/>
+        <RadioGroup android:id="0x7f0b1c70" android:paddingLeft="0x7f070e06" android:paddingRight="0x7f070e06" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <com.whatsapp.wds.components.button.WDSButton android:enabled="false" android:id="0x7f0b1c71" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1223f6" android:fontFamily="?unknown_attr_ref: 7f04056b"/>
+    </LinearLayout>
+</ScrollView>

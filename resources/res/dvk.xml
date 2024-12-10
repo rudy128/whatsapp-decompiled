@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:id="0x7f0b025f" android:background="?android:attr/selectableItemBackground" android:paddingTop="16dp" android:paddingBottom="16dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:layout_gravity="left|center_vertical|center_horizontal|center" android:paddingLeft="28dp" android:paddingRight="28dp" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x12="0x7f0804e4" app:NOT_FOUND_0x13="?unknown_attr_ref: 7f040a0b"/>
+        <com.whatsapp.WaTextView android:ellipsize="none" android:gravity="center_vertical" android:layout_gravity="left|center_vertical|center_horizontal|center" android:paddingLeft="0x7f071101" android:paddingRight="86dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1202e1" android:singleLine="false" style="?unknown_attr_ref: 7f040a26"/>
+        <com.whatsapp.wds.components.toggle.WDSSwitch android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="0x7f0b0262" android:paddingLeft="24dp" android:paddingRight="24dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <View android:id="0x7f0b025e" android:background="?unknown_attr_ref: 7f040a09" android:visibility="visible" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+    <ViewStub android:id="0x7f0b0260" android:inflatedId="0x7f0b0260" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070d97" android:layout_marginRight="0x7f070d97"/>
+</LinearLayout>

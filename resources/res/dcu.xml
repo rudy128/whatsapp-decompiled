@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="0x7f0b13a6" android:paddingLeft="0x7f070c1f" android:paddingTop="0x7f070c1f" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <include layout="0x7f0e0b9f"/>
+    <LinearLayout android:gravity="left" android:orientation="vertical" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710fe" android:layout_marginTop="4dp">
+        <RelativeLayout android:id="0x7f0b13a0" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.TextEmojiLabel android:id="0x7f0b139f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:singleLine="false" style="0x7f150309"/>
+            <com.whatsapp.TextEmojiLabel android:id="0x7f0b13a1" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="0x7f0b139f" style="0x7f150309"/>
+            <ViewStub android:id="0x7f0b139a" android:layout="0x7f0e07d9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignRight="0x7f0b139f" android:layout_centerVertical="true"/>
+        </RelativeLayout>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textStyle="normal" android:textColor="?unknown_attr_ref: 7f040a23" android:gravity="center" android:id="0x7f0b1aad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:lines="1" style="0x7f1502da"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textStyle="normal" android:textColor="?unknown_attr_ref: 7f040a23" android:gravity="center" android:id="0x7f0b13a5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:maxLines="2" android:singleLine="false" app:NOT_FOUND_0x15="?unknown_attr_ref: 7f040569" style="0x7f1502da"/>
+    </LinearLayout>
+</LinearLayout>

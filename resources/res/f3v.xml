@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="0x7f080632" android:id="0x7f0b1430" android:title="0x7f123194" app:showAsAction="ifRoom"/>
+    <item android:icon="0x7f080486" android:id="0x7f0b1433" android:title="0x7f123232" app:showAsAction="ifRoom"/>
+    <item android:icon="0x7f08052c" android:id="0x7f0b1444" android:title="0x7f123198" app:showAsAction="ifRoom"/>
+</menu>

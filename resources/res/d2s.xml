@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.wds.components.banners.WDSBanner xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b02da" android:layout_marginLeft="0x7f071033" android:layout_marginRight="0x7f071033" style="0x7f15068e"/>

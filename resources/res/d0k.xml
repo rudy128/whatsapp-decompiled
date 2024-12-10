@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0x7f070e09">
+        <com.whatsapp.WaImageView android:gravity="center_vertical" android:id="0x7f0b056c" android:layout_width="0x7f070e0d" android:layout_height="0x7f070e0d" android:tint="0x7f060626" android:contentDescription="0x7f12319f" app:NOT_FOUND_0xe="0x7f080446"/>
+        <com.whatsapp.TextEmojiLabel android:textAppearance="0x7f1506bd" android:gravity="center_horizontal" android:layout_gravity="center" android:id="0x7f0b056f" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <View style="0x7f1503bf"/>
+    <com.whatsapp.TextEmojiLabel android:textAppearance="0x7f1506bf" android:textColor="0x7f060db0" android:id="0x7f0b056e" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0x7f070e09"/>
+    <RadioGroup android:layout_gravity="center_vertical" android:id="0x7f0b056d" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginRight="0x7f070e09" android:layout_marginBottom="0x7f070e09"/>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="left" android:orientation="horizontal" android:id="0x7f0b13e7" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="0x7f0709d3">
+    <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f040d35" android:layout_gravity="center_vertical" android:id="0x7f0b1ba5" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x14="?unknown_attr_ref: 7f04056b"/>
+    <HorizontalScrollView android:layout_gravity="center_vertical" android:id="0x7f0b1ba3" android:scrollbars="none" android:fadingEdge="horizontal" android:fadingEdgeLength="60dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0709d4" android:layout_marginRight="0x7f0709d5" android:requiresFadingEdge="horizontal" android:importantForAccessibility="yes">
+        <com.google.android.material.chip.ChipGroup android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b1b9a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="locale" app:NOT_FOUND_0x13="0x7f070e06"/>
+    </HorizontalScrollView>
+</LinearLayout>

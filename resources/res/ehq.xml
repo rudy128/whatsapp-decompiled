@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0bd9" android:paddingLeft="0x7f0705ad" android:paddingRight="0x7f0705ad" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:layout_gravity="center_horizontal" android:id="0x7f0b0bdc" android:paddingTop="0x7f0705ac" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.whatsapp.WaTextView android:textSize="20sp" android:gravity="center" android:id="0x7f0b0be0" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120989" style="0x7f15021c"/>
+    <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:gravity="center" android:id="0x7f0b0bda" android:paddingTop="0x7f070e06" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f12098b" style="0x7f150441"/>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="0x7f0b0bdd" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0705e5">
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:gravity="center" android:id="0x7f0b0bdf" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false"/>
+        <com.whatsapp.WaImageView android:gravity="center" android:id="0x7f0b0bde" android:layout_width="wrap_content" android:layout_height="0x7f0705e3" android:scaleType="centerCrop" android:layout_marginStart="0x7f0705e4" app:NOT_FOUND_0x11="0x7f0801fd" app:NOT_FOUND_0x12="?unknown_attr_ref: 7f040d4d"/>
+    </LinearLayout>
+    <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b0bd8" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e11" android:layout_marginBottom="0x7f070e07" android:text="0x7f12098a" style="0x7f150671"/>
+</LinearLayout>

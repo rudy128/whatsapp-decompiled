@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.WaImageView android:id="0x7f0b1186" android:background="0x7f08084c" app:NOT_FOUND_0x9="0x7f08052c" app:NOT_FOUND_0xa="?unknown_attr_ref: 7f0405f1" style="0x7f1502d9"/>
+    <com.whatsapp.WaTextView android:id="0x7f0b1187" android:paddingRight="0x7f070e0f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f121529" android:singleLine="false" android:layout_toRightOf="0x7f0b1186" android:layout_centerVertical="true" style="0x7f1502de"/>
+</merge>

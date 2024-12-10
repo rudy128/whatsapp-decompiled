@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070ecb">
+    <com.whatsapp.WaNetworkResourceImageView android:id="0x7f0b2192" android:layout_width="0x7f070ec8" android:layout_height="0x7f070ec8" android:layout_marginLeft="0x7f070ec9" android:layout_marginRight="0x7f070eca" android:layout_centerVertical="true" android:layout_marginStart="0x7f070ec9" android:layout_marginEnd="0x7f070eca"/>
+    <TextView android:textSize="0x7f071098" android:id="0x7f0b2194" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="0x7f0b2192" android:layout_toEndOf="0x7f0b2192"/>
+    <TextView android:textSize="0x7f0710a0" android:id="0x7f0b2193" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="0x7f0b2192" android:layout_below="0x7f0b2194" android:layout_toEndOf="0x7f0b2192"/>
+</RelativeLayout>

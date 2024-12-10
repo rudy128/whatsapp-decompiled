@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:padding="0x7f07110a" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.WaImageView android:layout_gravity="center" android:layout_width="24sp" android:layout_height="24sp" android:layout_marginBottom="0x7f0710fd" android:tint="?unknown_attr_ref: 7f040239" app:NOT_FOUND_0x11="0x7f080439"/>
+    <com.whatsapp.WaTextView android:textAppearance="0x7f1506c2" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12239d"/>
+    <com.whatsapp.WaTextView android:textAppearance="0x7f1506be" android:textColor="0x7f060db0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710fd" android:layout_marginBottom="0x7f0710fd" android:text="0x7f12239b"/>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:background="0x7f080872" android:padding="0x7f071108" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="?unknown_attr_ref: 7f040d30" android:layout_marginEnd="0x7f071109" app:NOT_FOUND_0x11="0x7f080610"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0408cf" android:layout_gravity="center_vertical" android:id="0x7f0b1c41" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="4sp"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center|end" android:layout_gravity="end" android:orientation="horizontal" android:id="0x7f0b1c3f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f07110a">
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1c42" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12239e" android:layout_marginEnd="0x7f071108" app:NOT_FOUND_0x12="3"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1c40" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12239a" app:NOT_FOUND_0x12="3"/>
+    </LinearLayout>
+</LinearLayout>

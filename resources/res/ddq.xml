@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <androidx.constraintlayout.widget.ConstraintLayout android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b0889" android:padding="0x7f07110a" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x15="0x7f0b009d" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0">
+            <com.whatsapp.WaImageView android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="0x7f0b162f" android:layout_width="0x7f0710c4" android:layout_height="0x7f0710c4"/>
+            <com.whatsapp.WaTextView android:textAppearance="0x7f1506c2" android:gravity="center_horizontal" android:id="0x7f0b0fdc" android:paddingTop="0x7f071109" android:paddingBottom="0x7f071109" android:layout_width="match_parent" android:layout_height="wrap_content" android:NOT_FOUND_0x13="0x7f071109"/>
+            <androidx.fragment.app.FragmentContainerView android:id="0x7f0b1639" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="0x7f0b009d" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f071108" android:layout_marginBottom="0x7f071108" android:NOT_FOUND_0x12="0x7f071108" app:NOT_FOUND_0x14="0">
+            <View android:id="0x7f0b1e09" android:layout_marginTop="0x7f071108" android:layout_marginBottom="0x7f071108" android:NOT_FOUND_0x12="0x7f071108" style="0x7f1503bf"/>
+            <ViewStub android:id="0x7f0b1e43" android:layout="0x7f0e0906" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710fd" android:layout_marginRight="0x7f0710fd" android:NOT_FOUND_0x11="0x7f0710fd"/>
+            <ViewStub android:id="0x7f0b2527" android:layout="0x7f0e0db2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

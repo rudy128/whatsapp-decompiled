@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e03d2"/>
+        <include layout="0x7f0e03de"/>
+        <com.whatsapp.components.TextAndDateLayout android:layout_gravity="left" android:id="0x7f0b2219" android:paddingLeft="0x7f070e0f" android:paddingRight="0x7f070e0f" android:paddingBottom="0x7f070e0f" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.TextEmojiLabel android:textAppearance="?unknown_attr_ref: 7f040cef" android:layout_gravity="left" android:id="0x7f0b05de" android:paddingLeft="0x7f070430" android:paddingTop="0x7f071104" android:paddingRight="0x7f070430" android:paddingBottom="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <include layout="0x7f0e0367"/>
+        </com.whatsapp.components.TextAndDateLayout>
+    </LinearLayout>
+</merge>

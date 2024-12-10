@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b03f0" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:background="?unknown_attr_ref: 7f04010d" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+    <com.google.android.material.bottomnavigation.BottomNavigationView android:theme="0x7f15056a" android:id="0x7f0b03ef" android:layout_width="match_parent" android:layout_height="wrap_content" android:layoutDirection="ltr" style="0x7f1506e3"/>
+</LinearLayout>

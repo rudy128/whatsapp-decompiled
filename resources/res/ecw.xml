@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b091c" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b091f" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b091e" android:layout="0x7f0e0426" android:layout_width="match_parent" android:layout_height="0x7f07048e"/>
+        <ViewStub android:id="0x7f0b0921" android:layout="0x7f0e0428" android:layout_width="match_parent" android:layout_height="0x7f070497"/>
+        <ViewStub android:id="0x7f0b0920" android:layout="0x7f0e0427" android:layout_width="match_parent" android:layout_height="0x7f070495"/>
+    </LinearLayout>
+</FrameLayout>

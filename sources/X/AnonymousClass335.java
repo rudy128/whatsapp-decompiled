@@ -1,0 +1,45 @@
+package X;
+
+/* renamed from: X.335  reason: invalid class name */
+public final class AnonymousClass335 implements C437320s {
+    public boolean BeP(AnonymousClass206 r3) {
+        String A18;
+        C18070vi.A0d(r3, 0);
+        if (!(r3 instanceof C438421d) || (A18 = ((AnonymousClass21V) r3).A18()) == null || A18.length() <= 0) {
+            return false;
+        }
+        return true;
+    }
+
+    public boolean BfK() {
+        return true;
+    }
+
+    public boolean Bg2() {
+        return true;
+    }
+
+    public boolean Bg5() {
+        return true;
+    }
+
+    public boolean BgE(AnonymousClass206 r2) {
+        return true;
+    }
+
+    public boolean BgU() {
+        return true;
+    }
+
+    public boolean BgX() {
+        return true;
+    }
+
+    public /* synthetic */ boolean Bee() {
+        return true;
+    }
+
+    public /* synthetic */ boolean Bgd() {
+        return false;
+    }
+}

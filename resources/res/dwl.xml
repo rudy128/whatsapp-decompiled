@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ListView android:id="@android:id/list" android:layout_width="0dp" android:layout_height="0dp" android:cacheColorHint="0x7f060c13" android:choiceMode="none" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x19="0" app:NOT_FOUND_0x1a="0" app:NOT_FOUND_0x1b="0" style="0x7f1501d0"/>
+    <ScrollView android:id="0x7f0b037a" android:paddingTop="0x7f070d8a" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_height="wrap_content" style="0x7f1501d1">
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" app:NOT_FOUND_0x19="0" app:NOT_FOUND_0x1a="0" app:NOT_FOUND_0x1b="0">
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="36dp" android:paddingTop="24dp" android:paddingRight="36dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.whatsapp.WaImageView android:id="0x7f0b037d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" app:NOT_FOUND_0x1c="0x7f0808c6"/>
+                    <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040a3e" android:id="0x7f0b037f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="0x7f121aaf" app:NOT_FOUND_0x17="?unknown_attr_ref: 7f04056b"/>
+                    <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040a3e" android:gravity="center_horizontal" android:id="0x7f0b037c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:textAlignment="center"/>
+                </LinearLayout>
+                <View android:background="?unknown_attr_ref: 7f040a37" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="8dp" android:layout_marginBottom="8dp"/>
+                <ViewStub android:id="0x7f0b037e" android:inflatedId="0x7f0b037e" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="24dp" android:layout_marginRight="36dp"/>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

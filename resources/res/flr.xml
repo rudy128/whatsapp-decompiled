@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" style="0x7f1503d7">
+    <com.whatsapp.TextEmojiLabel android:id="0x7f0b20b3" android:maxLines="1" android:singleLine="true" style="0x7f1503d9"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b20b6" app:NOT_FOUND_0x3="0x7f08043e" app:NOT_FOUND_0x4="?unknown_attr_ref: 7f040a2c" style="0x7f1503ca"/>
+</LinearLayout>

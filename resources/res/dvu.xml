@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:background="?unknown_attr_ref: 7f04035e" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f070e96" android:baselineAligned="false">
+    <FrameLayout android:id="0x7f0b0278" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="8">
+        <androidx.recyclerview.widget.RecyclerView android:layout_gravity="left" android:id="0x7f0b0277" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <FrameLayout android:id="0x7f0b0271" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:layout_width="16dp" android:layout_height="16dp" android:contentDescription="A new icon is here" app:NOT_FOUND_0xb="0x7f080486" app:NOT_FOUND_0xc="?unknown_attr_ref: 7f040af8"/>
+        <View android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="0x7f0b0279" android:visibility="gone" style="0x7f150434"/>
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1cf8" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="0x7f0b2069" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:id="0x7f0b20c3" android:layout="0x7f0e0c44" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <View android:id="0x7f0b22cb" android:background="0x7f080903" android:layout_width="match_parent" android:layout_height="107dp"/>
+    <ViewStub android:id="0x7f0b0fbe" android:inflatedId="0x7f0b0fbe" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <ViewStub android:gravity="center" android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b00af" android:layout="0x7f0e0c3a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070063" android:layout_marginRight="0x7f070063" android:NOT_FOUND_0xa="0x7f070063"/>
+    <ViewStub android:id="0x7f0b2090" android:layout="0x7f0e0c0e" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</FrameLayout>

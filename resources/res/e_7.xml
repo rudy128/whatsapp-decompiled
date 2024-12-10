@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:paddingLeft="0x7f070be6" android:paddingRight="0x7f070be6" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.wds.components.button.WDSButtonGroup android:layout_gravity="center" android:id="0x7f0b04fd" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="24dp" app:NOT_FOUND_0xd="1">
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1c55" android:layout_marginRight="0x7f070be6" android:text="0x7f121e4f" style="0x7f150679"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1c65" android:text="0x7f121eb3" style="0x7f150671"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1c52" android:visibility="gone" android:text="0x7f121e3e" style="0x7f150679"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b002b" android:visibility="gone" android:text="0x7f121e16" style="0x7f150679"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1cb9" android:visibility="gone" android:text="0x7f121ef8" style="0x7f150679"/>
+        <com.whatsapp.wds.components.button.WDSButton android:enabled="true" android:id="0x7f0b17fc" android:visibility="gone" android:text="0x7f121eb2" style="0x7f150671"/>
+    </com.whatsapp.wds.components.button.WDSButtonGroup>
+</LinearLayout>

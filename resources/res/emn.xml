@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="vertical" android:background="0x7f08032e" android:paddingLeft="0x7f0710ff" android:paddingTop="0x7f071109" android:paddingRight="0x7f0710ff" android:paddingBottom="0x7f071109" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f0706af">
+    <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b00cb" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="0x7f060d70" app:NOT_FOUND_0x14="0x7f0805c2"/>
+    <Space android:id="0x7f0b00cd" android:layout_width="0x7f0710ff" android:layout_height="0x7f0710ff"/>
+    <com.whatsapp.WaTextView android:textAppearance="0x7f1506be" android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="center" android:id="0x7f0b00cc" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1211ae" android:maxLines="1"/>
+</LinearLayout>

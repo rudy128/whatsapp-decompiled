@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextSwitcher xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.WaTextView android:layout_gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120f7a" android:paddingStart="0x7f071106" android:paddingEnd="0x7f070e06" style="0x7f1504a5"/>
+    <com.whatsapp.WaTextView android:layout_gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120fd0" android:paddingStart="0x7f071106" android:paddingEnd="0x7f070e06" style="0x7f1504a5"/>
+</TextSwitcher>

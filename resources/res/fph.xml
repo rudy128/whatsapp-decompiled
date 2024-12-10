@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <include layout="0x7f0e0e0e"/>
+    <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:id="0x7f0b209e" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710fd" android:layout_marginRight="0x7f0710fd" android:text="0x7f122832" android:layout_marginStart="0x7f07110a" app:NOT_FOUND_0xc="?unknown_attr_ref: 7f04056b"/>
+    <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f040a3d" android:id="0x7f0b209d" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="0x7f0710fd" android:layout_marginStart="0x7f07110a"/>
+    <include android:id="0x7f0b209f" layout="0x7f0e0c2e"/>
+    <include android:id="0x7f0b20a0" android:visibility="gone" layout="0x7f0e0c2e"/>
+    <include layout="0x7f0e0e0e"/>
+</LinearLayout>

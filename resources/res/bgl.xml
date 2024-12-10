@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_pressed="true">
+        <inset android:insetLeft="0x7f070180" android:insetRight="0x7f070180" android:insetTop="0x7f070181" android:insetBottom="0x7f070181">
+            <shape android:shape="rectangle">
+                <corners android:radius="6dp"/>
+                <solid android:color="?unknown_attr_ref: 7f040901"/>
+            </shape>
+        </inset>
+    </item>
+    <item>
+        <inset android:insetLeft="0x7f070180" android:insetRight="0x7f070180" android:insetTop="0x7f070181" android:insetBottom="0x7f070181">
+            <shape android:shape="rectangle">
+                <corners android:radius="6dp"/>
+                <solid android:color="?unknown_attr_ref: 7f040d5f"/>
+            </shape>
+        </inset>
+    </item>
+</selector>

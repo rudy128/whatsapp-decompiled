@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:layout_width="0x7f070731" android:layout_height="0x7f070731">
+    <com.google.android.material.imageview.ShapeableImageView android:layout_gravity="center" android:id="0x7f0b1080" android:layout_width="0x7f07072e" android:layout_height="0x7f07072e" android:adjustViewBounds="true" app:NOT_FOUND_0x6="0x7f150294"/>
+    <ViewStub android:layout_gravity="center" android:id="0x7f0b108b" android:inflatedId="0x7f0b1089" android:layout_width="0x7f07072e" android:layout_height="0x7f07072e"/>
+</FrameLayout>

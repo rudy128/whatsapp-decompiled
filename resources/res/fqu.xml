@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b20f6" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="0x7f0b1d66" android:paddingTop="0x7f0710ff" android:paddingBottom="0x7f0710ff" android:layout_width="match_parent" android:layout_height="44dp">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b02ac" android:paddingLeft="0x7f0710ff" android:paddingRight="0x7f0710ff" android:layout_width="48dp" android:layout_height="match_parent" android:layout_marginLeft="0x7f0710ff" android:layout_marginRight="0x7f0710ff" android:contentDescription="0x7f12315e" app:NOT_FOUND_0x1d="0x7f0803bb" app:NOT_FOUND_0x24="0x7f060626" style="0x7f150006"/>
+        <com.whatsapp.WaEditText android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:textColorHint="?unknown_attr_ref: 7f0405c7" android:layout_gravity="center_vertical" android:id="0x7f0b1d65" android:background="@android:color/transparent" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="8dp" android:hint="0x7f1228a5" android:singleLine="true" android:layout_weight="1" android:imeOptions="actionSearch"/>
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b0702" android:visibility="gone" android:layout_width="40dp" android:layout_height="match_parent" android:layout_marginRight="16dp" android:contentDescription="0x7f12319c" app:NOT_FOUND_0x1d="0x7f080446" app:NOT_FOUND_0x24="0x7f060626" style="0x7f150006"/>
+    </LinearLayout>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="0x7f0b1d66">
+        <com.google.android.material.tabs.TabLayout android:id="0x7f0b20cd" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="4dp" app:NOT_FOUND_0x1e="?unknown_attr_ref: 7f040776" app:NOT_FOUND_0x1f="3dp" app:NOT_FOUND_0x20="20dp" app:NOT_FOUND_0x21="20dp" app:NOT_FOUND_0x22="0x7f06088d" app:NOT_FOUND_0x23="0x7f15043a"/>
+        <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="0x7f0b20cd">
+            <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b1dca" android:paddingTop="16dp" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <ScrollView android:layout_gravity="center_vertical" android:id="0x7f0b16cb" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingBottom="44dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <com.whatsapp.WaImageView android:layout_gravity="center_horizontal" android:layout_width="96dp" android:layout_height="96dp" android:layout_marginBottom="8dp" app:NOT_FOUND_0x1d="0x7f080922"/>
+                    <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0400f2" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1228a6"/>
+                    <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center_horizontal" android:id="0x7f0b0ec6" android:layout_marginTop="0x7f0710ff" android:text="0x7f1228a4" style="0x7f150673"/>
+                </LinearLayout>
+            </ScrollView>
+            <androidx.viewpager.widget.ViewPager android:id="0x7f0b20ce" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x1c="0x7f123153"/>
+            <View android:id="0x7f0b1ec9" style="0x7f1503bf"/>
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    </RelativeLayout>
+</RelativeLayout>

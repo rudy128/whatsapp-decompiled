@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:id="0x7f0b1d55" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_height="wrap_content" style="0x7f1501d0">
+        <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="0x7f07011f" android:layout_marginBottom="0x7f07011e" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x11="0">
+            <ViewStub android:id="0x7f0b25d1" android:inflatedId="0x7f0b25d1" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070d72" android:layout_marginRight="0x7f070d72"/>
+            <ViewStub android:id="0x7f0b0fbe" android:inflatedId="0x7f0b0fbe" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070d97" android:layout_marginRight="0x7f070d97"/>
+            <RadioGroup android:paddingLeft="34dp" android:paddingRight="24dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b0cf2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b15bb" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b1e5f" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b15bc" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b16d2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            </RadioGroup>
+            <ViewStub android:id="0x7f0b0e25" android:inflatedId="0x7f0b0e25" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070d97" android:layout_marginRight="0x7f070d97"/>
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

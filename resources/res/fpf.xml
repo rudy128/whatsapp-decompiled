@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:id="0x7f0b1d55" android:background="?unknown_attr_ref: 7f040a07" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_height="wrap_content" style="0x7f1501d1">
+        <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="0x7f07011f" android:layout_marginBottom="0x7f07011f" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0">
+            <ViewStub android:id="0x7f0b1e40" android:inflatedId="0x7f0b1e40" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070d97" android:layout_marginRight="0x7f070d97"/>
+            <ViewStub android:id="0x7f0b1e41" android:inflatedId="0x7f0b1e41" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <ViewStub android:id="0x7f0b20a2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp"/>
+            <ViewStub android:id="0x7f0b1e3f" android:inflatedId="0x7f0b1e3f" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070d97" android:layout_marginRight="0x7f070d97"/>
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

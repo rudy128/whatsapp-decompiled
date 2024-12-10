@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingBottom="0x7f071104" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="140dp" android:paddingEnd="0x7f071104" app:NOT_FOUND_0x1b="8dp">
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:background="0x7f08024b" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_gravity="center_horizontal" android:id="0x7f0b1c1d" android:background="0x7f080344" android:paddingLeft="12dp" android:paddingRight="12dp" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="32dp" android:NOT_FOUND_0x1a="12dp">
+            <com.whatsapp.WaImageView android:id="0x7f0b1311" android:layout_width="20dp" android:layout_height="20dp" android:tint="0x7f060295" android:layout_centerInParent="true" android:rotationX="180" android:layout_alignParentStart="true" app:NOT_FOUND_0x1c="0x7f08065e"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="0x7f0600e0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="120dp" android:minHeight="20dp" android:text="0x7f1217ec" android:maxLines="1" android:layout_alignBottom="0x7f0b1311" android:layout_marginStart="0x7f070e03" android:layout_toEndOf="0x7f0b1311"/>
+        </RelativeLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.cardview.widget.CardView>

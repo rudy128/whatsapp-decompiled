@@ -1,0 +1,19 @@
+package X;
+
+import android.view.View;
+
+/* renamed from: X.8lf  reason: invalid class name and case insensitive filesystem */
+public class C169448lf extends AnonymousClass8IP {
+    public final C20324AGg A00;
+    public final C18100vl A01;
+    public final C18100vl A02;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public C169448lf(View view, C20324AGg aGg) {
+        super(view);
+        C18070vi.A0d(aGg, 2);
+        this.A00 = aGg;
+        this.A02 = AnonymousClass1DF.A01(new C21880Au6(view));
+        this.A01 = AnonymousClass1DF.A01(new C21879Au5(view));
+    }
+}

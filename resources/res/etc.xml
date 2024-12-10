@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409e9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginRight="16dp" android:text="0x7f122d0f" app:NOT_FOUND_0xa="?unknown_attr_ref: 7f04056b"/>
+    <com.whatsapp.payments.ui.widget.PaymentMethodRow android:id="0x7f0b09bf" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.whatsapp.payments.ui.widget.PaymentMethodRow android:id="0x7f0b0013" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

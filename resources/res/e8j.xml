@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="0x7f0b17b5" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.WaImageView android:id="0x7f0b17b6" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_weight="1" android:layout_marginStart="10dp" android:layout_marginEnd="10dp" app:NOT_FOUND_0x9="0x7f0805e1" app:NOT_FOUND_0xa="?unknown_attr_ref: 7f040820"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b17b7" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginRight="10dp" android:layout_weight="1" android:layout_marginEnd="10dp" app:NOT_FOUND_0x9="0x7f0805e1" app:NOT_FOUND_0xa="0x7f06094d"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b17b8" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginRight="10dp" android:layout_weight="1" android:layout_marginEnd="10dp" app:NOT_FOUND_0x9="0x7f0805e1" app:NOT_FOUND_0xa="0x7f06094d"/>
+</LinearLayout>

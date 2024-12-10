@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:layout_gravity="center" android:id="0x7f0b2585" android:paddingTop="0x7f070e73" android:paddingBottom="0x7f070e73" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.status.playback.widget.VoiceStatusContentView android:id="0x7f0b14f4" android:layout_width="match_parent" android:layout_height="0x7f070e74" android:layout_marginLeft="0x7f070e75" android:layout_marginRight="0x7f070e75"/>
+    </FrameLayout>
+</merge>

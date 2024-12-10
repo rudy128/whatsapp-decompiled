@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item>
+        <shape android:shape="rectangle">
+            <size android:height="0x7f070318"/>
+            <solid android:color="?unknown_attr_ref: 7f040316"/>
+        </shape>
+    </item>
+    <item android:left="0dp" android:top="0dp" android:right="0dp" android:bottom="6dp">
+        <shape>
+            <gradient android:startColor="0x7f060c13" android:endColor="0x7f060e01" android:angle="90" android:type="linear"/>
+        </shape>
+    </item>
+</layer-list>

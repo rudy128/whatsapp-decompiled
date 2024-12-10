@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.facebook.shimmer.ShimmerFrameLayout android:id="0x7f0b1871" android:visibility="visible" android:layout_width="0dp" android:layout_height="50dp" android:layout_weight="1" app:NOT_FOUND_0xf="false" style="0x7f15002c">
+        <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center_vertical" android:id="0x7f0b1849" android:layout_width="28dp" android:layout_height="28dp" android:layout_marginLeft="16dp" android:layout_marginRight="8dp" android:src="0x7f08037f" android:scaleType="fitXY"/>
+        <View android:textSize="13sp" android:layout_gravity="center" android:background="0x7f08081f" android:layout_width="wrap_content" android:layout_height="20dp" android:layout_marginLeft="52dp" android:layout_marginRight="0x7f071107" style="0x7f1502de"/>
+        <com.whatsapp.WaImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="0x7f0b0d34" android:background="0x7f0808af" android:paddingLeft="8dp" android:visibility="visible" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginRight="12dp" android:scaleType="center" android:contentDescription="0x7f121d7c" app:NOT_FOUND_0x10="0x7f0801fd"/>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+</LinearLayout>

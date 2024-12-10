@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0d" android:layout_marginBottom="0x7f070e0d" android:NOT_FOUND_0xb="0x7f070e0d">
+        <include layout="0x7f0e0d18"/>
+        <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:id="0x7f0b23c6" android:layout_width="match_parent" android:layout_height="match_parent">
+                <ViewStub android:id="0x7f0b243f" android:layout="0x7f0e0d15" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+                <com.whatsapp.FAQTextView android:gravity="center_horizontal" android:id="0x7f0b23cb" android:padding="0x7f070e0d" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f1506be"/>
+                <com.whatsapp.wds.components.actiontile.WDSActionTileGroup android:gravity="center_horizontal" android:orientation="horizontal" android:id="0x7f0b23c7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0x7f0710fd"/>
+                <LinearLayout android:orientation="vertical" android:id="0x7f0b23c4" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <LinearLayout android:orientation="vertical" android:id="0x7f0b23c5" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <View android:layout_marginTop="0x7f070e06" android:layout_marginBottom="0x7f070e06" android:NOT_FOUND_0xb="0x7f070e06" style="0x7f1503bf"/>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

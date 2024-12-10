@@ -1,0 +1,39 @@
+package X;
+
+/* renamed from: X.13u  reason: invalid class name and case insensitive filesystem */
+public final class C208713u implements AnonymousClass12T {
+    public /* synthetic */ void BLp(AnonymousClass1F1 r1, AnonymousClass1F5 r2) {
+    }
+
+    /* JADX WARNING: type inference failed for: r5v0, types: [X.1Mo, java.lang.Object] */
+    public /* bridge */ /* synthetic */ void BLt(AnonymousClass1F3 r8) {
+        C18070vi.A0d(r8, 0);
+        ? obj = new Object();
+        obj.A02 = "message_row_id";
+        C25041Mq r4 = C25041Mq.INTEGER;
+        obj.A00 = r4;
+        obj.A05 = true;
+        obj.A02 = "enc_key";
+        obj.A00 = C25041Mq.BLOB;
+        obj.A02 = "selectable_options_count";
+        obj.A00 = r4;
+        obj.A02 = "invalid_state";
+        obj.A00 = r4;
+        obj.A04 = true;
+        obj.A01 = "0";
+        obj.A02 = "poll_logging_id";
+        obj.A00 = r4;
+        obj.A04 = true;
+        obj.A01 = "0";
+        obj.A02 = "poll_type";
+        obj.A00 = r4;
+        obj.A02 = "correct_option_id";
+        obj.A00 = r4;
+        r8.CE6("message_poll", obj.A0B(), obj.A0B(), obj.A0B(), obj.A0B(), obj.A0B(), obj.A0B(), obj.A0B());
+    }
+
+    public /* bridge */ /* synthetic */ void BLv(AnonymousClass1F4 r3) {
+        C18070vi.A0d(r3, 0);
+        r3.CE9(C25061Ms.A00("message_poll"), "message_poll");
+    }
+}

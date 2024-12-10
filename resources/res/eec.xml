@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b06fc" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="0x7f0b0df0" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginTop="?unknown_attr_ref: 7f040990" app:NOT_FOUND_0x15="H,3:4" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x19="0">
+        <com.facebook.smartcapture.components.ContourView android:id="0x7f0b08a3" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.facebook.smartcapture.components.RectDetectionVisualizerView android:id="0x7f0b1bb9" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <ImageView android:id="0x7f0b11af" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginTop="16dp" android:tint="?unknown_attr_ref: 7f0409aa" android:contentDescription="0x7f1230f6" android:rotationY="0x7f0c0046" android:layout_marginStart="16dp" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x19="0"/>
+    <TextView android:textSize="18sp" android:textColor="?unknown_attr_ref: 7f0409aa" android:gravity="center" android:id="0x7f0b0fe8" android:layout_width="wrap_content" android:layout_height="0dp" android:layout_marginRight="16dp" android:layout_marginEnd="16dp" app:NOT_FOUND_0x14="0x7f0b11af" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x19="0x7f0b11af"/>
+    <com.facebook.smartcapture.ui.TextTipView android:id="0x7f0b2237" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x18="0x7f0b11af"/>
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b06fa" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x14="0">
+        <ImageButton android:id="0x7f0b0463" android:background="0x7f080892" android:layout_width="0x7f070dd4" android:layout_height="0x7f070dd4" android:layout_margin="0x7f070dd5" android:contentDescription="0x7f1230f7" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0"/>
+        <ProgressBar android:layout_gravity="center" android:id="0x7f0b18f9" android:layout_width="48dp" android:layout_height="48dp" android:indeterminate="true" app:NOT_FOUND_0x14="0x7f0b0463" app:NOT_FOUND_0x16="0x7f0b0463" app:NOT_FOUND_0x17="0x7f0b0463" app:NOT_FOUND_0x19="0x7f0b0463"/>
+        <ProgressBar android:id="0x7f0b18fa" android:layout_width="0x7f070dd4" android:layout_height="0x7f070dd4" android:layout_margin="0x7f070dd5" android:indeterminate="false" android:progressDrawable="0x7f0801b4" android:alpha="0" app:NOT_FOUND_0x14="0x7f0b0463" app:NOT_FOUND_0x16="0x7f0b0463" app:NOT_FOUND_0x17="0x7f0b0463" app:NOT_FOUND_0x19="0x7f0b0463" style="?android:attr/progressBarStyleHorizontal"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <com.facebook.smartcapture.ui.PhotoRequirementsView android:id="0x7f0b1952" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

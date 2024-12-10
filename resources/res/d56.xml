@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1933" android:layout_width="match_parent" android:layout_height="0x7f070de7">
+    <LinearLayout android:gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b1934" android:background="0x7f0808ae" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b1a49" android:background="0x7f0808ae" android:paddingLeft="0x7f070766" android:layout_width="0dp" android:layout_height="0x7f070de7" android:layout_weight="1">
+            <LinearLayout android:gravity="left|center_vertical|center_horizontal|center" android:layout_gravity="left|center_vertical|center_horizontal|center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <com.whatsapp.WaTextView android:layout_gravity="left" android:id="0x7f0b22db" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1502de"/>
+                <com.whatsapp.WaTextView android:layout_gravity="left" android:id="0x7f0b2178" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1502dd"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="0x7f0b0827" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageView android:id="0x7f0b1a4a" android:contentDescription="0x7f121750" app:NOT_FOUND_0xc="0x7f0809d3" style="0x7f1502d8"/>
+            <com.whatsapp.WaImageView android:id="0x7f0b1df7" android:contentDescription="0x7f123159" app:NOT_FOUND_0xc="0x7f080412" style="0x7f1502d8"/>
+            <com.whatsapp.WaImageView android:id="0x7f0b2251" android:visibility="gone" android:contentDescription="0x7f1234b8" app:NOT_FOUND_0xc="0x7f080696" style="0x7f1502d8"/>
+        </LinearLayout>
+    </LinearLayout>
+    <View android:id="0x7f0b0ab9" android:layout_marginLeft="0x7f070766" style="0x7f1503bf"/>
+</LinearLayout>

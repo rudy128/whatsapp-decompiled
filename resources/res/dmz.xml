@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ViewStub android:layout_gravity="center_horizontal" android:id="0x7f0b20bf" android:layout="0x7f0e0d43" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f071108" android:layout_marginTop="0x7f0710ff" android:layout_marginRight="0x7f071108" android:NOT_FOUND_0xe="0x7f071108"/>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b03b2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b15af" android:layout="0x7f0e0d42" android:inflatedId="0x7f0b15ae" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:layout_marginBottom="0x7f0710ff" android:NOT_FOUND_0xf="0x7f0710ff"/>
+        <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+        <ViewStub android:id="0x7f0b02aa" android:layout="0x7f0e0d3d" android:inflatedId="0x7f0b02a9" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b25dc" android:layout="0x7f0e0d45" android:inflatedId="0x7f0b25db" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b1971" android:layout="0x7f0e0d40" android:inflatedId="0x7f0b1970" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:layout_marginBottom="0x7f0710ff" android:layout_marginStart="0x7f0710ff" android:NOT_FOUND_0xf="0x7f0710ff"/>
+        <ViewStub android:id="0x7f0b07f0" android:layout="0x7f0e0d3e" android:inflatedId="0x7f0b07f0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710fd" android:layout_marginTop="0x7f071109" android:layout_marginRight="0x7f0710fd" android:layout_marginBottom="0x7f071109" android:NOT_FOUND_0xe="0x7f0710fd" android:NOT_FOUND_0xf="0x7f071109"/>
+        <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+        <ViewStub android:id="0x7f0b0c43" android:layout="0x7f0e0d3f" android:inflatedId="0x7f0b0c42" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:layout_marginBottom="0x7f0710ff" android:NOT_FOUND_0xf="0x7f0710ff"/>
+    </LinearLayout>
+</merge>

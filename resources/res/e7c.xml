@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0x7f070cb1">
+    <com.google.android.material.button.MaterialButtonToggleGroup android:layout_gravity="center_horizontal" android:id="0x7f0b1b82" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x8="true" app:NOT_FOUND_0x9="true">
+        <com.google.android.material.button.MaterialButton android:id="0x7f0b1b78" android:layout_width="0dp" android:layout_height="wrap_content" android:text="0x7f123382" android:layout_weight="1" style="0x7f150394"/>
+        <com.google.android.material.button.MaterialButton android:id="0x7f0b1b79" android:layout_width="0dp" android:layout_height="wrap_content" android:text="0x7f123383" android:layout_weight="1" style="0x7f150394"/>
+    </com.google.android.material.button.MaterialButtonToggleGroup>
+    <androidx.viewpager2.widget.ViewPager2 android:id="0x7f0b1b7a" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

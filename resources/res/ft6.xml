@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b2297" android:paddingLeft="0x7f070e09" android:paddingRight="0x7f070e06" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <include layout="0x7f0e03f6"/>
+</FrameLayout>

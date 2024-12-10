@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b047c" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x4="0x7f121a8f" app:NOT_FOUND_0x5="0x7f080486" app:NOT_FOUND_0x6="0x7f060d70" app:NOT_FOUND_0x7="false" app:NOT_FOUND_0x8="0x7f121a92"/>
+    <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b047d" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x4="0x7f121a90" app:NOT_FOUND_0x5="0x7f08069d" app:NOT_FOUND_0x6="0x7f060d70" app:NOT_FOUND_0x7="false" app:NOT_FOUND_0x8="0x7f121a93"/>
+    <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b047e" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x4="0x7f121a91" app:NOT_FOUND_0x5="0x7f080a9e" app:NOT_FOUND_0x6="0x7f060d70" app:NOT_FOUND_0x7="false" app:NOT_FOUND_0x8="0x7f121a94"/>
+</LinearLayout>

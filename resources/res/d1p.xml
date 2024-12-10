@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b05b9" android:background="0x7f060165" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b05c9" android:layout_width="0dp" android:layout_height="0dp" app:NOT_FOUND_0x8="0" app:NOT_FOUND_0x9="0" app:NOT_FOUND_0xa="0" app:NOT_FOUND_0xb="0">
+            <FrameLayout android:layout_gravity="center" android:id="0x7f0b05c1" android:layout_width="match_parent" android:layout_height="match_parent">
+                <FrameLayout android:layout_gravity="center" android:id="0x7f0b05c8" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <FrameLayout android:layout_gravity="center" android:id="0x7f0b05c7" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                </FrameLayout>
+                <com.whatsapp.pushtorecordmedia.MediaProgressRing android:layout_gravity="center" android:id="0x7f0b1bae" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f040d35"/>
+            </FrameLayout>
+        </FrameLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <View android:id="0x7f0b05c2" android:background="0x7f060d4c" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:id="0x7f0b05bf" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ProgressBar android:layout_gravity="center" android:id="0x7f0b1d2b" android:background="0x7f0806dc" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleLarge"/>
+    <ViewStub android:layout_gravity="center" android:id="0x7f0b06f7" android:layout="0x7f0e010e" android:layout_width="0x7f070097" android:layout_height="0x7f070097"/>
+</FrameLayout>

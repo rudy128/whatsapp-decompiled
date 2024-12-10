@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.wds.components.button.WDSButtonGroup xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1c94" android:clipChildren="false" android:layout_width="0x7f070b98" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center_horizontal" android:id="0x7f0b1925" android:layout_width="match_parent" android:text="0x7f121873" android:contentDescription="0x7f121874" style="0x7f150671"/>
+        <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center_horizontal" android:id="0x7f0b0aef" android:layout_width="match_parent" android:text="0x7f123428" style="0x7f150679"/>
+    </LinearLayout>
+</com.whatsapp.wds.components.button.WDSButtonGroup>

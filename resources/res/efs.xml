@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingLeft="0x7f070532" android:paddingTop="0x7f070535" android:paddingRight="0x7f070532" android:paddingBottom="0x7f070535" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:textSize="0x7f070534" android:textColor="?unknown_attr_ref: 7f0408cf" android:id="0x7f0b0a88" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070536" android:text="0x7f120efa" app:NOT_FOUND_0xf="?unknown_attr_ref: 7f04056b"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0409e9" android:id="0x7f0b0a86" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070536" android:text="0x7f120d3c" android:lineSpacingExtra="4sp"/>
+        <RadioGroup android:id="0x7f0b0a87" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</ScrollView>

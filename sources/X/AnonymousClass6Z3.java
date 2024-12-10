@@ -1,0 +1,8 @@
+package X;
+
+/* renamed from: X.6Z3  reason: invalid class name */
+public abstract class AnonymousClass6Z3 {
+    public static final int[] A00 = {2130970740, 2130970741, 2130970742, 2130970743, 2130970744, 2130970745, 2130970746, 2130970747, 2130970748, 2130970749, 2130970750, 2130970751, 2130970752};
+    public static final int[] A01 = {2130969973, 2130969974, 2130969975, 2130969976};
+    public static final int[] A02 = {2130970185, 2130970186, 2130970187, 2130970190};
+}

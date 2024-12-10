@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:id="0x7f0b0fd5" android:layout_width="match_parent" android:layout_height="0x7f070763"/>
+    <View android:id="0x7f0b0fc3" android:visibility="gone" style="0x7f1502d7"/>
+    <ViewStub android:id="0x7f0b1629" android:layout="0x7f0e08c0" android:inflatedId="0x7f0b1628" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e08be"/>
+    <ViewStub android:id="0x7f0b164a" android:layout="0x7f0e08d8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e08b7"/>
+    <ViewStub android:id="0x7f0b164d" android:layout="0x7f0e08dc" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e08db"/>
+    <include layout="0x7f0e08d5"/>
+    <include layout="0x7f0e08cc"/>
+</LinearLayout>

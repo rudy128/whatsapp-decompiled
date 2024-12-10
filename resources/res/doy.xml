@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.facebook.shimmer.ShimmerFrameLayout android:id="0x7f0b1f90" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f150000">
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b08c9" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+</merge>

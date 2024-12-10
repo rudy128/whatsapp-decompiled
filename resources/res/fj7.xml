@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.WaImageView android:id="0x7f0b1da7" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" app:NOT_FOUND_0x8="0x7f080750"/>
+    <com.whatsapp.location.WaMapView android:id="0x7f0b1da6" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:layout_gravity="center" android:id="0x7f0b1da3" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <View android:layout_gravity="center" android:background="0x7f080534" android:visibility="visible" android:layout_width="0x7f070d3e" android:layout_height="0x7f070d3e"/>
+        <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center" android:id="0x7f0b1da4" android:visibility="visible" android:layout_width="0x7f070d3f" android:layout_height="0x7f070d3f" android:src="0x7f080147" android:scaleType="fitCenter" app:NOT_FOUND_0x9="?unknown_attr_ref: 7f0406fa" app:NOT_FOUND_0xa="1dp" app:NOT_FOUND_0xb="false" app:NOT_FOUND_0xc="0x7f070de1"/>
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b1da5" android:visibility="visible" android:layout_width="0x7f070d3f" android:layout_height="0x7f070d3f" app:NOT_FOUND_0x8="0x7f080733"/>
+    </FrameLayout>
+    <com.whatsapp.WaTextView android:id="0x7f0b1da8" android:background="0x7f0808ae" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

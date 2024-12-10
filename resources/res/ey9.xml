@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f070ee2">
+    <LinearLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x8="0x7f08050e" app:NOT_FOUND_0x9="?unknown_attr_ref: 7f0405f2"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cc" android:layout_gravity="center_vertical" android:paddingLeft="0x7f070850" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f121649"/>
+    </LinearLayout>
+</FrameLayout>

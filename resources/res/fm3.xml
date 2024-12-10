@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b0c5c" android:layout_width="wrap_content" android:layout_height="0dp" android:layout_weight="1">
+    <com.whatsapp.WaImageButton android:id="0x7f0b0ba6" android:layout_width="48dp" android:layout_height="40dp" android:layout_alignBottom="0x7f0b2165" android:layout_alignParentLeft="true" android:contentDescription="0x7f123245" app:NOT_FOUND_0x13="0x7f080574" app:NOT_FOUND_0x14="0x7f06061a" style="0x7f150006"/>
+    <com.whatsapp.contact.picker.SharedTextPreviewScrollView android:id="0x7f0b2165" android:paddingTop="16dp" android:paddingRight="15dp" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toRightOf="0x7f0b0ba6">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.mentions.MentionableEntry android:textColor="?unknown_attr_ref: 7f0408cf" android:textColorHint="?unknown_attr_ref: 7f0405c7" android:gravity="bottom" android:id="0x7f0b1424" android:paddingTop="5dp" android:paddingRight="0x7f0704a6" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="false" android:inputType="none|text|textCapSentences|textMultiLine"/>
+            <View android:id="0x7f0b2144" android:visibility="visible" android:layout_width="match_parent" android:layout_height="0dp" android:layout_below="0x7f0b1424"/>
+        </RelativeLayout>
+    </com.whatsapp.contact.picker.SharedTextPreviewScrollView>
+</RelativeLayout>

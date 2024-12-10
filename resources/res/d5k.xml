@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.chatinfo.view.custom.ContactDetailsCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0813" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.InfoCard android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x13="?unknown_attr_ref: 7f0408ce" style="0x7f15029d">
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f0710a3" android:textColor="?unknown_attr_ref: 7f040c1a" android:ellipsize="end" android:gravity="center" android:id="0x7f0b0859" android:paddingLeft="0x7f070766" android:paddingRight="0x7f070766" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f070762" android:textColor="?unknown_attr_ref: 7f040c19" android:ellipsize="end" android:gravity="center" android:id="0x7f0b0853" android:paddingLeft="0x7f070766" android:paddingRight="0x7f070766" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0b" android:layout_marginBottom="0x7f070e0b"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f070762" android:textColor="?unknown_attr_ref: 7f040c19" android:ellipsize="end" android:gravity="center" android:id="0x7f0b085e" android:paddingLeft="0x7f070766" android:paddingRight="0x7f070766" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0b" android:layout_marginBottom="0x7f070e0b"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f040c19" android:ellipsize="end" android:gravity="center" android:id="0x7f0b080f" android:background="0x7f080228" android:paddingLeft="0x7f070e06" android:paddingTop="0x7f070e0f" android:paddingRight="0x7f070e06" android:paddingBottom="0x7f070e0f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0f" android:layout_marginBottom="0x7f070e0f"/>
+        <TextSwitcher android:gravity="center" android:id="0x7f0b20be" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="0x7f070e0b" android:layout_marginRight="20dp" android:layout_marginBottom="0x7f070e0f">
+            <include layout="0x7f0e0cae"/>
+            <include layout="0x7f0e0cae"/>
+        </TextSwitcher>
+        <include layout="0x7f0e09d6"/>
+        <include layout="0x7f0e02bf"/>
+        <ViewStub android:id="0x7f0b0837" android:visibility="gone" android:inflatedId="0x7f0b0836" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </com.whatsapp.InfoCard>
+</com.whatsapp.chatinfo.view.custom.ContactDetailsCard>

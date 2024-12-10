@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1cf2">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b02b3" android:layout_width="match_parent" android:layout_height="0x7f0710f9" android:layout_marginTop="0x7f0710f8" android:layout_marginBottom="0x7f0710f5" android:layout_marginStart="0x7f0710f7" android:layout_marginEnd="0x7f0710f6" style="0x7f15069f">
+        <com.whatsapp.WaImageButton android:layout_gravity="center" android:id="0x7f0b02ac" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xd="true" style="0x7f1506a0"/>
+        <com.whatsapp.wds.components.edittext.WDSEditText android:id="0x7f0b1dd9" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" style="0x7f1506a1"/>
+        <com.whatsapp.WaImageButton android:layout_gravity="center" android:id="0x7f0b2331" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xc="0x7f0809db" app:NOT_FOUND_0xd="true" style="0x7f1506a3"/>
+    </LinearLayout>
+</merge>

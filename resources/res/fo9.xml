@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="0x7f0b25f3" android:visibility="gone" android:layout_width="0x7f070e62" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e5c" android:layout_marginRight="0x7f070e5c" android:layout_marginBottom="0x7f070e6c" app:NOT_FOUND_0x11="?unknown_attr_ref: 7f040bac" app:NOT_FOUND_0x12="0x7f070e64" app:NOT_FOUND_0x13="0dp">
+        <LinearLayout android:layout_gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="0x7f0b25f2" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.webpagepreview.WebPagePreviewView android:id="0x7f0b1254" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    <com.whatsapp.TextEmojiLabel android:textColor="?unknown_attr_ref: 7f040d35" android:textColorLink="?unknown_attr_ref: 7f040d35" android:gravity="center" android:id="0x7f0b14eb" android:paddingLeft="0x7f070e69" android:paddingTop="0x7f070e6c" android:paddingRight="0x7f070e69" android:paddingBottom="0x7f070e6c" android:layout_width="match_parent" android:layout_height="wrap_content" android:lineSpacingMultiplier="1.15"/>
+</LinearLayout>

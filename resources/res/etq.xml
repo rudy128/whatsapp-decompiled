@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingTop="24dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="24dp" android:paddingEnd="24dp">
+    <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f0408cf" android:id="0x7f0b22b0" android:layout_width="0dp" android:layout_height="wrap_content" android:text="0x7f121f2b" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0x10="0" style="0x7f15049c"/>
+    <RadioGroup android:gravity="left" android:orientation="vertical" android:id="0x7f0b1b4a" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f071103" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0x7f0b22b0"/>
+    <com.whatsapp.WaTextView android:id="0x7f0b16ec" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="0x7f121f2a" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0x7f0b1b4a"/>
+    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b05cf" android:text="0x7f12318e" app:NOT_FOUND_0xb="?unknown_attr_ref: 7f04056b" app:NOT_FOUND_0xd="0x7f0b07da" app:NOT_FOUND_0xf="0x7f0b16ec" style="0x7f150673"/>
+    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b07da" android:text="0x7f120a36" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xf="0x7f0b16ec" style="0x7f150673"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

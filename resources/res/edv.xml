@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="0x7f080248" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.flows.ui.PercentageBasedMaxHeightLinearLayout android:orientation="vertical" android:id="0x7f0b096c" android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout android:id="0x7f0b22f3" android:background="?unknown_attr_ref: 7f040d52" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.whatsapp.wds.components.topbar.WDSToolbar android:theme="0x7f1505be" android:id="0x7f0b096d" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x15="0x7f12319f"/>
+            <View android:id="0x7f0b0ac5" android:layout_below="0x7f0b096d" style="0x7f1503bf"/>
+            <FrameLayout android:id="0x7f0b12dd" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="240dp" android:layout_below="0x7f0b0ac5" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+                <com.whatsapp.CircularProgressBar android:layout_gravity="center" android:id="0x7f0b12d9" android:layout_width="32dp" android:layout_height="32dp" android:indeterminate="true" android:indeterminateOnly="false" android:indeterminateTint="?unknown_attr_ref: 7f0408cc" android:indeterminateTintMode="src_atop" app:NOT_FOUND_0x12="?unknown_attr_ref: 7f04035e" app:NOT_FOUND_0x13="?unknown_attr_ref: 7f0408cc" app:NOT_FOUND_0x14="4"/>
+                <ViewStub android:layout_gravity="center" android:id="0x7f0b0c87" android:layout="0x7f0e044f" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="0x7f071107" android:layout_marginRight="0x7f071107"/>
+            </FrameLayout>
+        </RelativeLayout>
+    </com.whatsapp.flows.ui.PercentageBasedMaxHeightLinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

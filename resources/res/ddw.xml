@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:id="0x7f0b1d55" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:padding="0x7f070e0d" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageView android:id="0x7f0b1311" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xe="0x7f080b70"/>
+            <com.whatsapp.WaTextView android:textColor="0x7f060a26" android:gravity="center_horizontal" android:id="0x7f0b010d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:layout_marginBottom="8dp" app:NOT_FOUND_0xd="?unknown_attr_ref: 7f04056b" style="0x7f1506c3"/>
+            <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f0409e9" android:gravity="center_horizontal" android:id="0x7f0b010b" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1506be"/>
+            <Space android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b010a" android:layout_width="match_parent" android:layout_marginTop="0x7f070e06" android:layout_marginBottom="0x7f070e06" android:NOT_FOUND_0xc="0x7f070e06" style="0x7f150671"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1fd2" android:layout_width="match_parent" android:text="0x7f123428" style="0x7f150679"/>
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

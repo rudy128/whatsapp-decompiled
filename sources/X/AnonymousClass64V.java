@@ -1,0 +1,184 @@
+package X;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+/* renamed from: X.64V  reason: invalid class name */
+public final class AnonymousClass64V extends AnonymousClass184 {
+    public Boolean A00;
+    public Boolean A01;
+    public Boolean A02;
+    public Boolean A03;
+    public Boolean A04;
+    public Boolean A05;
+    public Boolean A06;
+    public Integer A07;
+    public Integer A08;
+    public Integer A09;
+    public Integer A0A;
+    public Integer A0B;
+    public Integer A0C;
+    public Long A0D;
+    public Long A0E;
+    public Long A0F;
+    public Long A0G;
+    public Long A0H;
+    public Long A0I;
+    public Long A0J;
+    public Long A0K;
+    public Long A0L;
+    public Long A0M;
+    public Long A0N;
+    public Long A0O;
+    public Long A0P;
+    public Long A0Q;
+    public Long A0R;
+    public Long A0S;
+    public Long A0T;
+    public Long A0U;
+    public Long A0V;
+    public Long A0W;
+    public Long A0X;
+    public Long A0Y;
+    public Long A0Z;
+    public Long A0a;
+    public Long A0b;
+    public Long A0c;
+    public Long A0d;
+    public String A0e;
+    public String A0f;
+    public String A0g;
+    public String A0h;
+
+    public AnonymousClass64V() {
+        super(5206, new C18180vt(1, 5, 20, false), 0, -1);
+    }
+
+    public void serialize(C107425Zq r3) {
+        C18070vi.A0d(r3, 0);
+        r3.CHf(1, this.A0D);
+        r3.CHf(2, this.A0E);
+        r3.CHf(3, this.A0F);
+        r3.CHf(4, this.A0G);
+        r3.CHf(5, this.A07);
+        r3.CHf(6, this.A0H);
+        r3.CHf(7, this.A0I);
+        r3.CHf(8, this.A00);
+        r3.CHf(9, this.A0J);
+        r3.CHf(10, this.A0K);
+        r3.CHf(11, this.A0L);
+        r3.CHf(12, this.A01);
+        r3.CHf(13, this.A08);
+        r3.CHf(14, this.A02);
+        r3.CHf(44, this.A03);
+        r3.CHf(15, this.A04);
+        r3.CHf(17, this.A0M);
+        r3.CHf(18, this.A0e);
+        r3.CHf(19, this.A0N);
+        r3.CHf(20, this.A09);
+        r3.CHf(21, this.A0A);
+        r3.CHf(22, this.A0O);
+        r3.CHf(23, this.A0P);
+        r3.CHf(24, this.A0f);
+        r3.CHf(25, this.A0Q);
+        r3.CHf(45, this.A05);
+        r3.CHf(26, this.A0R);
+        r3.CHf(27, this.A0S);
+        r3.CHf(28, this.A0T);
+        r3.CHf(29, this.A0B);
+        r3.CHf(30, this.A0U);
+        r3.CHf(31, this.A06);
+        r3.CHf(32, this.A0V);
+        r3.CHf(33, this.A0W);
+        r3.CHf(34, this.A0X);
+        r3.CHf(35, this.A0Y);
+        r3.CHf(36, this.A0Z);
+        r3.CHf(37, this.A0a);
+        r3.CHf(38, this.A0C);
+        r3.CHf(39, this.A0b);
+        r3.CHf(40, this.A0c);
+        r3.CHf(41, this.A0d);
+        r3.CHf(42, this.A0g);
+        r3.CHf(43, this.A0h);
+    }
+
+    public Map getFieldsMap() {
+        LinkedHashMap A13 = C17880vN.A13();
+        A13.put(C17880vN.A0h(), this.A0D);
+        AnonymousClass184.A0X(A13, 47);
+        A13.put(AnonymousClass184.A0G(AnonymousClass184.A0F(AnonymousClass184.A0E(AnonymousClass184.A0D(AnonymousClass184.A0C(AnonymousClass184.A0B(AnonymousClass184.A0A(AnonymousClass184.A09(AnonymousClass184.A08(AnonymousClass184.A07(AnonymousClass184.A06(C108975cc.A0T(C17880vN.A0i(), this.A0E, A13), this.A0F, A13), this.A0G, A13), this.A07, A13), this.A0H, A13), this.A0I, A13), this.A00, A13), this.A0J, A13), this.A0K, A13), this.A0L, A13), this.A01, A13), this.A08, A13), this.A02);
+        A13.put(AnonymousClass184.A0H(44, this.A03, A13), this.A04);
+        AnonymousClass184.A0X(A13, 16);
+        A13.put(17, this.A0M);
+        AnonymousClass184.A0X(A13, 46);
+        A13.put(C108975cc.A0U(AnonymousClass184.A0Q(AnonymousClass184.A0P(AnonymousClass184.A0O(AnonymousClass184.A0N(AnonymousClass184.A0M(AnonymousClass184.A0L(18, this.A0e, A13), this.A0N, A13), this.A09, A13), this.A0A, A13), this.A0O, A13), this.A0P, A13), this.A0f, A13), this.A0Q);
+        A13.put(45, this.A05);
+        A13.put(26, this.A0R);
+        A13.put(27, this.A0S);
+        A13.put(28, this.A0T);
+        A13.put(C108975cc.A0W(C108975cc.A0V(29, this.A0B, A13), this.A0U, A13), this.A06);
+        A13.put(C108955ca.A0j(), this.A0V);
+        A13.put(33, this.A0W);
+        A13.put(34, this.A0X);
+        A13.put(35, this.A0Y);
+        A13.put(36, this.A0Z);
+        A13.put(37, this.A0a);
+        A13.put(38, this.A0C);
+        A13.put(39, this.A0b);
+        A13.put(40, this.A0c);
+        A13.put(41, this.A0d);
+        A13.put(42, this.A0g);
+        A13.put(43, this.A0h);
+        AnonymousClass184.A0X(A13, 48);
+        return A13;
+    }
+
+    public String toString() {
+        StringBuilder A10 = AnonymousClass000.A10();
+        A10.append("WamMediaTranscode {");
+        AnonymousClass186.A00(this.A0D, "batchSize", A10);
+        AnonymousClass186.A00(this.A0E, "dstAudioBitrate", A10);
+        AnonymousClass186.A00(this.A0F, "dstBitrate", A10);
+        AnonymousClass186.A00(this.A0G, "dstDurationSec", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A07), "dstFormat", A10);
+        AnonymousClass186.A00(this.A0H, "dstFrameRate", A10);
+        AnonymousClass186.A00(this.A0I, "dstHeight", A10);
+        AnonymousClass186.A00(this.A00, "dstIsPjpeg", A10);
+        AnonymousClass186.A00(this.A0J, "dstSize", A10);
+        AnonymousClass186.A00(this.A0K, "dstWidth", A10);
+        AnonymousClass186.A00(this.A0L, "firstScanSize", A10);
+        AnonymousClass186.A00(this.A01, "hasStatusAudience", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A08), "importMediaType", A10);
+        AnonymousClass186.A00(this.A02, "isMp4checkSuccess", A10);
+        AnonymousClass186.A00(this.A03, "isOverallSuccess", A10);
+        AnonymousClass186.A00(this.A04, "isTranscodeSuccess", A10);
+        AnonymousClass186.A00(this.A0M, "lowQualitySize", A10);
+        AnonymousClass186.A00(this.A0e, "mediaEdits", A10);
+        AnonymousClass186.A00(this.A0N, "mediaId", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A09), "mediaOperation", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A0A), "mediaTranscodeAlgorithmType", A10);
+        AnonymousClass186.A00(this.A0O, "midQualitySize", A10);
+        AnonymousClass186.A00(this.A0P, "outputQualityScore", A10);
+        AnonymousClass186.A00(this.A0f, "passthroughSkipReason", A10);
+        AnonymousClass186.A00(this.A0Q, "queueTimeMs", A10);
+        AnonymousClass186.A00(this.A05, "reusedExistingMedia", A10);
+        AnonymousClass186.A00(this.A0R, "srcAudioBitrate", A10);
+        AnonymousClass186.A00(this.A0S, "srcBitrate", A10);
+        AnonymousClass186.A00(this.A0T, "srcDurationSec", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A0B), "srcFormat", A10);
+        AnonymousClass186.A00(this.A0U, "srcFrameRate", A10);
+        AnonymousClass186.A00(this.A06, "srcHdr", A10);
+        AnonymousClass186.A00(this.A0V, "srcHeight", A10);
+        AnonymousClass186.A00(this.A0W, "srcSize", A10);
+        AnonymousClass186.A00(this.A0X, "srcWidth", A10);
+        AnonymousClass186.A00(this.A0Y, "targetBitrate", A10);
+        AnonymousClass186.A00(this.A0Z, "targetMaxEdge", A10);
+        AnonymousClass186.A00(this.A0a, "targetQuality", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A0C), "targetQualitySetting", A10);
+        AnonymousClass186.A00(this.A0b, "thumbnailSize", A10);
+        AnonymousClass186.A00(this.A0c, "totalDurationMs", A10);
+        AnonymousClass186.A00(this.A0d, "transcodeDurationMs", A10);
+        AnonymousClass186.A00(this.A0g, "transcodeErrorException", A10);
+        return AnonymousClass184.A0S(this.A0h, "transcodeErrorInfo", A10);
+    }
+}

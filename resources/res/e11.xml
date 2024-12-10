@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:gravity="center" android:id="0x7f0b08a7" android:layout_width="32dp" android:layout_height="32dp">
+        <com.whatsapp.WaImageButton android:gravity="center" android:id="0x7f0b08a5" android:background="@null" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="center" android:contentDescription="0x7f1233b2" app:NOT_FOUND_0xe="0x7f0806ee" app:NOT_FOUND_0xf="?unknown_attr_ref: 7f04007c"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b1ac5" android:layout="0x7f0e025a" android:inflatedId="0x7f0b1ac5" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <FrameLayout android:id="0x7f0b08aa" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ViewStub android:layout_gravity="center_vertical" android:id="0x7f0b0245" android:visibility="gone" android:layout="0x7f0e0829" android:layout_width="match_parent" android:layout_height="24dp"/>
+        <com.whatsapp.voicerecorder.VoiceNoteSeekBar android:layout_gravity="center_vertical" android:id="0x7f0b023f" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x10="12dp" app:NOT_FOUND_0x11="3dp" style="0x7f15065a"/>
+    </FrameLayout>
+</merge>

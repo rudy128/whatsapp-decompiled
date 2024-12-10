@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.WaImageButton xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b0686" android:background="0x7f0806f1" android:layout_width="48dp" android:layout_height="48dp" android:layout_marginBottom="0x7f070e0f" android:contentDescription="0x7f120de6" android:transitionName="0x7f12348a" android:elevation="0x7f070e0f" app:NOT_FOUND_0x8="0x7f0805c2" app:NOT_FOUND_0x9="0x7f060dba" style="0x7f150006"/>

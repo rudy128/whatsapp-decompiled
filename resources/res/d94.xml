@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b0886" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e03d2"/>
+        <include layout="0x7f0e0405"/>
+        <include layout="0x7f0e0370"/>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b21ad" android:layout="0x7f0e0c99" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.whatsapp.components.TextAndDateLayout android:id="0x7f0b2219" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="0x7f0e03a4"/>
+        <LinearLayout android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0b09b4" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:id="0x7f0b099d" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150685"/>
+        </LinearLayout>
+    </com.whatsapp.components.TextAndDateLayout>
+</LinearLayout>

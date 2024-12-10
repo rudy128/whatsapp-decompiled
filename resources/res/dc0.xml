@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.components.MainChildCoordinatorLayout android:id="0x7f0b05b0" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x1d="0x7f0b03f9">
+        <FrameLayout android:id="0x7f0b03f9" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x14="0x7f070af9" app:NOT_FOUND_0x15="com.google.android.material.bottomsheet.BottomSheetBehavior">
+            <FrameLayout android:id="0x7f0b0e90" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:gravity="center" android:layout_gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="0x7f0b0b1e" android:layout_width="0x7f07057a" android:layout_height="0x7f070579" app:NOT_FOUND_0x17="0x7f0b0e9f" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1b="0">
+                <com.whatsapp.camera.DragGalleryStripIndicator android:id="0x7f0b0b1d" android:padding="0x7f070e0b" android:visibility="invisible" android:layout_width="0x7f070578" android:layout_height="0x7f070577"/>
+            </LinearLayout>
+            <FrameLayout android:id="0x7f0b0e9f" android:focusable="false" android:clickable="false" android:clipChildren="true" android:layout_width="0dp" android:layout_height="0x7f070227" android:layout_marginBottom="0x7f070e09" app:NOT_FOUND_0x17="0x7f0b05bc" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1b="0">
+                <androidx.recyclerview.widget.RecyclerView android:layout_gravity="bottom" android:id="0x7f0b1b94" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            </FrameLayout>
+            <View android:id="0x7f0b1167" android:layout_width="match_parent" android:layout_height="0x7f070e09" app:NOT_FOUND_0x16="0x7f0b0e9f" app:NOT_FOUND_0x17="0x7f0b05bc" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1b="0"/>
+            <RelativeLayout android:id="0x7f0b05a9" android:layout_width="0dp" android:layout_height="0dp" app:NOT_FOUND_0x16="0x7f0b05bc" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1b="0" app:NOT_FOUND_0x1c="0">
+                <include layout="0x7f0e0222"/>
+            </RelativeLayout>
+            <com.whatsapp.camera.mode.CameraModeTabLayout android:id="0x7f0b05bc" android:background="0x7f060bea" android:paddingTop="0x7f070ee4" android:paddingBottom="0x7f070ee3" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x1b="0" app:NOT_FOUND_0x1e="0dp" app:NOT_FOUND_0x1f="0dp"/>
+            <com.whatsapp.camera.recording.RecordingView android:id="0x7f0b1bb4" android:background="0x7f0801e5" android:paddingLeft="0x7f070e07" android:paddingTop="0x7f070e06" android:paddingRight="0x7f070e07" android:paddingBottom="0x7f070e06" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e07" app:NOT_FOUND_0x19="0" app:NOT_FOUND_0x1a="0" app:NOT_FOUND_0x1c="0x7f0b05a9"/>
+            <ViewStub android:id="0x7f0b05ab" android:layout="0x7f0e0038" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070106" android:layout_centerHorizontal="true" app:NOT_FOUND_0x19="0" app:NOT_FOUND_0x1a="0" app:NOT_FOUND_0x1c="0x7f0b05a9"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <include layout="0x7f0e0228"/>
+    </com.whatsapp.components.MainChildCoordinatorLayout>
+    <ViewStub android:layout_gravity="bottom" android:id="0x7f0b05ad" android:layout="0x7f0e0116" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</merge>

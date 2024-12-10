@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="30dp">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e03d2"/>
+        <include layout="0x7f0e0405"/>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="0x7f0b2500" android:paddingLeft="0x7f0703ce" android:paddingRight="0x7f070e0f" android:paddingBottom="0x7f070e0f" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.conversation.conversationrow.components.ViewOnceDownloadProgressView android:gravity="center" android:layout_gravity="center" android:id="0x7f0b24fc" android:paddingTop="1dp" android:paddingRight="0x7f0703cc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0703cd" android:layout_marginBottom="0x7f0703cd"/>
+            <com.whatsapp.components.TextAndDateLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.WaTextView android:textAppearance="?unknown_attr_ref: 7f040cef" android:gravity="center_vertical" android:layout_gravity="left" android:id="0x7f0b2502" android:paddingTop="0x7f0703d0" android:paddingBottom="0x7f0703d0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1"/>
+                <include layout="0x7f0e0368"/>
+            </com.whatsapp.components.TextAndDateLayout>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

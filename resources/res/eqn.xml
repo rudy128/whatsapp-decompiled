@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="bottom" android:id="0x7f0b0dc9" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b0880" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b05dd" android:layout_width="0dp" android:layout_height="0dp" app:NOT_FOUND_0x5="0" app:NOT_FOUND_0x6="0" app:NOT_FOUND_0x7="0" app:NOT_FOUND_0x8="0">
+            <com.whatsapp.mediacomposer.doodle.ImagePreviewContentLayout android:id="0x7f0b13be" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <include layout="0x7f0e07ea"/>
+            <include layout="0x7f0e04ba"/>
+        </FrameLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <include layout="0x7f0e04b6"/>
+    <include layout="0x7f0e0569"/>
+    <ViewStub android:id="0x7f0b0d6e" android:layout="0x7f0e0739" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

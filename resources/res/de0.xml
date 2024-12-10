@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:layout_width="match_parent" android:layout_height="match_parent" layout="0x7f0e01ee"/>
+    <ViewStub android:gravity="center" android:id="0x7f0b131d" android:layout="0x7f0e07bc" android:inflatedId="0x7f0b1318" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:gravity="center" android:id="0x7f0b2405" android:layout="0x7f0e0cfc" android:inflatedId="0x7f0b2404" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:gravity="center" android:id="0x7f0b2547" android:layout="0x7f0e0dbe" android:inflatedId="0x7f0b2546" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:id="0x7f0b1986" android:layout="0x7f0e09e5" android:inflatedId="0x7f0b1985" android:layout_width="0dp" android:layout_height="0dp"/>
+    <ViewStub android:id="0x7f0b0e1c" android:layout="0x7f0e057a" android:inflatedId="0x7f0b0e1b" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <View android:layout_gravity="top" android:id="0x7f0b054d" android:background="0x7f0801d0" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp"/>
+    <View android:layout_gravity="bottom" android:id="0x7f0b0547" android:background="0x7f0801cd" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginLeft="0x7f070fe1" android:layout_marginRight="0x7f070fe1" android:NOT_FOUND_0x11="0x7f070fe1"/>
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b1983" android:padding="0x7f0701cf" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ViewStub android:id="0x7f0b202e" android:visibility="gone" android:layout="0x7f0e0be7" android:inflatedId="0x7f0b202e" android:layout_width="wrap_content" android:layout_height="0x7f0701d0" android:layout_marginEnd="0x7f070d0b" app:NOT_FOUND_0x13="0x7f0b054a" app:NOT_FOUND_0x15="0x7f0b054a" app:NOT_FOUND_0x16="2" app:NOT_FOUND_0x18="0"/>
+        <com.whatsapp.WaImageView android:id="0x7f0b054a" android:layout_width="wrap_content" android:layout_height="0x7f0701d0" android:scaleType="fitCenter" android:layout_marginStart="0x7f0701ce" android:layout_marginEnd="0x7f0701ce" app:NOT_FOUND_0x13="0x7f0b0549" app:NOT_FOUND_0x15="0x7f0b0549" app:NOT_FOUND_0x17="0x7f0b202e" app:NOT_FOUND_0x19="0x7f0b0549" app:NOT_FOUND_0x1a="0x7f080a76"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="@android:color/white" android:id="0x7f0b0549" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="0x7f0701ce" app:NOT_FOUND_0x12="?unknown_attr_ref: 7f04056b" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x17="0x7f0b054a"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <ViewStub android:id="0x7f0b0544" android:layout="0x7f0e01ea" android:inflatedId="0x7f0b0543" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

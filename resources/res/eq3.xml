@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b10a0" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:id="0x7f0b02e4" android:paddingLeft="0x7f07083b" android:paddingRight="0x7f07083b" android:layout_width="wrap_content" android:layout_height="90dp" android:layout_centerVertical="true">
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b02e2" android:layout_width="0x7f07037a" android:layout_height="0x7f07037a" app:NOT_FOUND_0x15="0x7f08041d"/>
+    </FrameLayout>
+    <com.whatsapp.WaImageView android:id="0x7f0b05cb" android:paddingLeft="0x7f07083b" android:paddingRight="0x7f07083b" android:layout_width="wrap_content" android:layout_height="0x7f0704a1" android:scaleType="center" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="0x7f1229cd" app:NOT_FOUND_0x15="0x7f08044e" app:NOT_FOUND_0x16="0x7f060dfb"/>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b02ed" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e07" android:layout_marginBottom="0x7f070e07" android:layout_toLeftOf="0x7f0b05cb" android:layout_toRightOf="0x7f0b02e4" android:layout_centerVertical="true">
+        <com.whatsapp.TextEmojiLabel android:textColor="?unknown_attr_ref: 7f0408cf" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b02ee" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="false" app:NOT_FOUND_0x14="?unknown_attr_ref: 7f04056b" style="0x7f1502de"/>
+        <com.whatsapp.TextEmojiLabel android:textColor="?unknown_attr_ref: 7f0408cf" android:gravity="left" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b02ec" android:paddingBottom="0x7f071104" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="false" android:lineSpacingExtra="2dp" style="0x7f1502da"/>
+    </LinearLayout>
+</RelativeLayout>

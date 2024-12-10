@@ -1,0 +1,182 @@
+package X;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+/* renamed from: X.8sP  reason: invalid class name and case insensitive filesystem */
+public final class C171868sP extends AnonymousClass184 {
+    public Boolean A00;
+    public Boolean A01;
+    public Boolean A02;
+    public Boolean A03;
+    public Boolean A04;
+    public Boolean A05;
+    public Boolean A06;
+    public Integer A07;
+    public Integer A08;
+    public Integer A09;
+    public Integer A0A;
+    public Integer A0B;
+    public Integer A0C;
+    public Integer A0D;
+    public Integer A0E;
+    public Long A0F;
+    public Long A0G;
+    public Long A0H;
+    public Long A0I;
+    public Long A0J;
+    public Long A0K;
+    public Long A0L;
+    public Long A0M;
+    public Long A0N;
+    public Long A0O;
+    public Long A0P;
+    public Long A0Q;
+    public Long A0R;
+    public Long A0S;
+    public Long A0T;
+    public Long A0U;
+    public Long A0V;
+    public Long A0W;
+    public Long A0X;
+    public Long A0Y;
+    public String A0Z;
+    public String A0a;
+    public String A0b;
+    public String A0c;
+    public String A0d;
+    public String A0e;
+    public String A0f;
+    public String A0g;
+    public String A0h;
+    public String A0i;
+
+    public void serialize(C107425Zq r3) {
+        C18070vi.A0d(r3, 0);
+        r3.CHf(30, this.A0F);
+        r3.CHf(31, this.A0G);
+        r3.CHf(32, this.A0H);
+        r3.CHf(35, this.A0I);
+        r3.CHf(36, this.A0J);
+        r3.CHf(33, this.A0K);
+        r3.CHf(34, this.A0L);
+        r3.CHf(49, this.A0Z);
+        r3.CHf(8, this.A07);
+        r3.CHf(9, this.A08);
+        r3.CHf(10, this.A0a);
+        r3.CHf(12, this.A0M);
+        r3.CHf(13, this.A0b);
+        r3.CHf(1, this.A0N);
+        r3.CHf(46, this.A0c);
+        r3.CHf(47, this.A0d);
+        r3.CHf(48, this.A0e);
+        r3.CHf(27, this.A09);
+        r3.CHf(20, this.A0A);
+        r3.CHf(14, this.A0f);
+        r3.CHf(2, this.A0O);
+        r3.CHf(7, this.A0P);
+        r3.CHf(15, this.A00);
+        r3.CHf(21, this.A0g);
+        r3.CHf(28, this.A01);
+        r3.CHf(25, this.A02);
+        r3.CHf(26, this.A03);
+        r3.CHf(29, this.A04);
+        r3.CHf(16, this.A05);
+        r3.CHf(23, this.A0Q);
+        r3.CHf(17, this.A0R);
+        r3.CHf(6, this.A0B);
+        r3.CHf(37, this.A06);
+        r3.CHf(38, this.A0S);
+        r3.CHf(39, this.A0T);
+        r3.CHf(40, this.A0U);
+        r3.CHf(41, this.A0V);
+        r3.CHf(42, this.A0W);
+        r3.CHf(43, this.A0X);
+        r3.CHf(44, this.A0Y);
+        r3.CHf(3, this.A0h);
+        r3.CHf(19, this.A0i);
+        r3.CHf(4, this.A0C);
+        r3.CHf(45, this.A0D);
+        r3.CHf(5, this.A0E);
+    }
+
+    public C171868sP() {
+        super(3770, AnonymousClass184.A02(), 2, 113760892);
+    }
+
+    public Map getFieldsMap() {
+        LinkedHashMap A13 = C17880vN.A13();
+        A13.put(AnonymousClass8BV.A0X(AnonymousClass8BV.A0W(AnonymousClass8BV.A0Z(AnonymousClass8BV.A0Y(AnonymousClass8BV.A0V(C108975cc.A0W(30, this.A0F, A13), this.A0G, A13), this.A0H, A13), this.A0I, A13), this.A0J, A13), this.A0K, A13), this.A0L);
+        AnonymousClass184.A0X(A13, 22);
+        A13.put(AnonymousClass184.A0C(AnonymousClass184.A0B(AnonymousClass184.A0A(49, this.A0Z, A13), this.A07, A13), this.A08, A13), this.A0a);
+        AnonymousClass184.A0X(A13, 11);
+        A13.put(AnonymousClass184.A03(AnonymousClass184.A0F(C108955ca.A0h(), this.A0M, A13), this.A0b, A13), this.A0N);
+        A13.put(46, this.A0c);
+        A13.put(47, this.A0d);
+        A13.put(AnonymousClass184.A0J(AnonymousClass184.A0P(AnonymousClass184.A0I(AnonymousClass8BV.A0U(AnonymousClass8BV.A0R(C108975cc.A0U(AnonymousClass8BV.A0T(AnonymousClass184.A0N(AnonymousClass184.A0H(AnonymousClass184.A09(C108975cc.A0S(AnonymousClass184.A0G(AnonymousClass184.A0M(AnonymousClass8BV.A0S(48, this.A0e, A13), this.A09, A13), this.A0A, A13), this.A0f, A13), this.A0O, A13), this.A0P, A13), this.A00, A13), this.A0g, A13), this.A01, A13), this.A02, A13), this.A03, A13), this.A04, A13), this.A05, A13), this.A0Q, A13), this.A0R);
+        AnonymousClass184.A0X(A13, 18);
+        A13.put(C17880vN.A0m(), this.A0B);
+        A13.put(37, this.A06);
+        A13.put(38, this.A0S);
+        A13.put(39, this.A0T);
+        A13.put(40, this.A0U);
+        A13.put(41, this.A0V);
+        A13.put(42, this.A0W);
+        A13.put(43, this.A0X);
+        A13.put(AnonymousClass184.A06(AnonymousClass184.A0L(AnonymousClass184.A05(44, this.A0Y, A13), this.A0h, A13), this.A0i, A13), this.A0C);
+        A13.put(45, this.A0D);
+        AnonymousClass184.A0X(A13, 24);
+        A13.put(C17880vN.A0l(), this.A0E);
+        return A13;
+    }
+
+    public String toString() {
+        StringBuilder A10 = AnonymousClass000.A10();
+        A10.append("WamBusinessTemplateMessageThreadLevelUserAction {");
+        AnonymousClass186.A00(this.A0F, "apiDailyThreadCount7d", A10);
+        AnonymousClass186.A00(this.A0G, "apiMessageCount1d", A10);
+        AnonymousClass186.A00(this.A0H, "apiMessageCount7d", A10);
+        AnonymousClass186.A00(this.A0I, "apiTotalMessageCount", A10);
+        AnonymousClass186.A00(this.A0J, "apiTotalNewThreadCount", A10);
+        AnonymousClass186.A00(this.A0K, "apiUniqueThreadCount1d", A10);
+        AnonymousClass186.A00(this.A0L, "apiUniqueThreadCount7d", A10);
+        AnonymousClass186.A00(this.A0Z, "bizTrustTier", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A07), "blockEntryPoint", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A08), "blockReason", A10);
+        AnonymousClass186.A00(this.A0a, "businessMessageDeliveredTsList", A10);
+        AnonymousClass186.A00(this.A0M, "businessMessageSentTs", A10);
+        AnonymousClass186.A00(this.A0b, "businessMessageSentTsList", A10);
+        AnonymousClass186.A00(this.A0N, "businessPhoneNumber", A10);
+        AnonymousClass186.A00(this.A0c, "callDirectionList", A10);
+        AnonymousClass186.A00(this.A0d, "callDurationList", A10);
+        AnonymousClass186.A00(this.A0e, "callTsList", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A09), "chatsFolderType", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A0A), "contactType", A10);
+        AnonymousClass186.A00(this.A0f, "customBlockReasonStr", A10);
+        AnonymousClass186.A00(this.A0O, "deltaTime", A10);
+        AnonymousClass186.A00(this.A0P, "deltaTimeReceived", A10);
+        AnonymousClass186.A00(this.A00, "didUserReply", A10);
+        AnonymousClass186.A00(this.A0g, "hsmTagStr", A10);
+        AnonymousClass186.A00(this.A01, "isBulkAction", A10);
+        AnonymousClass186.A00(this.A02, "isFromAdsManagerMm", A10);
+        AnonymousClass186.A00(this.A03, "isFromCapi", A10);
+        AnonymousClass186.A00(this.A04, "isMuted", A10);
+        AnonymousClass186.A00(this.A05, "isUnsubBlock", A10);
+        AnonymousClass186.A00(this.A0Q, "lastOutgoingTs", A10);
+        AnonymousClass186.A00(this.A0R, "messageDeliveredTs", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A0B), "qbmFlag", A10);
+        AnonymousClass186.A00(this.A06, "readReceiptsEnabled", A10);
+        AnonymousClass186.A00(this.A0S, "smbDailyThreadCount7d", A10);
+        AnonymousClass186.A00(this.A0T, "smbMessageCount1d", A10);
+        AnonymousClass186.A00(this.A0U, "smbMessageCount7d", A10);
+        AnonymousClass186.A00(this.A0V, "smbTotalMessageCount", A10);
+        AnonymousClass186.A00(this.A0W, "smbTotalNewThreadCount", A10);
+        AnonymousClass186.A00(this.A0X, "smbUniqueThreadCount1d", A10);
+        AnonymousClass186.A00(this.A0Y, "smbUniqueThreadCount7d", A10);
+        AnonymousClass186.A00(this.A0h, "templateId", A10);
+        AnonymousClass186.A00(this.A0i, "templateIdsList", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A0C), "threadActionEntryPoint", A10);
+        AnonymousClass186.A00(C17900vP.A08(this.A0D), "threadCreationTime", A10);
+        return AnonymousClass184.A0S(C17900vP.A08(this.A0E), "threadLevelAction", A10);
+    }
+}

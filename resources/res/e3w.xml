@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_gravity="top|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0b0e7a" android:paddingLeft="0x7f070a45" android:paddingTop="0x7f070a45" android:paddingRight="0x7f070a45" android:paddingStart="0x7f070a45" android:paddingEnd="0x7f070a45" style="?unknown_attr_ref: 7f04073c">
+        <com.google.android.material.button.MaterialButton android:gravity="center" android:layout_gravity="top" android:id="0x7f0b05cf" android:padding="12dp" android:layout_width="0x7f070a88" android:layout_height="0x7f070a88" android:insetTop="0dp" android:insetBottom="0dp" android:contentDescription="0x7f123348" app:NOT_FOUND_0x15="0x7f080757" style="?unknown_attr_ref: 7f040739"/>
+        <FrameLayout android:id="0x7f0b157c" android:paddingLeft="0x7f070a4a" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:paddingStart="0x7f070a4a">
+            <TextView android:gravity="bottom|left|center_vertical|center_horizontal|center|start" android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:id="0x7f0b1581" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x14="0x7f070a5b" style="?unknown_attr_ref: 7f04073e"/>
+            <TextView android:gravity="bottom|left|center_vertical|center_horizontal|center|start" android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:id="0x7f0b157b" android:paddingBottom="0x7f070a54" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x14="0x7f070a55" app:NOT_FOUND_0x16="0x7f070a49" style="?unknown_attr_ref: 7f04073d"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="0x7f0c0032" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.google.android.material.button.MaterialButton android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:id="0x7f0b07da" android:layout_width="wrap_content" android:layout_height="0x7f070a88" android:text="0x7f12335b" android:contentDescription="0x7f12335b" style="?unknown_attr_ref: 7f04073a"/>
+            <include layout="0x7f0e0875"/>
+        </LinearLayout>
+    </LinearLayout>
+    <View android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="0x7f070a46" style="?unknown_attr_ref: 7f04073b"/>
+</merge>

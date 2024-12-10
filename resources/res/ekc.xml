@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatCheckBox xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:textSize="0x7f071098" android:textColor="0x7f06056e" android:paddingLeft="0x7f070508" android:paddingTop="0x7f070509" android:paddingRight="0x7f070508" android:paddingBottom="0x7f070509" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x8="0x7f080302"/>

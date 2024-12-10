@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="0x7f060a25" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center_vertical" android:id="0x7f0b0fbe" android:background="0x7f060a10" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="48dp">
+        <ImageView android:id="0x7f0b1311" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="2dp" android:src="0x7f08010d" android:contentDescription="0x7f1232df" android:layout_marginStart="5dp" android:layout_marginEnd="2dp"/>
+        <LinearLayout android:gravity="start" android:orientation="vertical" android:paddingBottom="3dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:ellipsize="end" android:id="0x7f0b22b0" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1232df" android:singleLine="true" style="0x7f1504fa"/>
+            <TextView android:ellipsize="end" android:id="0x7f0b216d" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-3dp" android:singleLine="true" style="0x7f1504f7"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ListView android:id="0x7f0b12b4" android:layout_width="match_parent" android:layout_height="match_parent" android:divider="0x7f080278" android:dividerHeight="0.5dp"/>
+    <TextView android:textSize="20sp" android:textColor="?android:attr/textColorSecondaryNoDisable" android:gravity="center" android:id="0x7f0b0bfe" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:text="0x7f123386"/>
+</LinearLayout>

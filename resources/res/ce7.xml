@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:color="?android:attr/colorControlHighlight">
+    <item android:id="@android:id/mask">
+        <inset android:insetLeft="0x7f070180" android:insetRight="0x7f070180" android:insetTop="0x7f070181" android:insetBottom="0x7f070181">
+            <shape android:shape="rectangle">
+                <corners android:radius="0x7f070158"/>
+                <solid android:color="?unknown_attr_ref: 7f040d35"/>
+            </shape>
+        </inset>
+    </item>
+    <item>
+        <inset android:insetLeft="0x7f070180" android:insetRight="0x7f070180" android:insetTop="0x7f070181" android:insetBottom="0x7f070181">
+            <shape android:shape="rectangle">
+                <corners android:radius="0x7f070158"/>
+                <solid android:color="?unknown_attr_ref: 7f040214"/>
+            </shape>
+        </inset>
+    </item>
+</ripple>

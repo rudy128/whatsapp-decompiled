@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.util.ClippingLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="bottom" android:id="0x7f0b2553" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:id="0x7f0b2562" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.WaImageView android:id="0x7f0b2564" android:layout_width="47dp" android:layout_height="47dp" android:scaleType="center" app:NOT_FOUND_0x1a="0x7f080566"/>
+        <com.whatsapp.WaTextView android:textSize="20sp" android:textColor="?unknown_attr_ref: 7f040c5f" android:gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b2560" android:layout_width="84dp" android:layout_height="47dp" android:text="00:00" android:maxLines="1" app:NOT_FOUND_0x16="20sp" app:NOT_FOUND_0x17="0x7f0710a0" app:NOT_FOUND_0x18="1"/>
+        <FrameLayout android:id="0x7f0b2567" android:clipChildren="true" android:layout_width="0dp" android:layout_height="47dp" android:layout_weight="1">
+            <FrameLayout android:id="0x7f0b2568" android:clipChildren="true" android:layout_width="match_parent" android:layout_height="match_parent">
+                <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040c5f" android:ellipsize="none" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="0x7f0b2565" android:paddingLeft="16dp" android:paddingRight="0x7f071103" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="0x7f122ed4" android:scrollHorizontally="false" android:singleLine="true" android:drawablePadding="8dp" app:NOT_FOUND_0x19="0x7f0803ba"/>
+            </FrameLayout>
+            <View android:id="0x7f0b2566" android:background="0x7f0808e5" android:paddingLeft="0x7f071103" android:paddingRight="0x7f071103" android:layout_width="94dp" android:layout_height="match_parent"/>
+            <View android:layout_gravity="center_vertical" android:background="0x7f0808e6" android:layout_width="32dp" android:layout_height="32dp"/>
+        </FrameLayout>
+    </LinearLayout>
+</com.whatsapp.util.ClippingLayout>

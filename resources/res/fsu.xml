@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.settings.chat.wallpaper.WallpaperImagePreview android:id="0x7f0b224c" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.whatsapp.settings.chat.wallpaper.WallpaperMockChatView android:id="0x7f0b224d" android:paddingTop="0x7f0710ff" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b1f94" android:paddingTop="10dp" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010">
+        <com.whatsapp.WaImageView android:id="0x7f0b02b1" android:layout_width="48dp" android:layout_height="48dp" app:NOT_FOUND_0x19="0x7f080414" style="0x7f150006"/>
+        <com.facebook.shimmer.ShimmerFrameLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b1fa1" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.WaImageView android:id="0x7f0b1f9d" android:background="0x7f080b98" android:padding="1.25dp" android:layout_width="40dp" android:layout_height="40dp" android:scaleType="centerCrop" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x18="0" style="0x7f150006"/>
+                <View android:id="0x7f0b1f99" android:background="0x7f080206" android:layout_width="160dp" android:layout_height="18dp" android:layout_marginTop="0x7f071104" android:layout_marginStart="12dp" app:NOT_FOUND_0x15="0x7f0b1f9d" app:NOT_FOUND_0x18="0x7f0b1f9d"/>
+                <View android:id="0x7f0b1f93" android:background="0x7f080206" android:layout_width="120dp" android:layout_height="12dp" android:layout_marginTop="4dp" app:NOT_FOUND_0x16="0x7f0b1f99" app:NOT_FOUND_0x17="0x7f0b1f99"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </com.facebook.shimmer.ShimmerFrameLayout>
+    </LinearLayout>
+    <com.whatsapp.CircularProgressBar android:layout_gravity="center" android:id="0x7f0b1f9e" android:layout_width="64dp" android:layout_height="64dp" android:indeterminateOnly="true" app:NOT_FOUND_0xe="0x7f060c13" app:NOT_FOUND_0xf="?unknown_attr_ref: 7f040d80" app:NOT_FOUND_0x10="0x7f060c13" app:NOT_FOUND_0x11="?unknown_attr_ref: 7f0400e2" app:NOT_FOUND_0x12="1dp" app:NOT_FOUND_0x13="5"/>
+</FrameLayout>

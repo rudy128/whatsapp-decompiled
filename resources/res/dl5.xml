@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.WaImageView android:id="0x7f0b0465" android:layout_width="20dp" android:layout_height="20dp" app:NOT_FOUND_0x11="0x7f08037d"/>
+    <com.whatsapp.mediacomposer.doodle.textentry.strokepicker.StrokeWidthTool android:id="0x7f0b222f" android:paddingLeft="16dp" android:paddingTop="8dp" android:paddingRight="16dp" android:paddingBottom="8dp" android:focusable="true" android:layout_width="50dp" android:layout_height="0dp" android:layout_weight="1" android:NOT_FOUND_0xc="16dp" android:NOT_FOUND_0xd="8dp" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x12="?unknown_attr_ref: 7f040d35" app:NOT_FOUND_0x13="15dp" app:NOT_FOUND_0x14="0x7f060e9d"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b0464" android:padding="5dp" android:layout_width="20dp" android:layout_height="20dp" app:NOT_FOUND_0x11="0x7f08037d"/>
+</LinearLayout>

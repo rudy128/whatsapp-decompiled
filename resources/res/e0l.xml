@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.KeyboardPopupLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b132f" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="0x7f0b1a3d" android:paddingBottom="0x7f0710ff" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ViewStub android:id="0x7f0b2511" android:layout="0x7f0e04b1" android:inflatedId="0x7f0b10c8" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="0x7f070b09"/>
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b2266" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="0x7f071102" android:scaleType="fitCenter" android:contentDescription="0x7f121254"/>
+        <ProgressBar android:layout_gravity="center" android:id="0x7f0b12e6" android:layout_width="70dp" android:layout_height="70dp" android:layout_marginBottom="0x7f071102"/>
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="bottom" android:id="0x7f0b0c5b" android:paddingLeft="0x7f07022d" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="0x7f0e07dd"/>
+    </FrameLayout>
+</com.whatsapp.KeyboardPopupLayout>

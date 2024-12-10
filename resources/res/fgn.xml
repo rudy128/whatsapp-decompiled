@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.components.button.ThumbnailButton android:id="0x7f0b225b" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+    <com.whatsapp.WaImageView android:layout_gravity="top" android:visibility="gone" android:layout_width="match_parent" android:layout_height="40dp" android:importantForAccessibility="no" app:NOT_FOUND_0x16="0x7f08086d"/>
+    <com.whatsapp.WaImageView android:layout_gravity="bottom" android:visibility="gone" android:layout_width="match_parent" android:layout_height="40dp" android:importantForAccessibility="no" app:NOT_FOUND_0x16="0x7f08086c"/>
+    <RelativeLayout android:id="0x7f0b0886" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.components.button.ThumbnailButton android:id="0x7f0b1ab0" android:layout_width="0x7f070cc7" android:layout_height="0x7f070cc7" android:layout_marginLeft="0x7f070e08" android:layout_marginTop="0x7f070e06" android:scaleType="centerCrop" android:layout_alignParentLeft="true" android:layout_alignParentTop="true"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f0710a0" android:textColor="0x7f060aa8" android:ellipsize="end" android:id="0x7f0b22b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e06" android:layout_marginTop="0x7f070e06" android:layout_marginRight="0x7f070e06" android:maxLines="1" android:layout_toRightOf="0x7f0b1ab0" android:layout_alignParentTop="true" android:fontFamily="?unknown_attr_ref: 7f04056b" app:NOT_FOUND_0x15="0x7f070cc8"/>
+        <com.whatsapp.WaImageView android:id="0x7f0b1bc0" android:layout_width="0x7f070cc7" android:layout_height="0x7f070cc7" android:layout_marginLeft="0x7f070e08" android:layout_marginBottom="0x7f070e08" android:layout_alignParentBottom="true" app:NOT_FOUND_0x16="0x7f0805ef"/>
+    </RelativeLayout>
+    <com.facebook.shimmer.ShimmerFrameLayout android:id="0x7f0b1f96" android:background="0x7f060aa7" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</FrameLayout>

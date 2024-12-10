@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="0x7f0b2377" android:padding="0x7f070e0d" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="center_vertical" android:paddingBottom="0x7f070e0e" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageButton android:layout_gravity="center_vertical" android:id="0x7f0b2368" android:background="?unknown_attr_ref: 7f0409fc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f12319f" app:NOT_FOUND_0x13="0x7f080446" app:NOT_FOUND_0x14="0x7f060626"/>
+            <com.whatsapp.WaTextView android:textAppearance="?unknown_attr_ref: 7f040d07" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f122b05"/>
+        </FrameLayout>
+        <com.google.android.material.chip.ChipGroup android:id="0x7f0b2367" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0x7f070e0d" app:NOT_FOUND_0x11="0x7f070e0a" app:NOT_FOUND_0x12="false">
+            <com.google.android.material.chip.Chip android:id="0x7f0b2371" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f123481" android:checkable="true" style="0x7f150892"/>
+            <com.google.android.material.chip.Chip android:id="0x7f0b236a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12347c" android:checkable="true" style="0x7f150892"/>
+            <com.google.android.material.chip.Chip android:id="0x7f0b236c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12347e" android:checkable="true" style="0x7f150892"/>
+            <com.google.android.material.chip.Chip android:id="0x7f0b2370" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f123480" android:checkable="true" style="0x7f150892"/>
+            <com.google.android.material.chip.Chip android:id="0x7f0b2372" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f123482" android:checkable="true" style="0x7f150892"/>
+            <com.google.android.material.chip.Chip android:id="0x7f0b236e" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12347f" android:checkable="true" style="0x7f150892"/>
+            <com.google.android.material.chip.Chip android:id="0x7f0b236b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12347d" android:checkable="true" style="0x7f150892"/>
+        </com.google.android.material.chip.ChipGroup>
+        <com.whatsapp.WaTextView android:textAppearance="?unknown_attr_ref: 7f040cfb" android:gravity="center" android:paddingTop="0x7f070e07" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f122b01"/>
+        <com.whatsapp.wds.components.button.WDSButton android:enabled="false" android:id="0x7f0b236d" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e06" android:text="0x7f12291a" style="0x7f150671"/>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

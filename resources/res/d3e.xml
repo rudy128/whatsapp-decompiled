@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b0747" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.mediacomposer.doodle.ColorPickerView android:layout_gravity="end" android:id="0x7f0b0744" android:paddingLeft="0x7f0702e7" android:paddingTop="10dp" android:paddingRight="0x7f0702e8" android:paddingBottom="10dp" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="0x7f0702e7" android:paddingEnd="0x7f0702e8" app:NOT_FOUND_0xb="0x7f070563" app:NOT_FOUND_0xc="0x7f070566" app:NOT_FOUND_0xd="10dp"/>
+</FrameLayout>

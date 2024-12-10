@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.WaImageButton android:id="0x7f0b1098" android:background="0x7f08088a" android:layout_width="0x7f07073f" android:layout_height="0x7f07073f" android:contentDescription="0x7f12143b" android:layout_marginStart="0x7f070e09" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x19="0" app:NOT_FOUND_0x1a="0x7f08086f"/>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="0x7f0b0b79" android:paddingLeft="0x7f070e06" android:paddingRight="0x7f070e06" android:layout_width="match_parent" android:layout_height="wrap_content" android:NOT_FOUND_0x12="0x7f070e06" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x19="0">
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b0b7c" android:layout_width="0dp" android:layout_height="0x7f07072c" android:text="0x7f121443" android:layout_weight="1" android:layout_marginEnd="0x7f070e0b" app:NOT_FOUND_0x13="2" app:NOT_FOUND_0x14="0x7f060dfd" app:NOT_FOUND_0x16="0x7f080680" app:NOT_FOUND_0x1b="1" style="0x7f150295"/>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="0x7f0b1f6d" android:background="0x7f08088a" android:paddingLeft="0x7f070e0d" android:paddingRight="0x7f070e0d" android:layout_width="0dp" android:layout_height="0x7f07072c" android:layout_weight="1" android:backgroundTint="0x7f060e34" android:NOT_FOUND_0x12="0x7f070e0d">
+            <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="0x7f060e2b" android:gravity="center_vertical" android:padding="0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f121449" android:layout_marginEnd="0x7f071100" app:NOT_FOUND_0x15="500" style="0x7f150295"/>
+            <com.whatsapp.WaImageView android:layout_width="16dp" android:layout_height="16dp" android:src="0x7f080808" app:NOT_FOUND_0x1c="true"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

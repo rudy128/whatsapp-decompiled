@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="24dp" android:paddingRight="24dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.WaImageView android:id="0x7f0b1311" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070d6f" app:NOT_FOUND_0x10="0x7f0808bb"/>
+        <com.whatsapp.WaTextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="0x7f122b69" style="0x7f150443"/>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <include android:layout_width="wrap_content" android:layout_height="32dp" android:layout_above="0x7f0b0aed" android:layout_centerHorizontal="true" layout="0x7f0e093d"/>
+            <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b0aed" android:layout_marginTop="8dp" android:layout_marginBottom="24dp" android:text="0x7f12322d" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="0x7f150671"/>
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

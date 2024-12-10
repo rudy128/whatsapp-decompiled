@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b060c" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f07071f" android:layout_below="0x7f0b176a" app:NOT_FOUND_0x5="androidx.recyclerview.widget.LinearLayoutManager"/>
+    <include layout="0x7f0e0311"/>
+    <include layout="0x7f0e0b82"/>
+</merge>

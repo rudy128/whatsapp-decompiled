@@ -1,0 +1,65 @@
+package com.whatsapp.reportinfra.repo;
+
+import X.AnonymousClass000;
+import X.AnonymousClass1OS;
+import X.C17890vO;
+import X.C192329oB;
+import X.C27621Wu;
+import X.C30391dr;
+import X.C30411dt;
+import X.C30431dv;
+import X.C30691eM;
+import X.C31751g4;
+import com.whatsapp.jid.UserJid;
+import com.whatsapp.reportinfra.xmpp.SpamReportXmppClient;
+import java.util.List;
+import kotlin.coroutines.jvm.internal.DebugMetadata;
+
+@DebugMetadata(c = "com.whatsapp.reportinfra.repo.SpamReportRepo$sendIndividualSpamReport$2", f = "SpamReportRepo.kt", i = {}, l = {127}, m = "invokeSuspend", n = {}, s = {})
+public final class SpamReportRepo$sendIndividualSpamReport$2 extends C30431dv implements AnonymousClass1OS {
+    public final /* synthetic */ UserJid $jid;
+    public final /* synthetic */ String $reportOrigin;
+    public /* synthetic */ Object L$0;
+    public int label;
+    public final /* synthetic */ SpamReportRepo this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public SpamReportRepo$sendIndividualSpamReport$2(UserJid userJid, SpamReportRepo spamReportRepo, String str, C30391dr r5) {
+        super(2, r5);
+        this.this$0 = spamReportRepo;
+        this.$jid = userJid;
+        this.$reportOrigin = str;
+    }
+
+    public final C30391dr create(Object obj, C30391dr r6) {
+        SpamReportRepo$sendIndividualSpamReport$2 spamReportRepo$sendIndividualSpamReport$2 = new SpamReportRepo$sendIndividualSpamReport$2(this.$jid, this.this$0, this.$reportOrigin, r6);
+        spamReportRepo$sendIndividualSpamReport$2.L$0 = obj;
+        return spamReportRepo$sendIndividualSpamReport$2;
+    }
+
+    public final Object invokeSuspend(Object obj) {
+        C31751g4 r6 = C31751g4.COROUTINE_SUSPENDED;
+        int i = this.label;
+        if (i == 0) {
+            C30691eM.A01(obj);
+            SpamReportXmppClient spamReportXmppClient = (SpamReportXmppClient) this.this$0.A0C.get();
+            UserJid userJid = this.$jid;
+            String str = this.$reportOrigin;
+            this.label = 1;
+            String A0T = C17890vO.A0T(spamReportXmppClient.A03);
+            obj = SpamReportXmppClient.A00(((C192329oB) spamReportXmppClient.A02.get()).A00(userJid, A0T, str, (List) this.L$0), spamReportXmppClient, A0T, this, 98);
+            if (obj == r6) {
+                return r6;
+            }
+        } else if (i == 1) {
+            C30691eM.A01(obj);
+        } else {
+            throw AnonymousClass000.A0l();
+        }
+        return obj;
+    }
+
+    public /* bridge */ /* synthetic */ Object invoke(Object obj, Object obj2) {
+        return ((SpamReportRepo$sendIndividualSpamReport$2) C30411dt.A04(obj2, obj, this)).invokeSuspend(C27621Wu.A00);
+    }
+}

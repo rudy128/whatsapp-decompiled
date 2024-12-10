@@ -1,0 +1,12 @@
+Error decode arsc
+java.io.IOException: value size, expected: 0x8, actual: 0x5, offset: 0x2048ae
+	at jadx.core.xmlgen.ParserStream.throwException(ParserStream.java:118)
+	at jadx.core.xmlgen.ParserStream.checkInt16(ParserStream.java:110)
+	at jadx.core.xmlgen.ResTableParser.parseValue(ResTableParser.java:265)
+	at jadx.core.xmlgen.ResTableParser.parseEntry(ResTableParser.java:254)
+	at jadx.core.xmlgen.ResTableParser.parseTypeChunk(ResTableParser.java:216)
+	at jadx.core.xmlgen.ResTableParser.parsePackage(ResTableParser.java:169)
+	at jadx.core.xmlgen.ResTableParser.decodeTableChunk(ResTableParser.java:118)
+	at jadx.core.xmlgen.ResTableParser.decode(ResTableParser.java:66)
+	at jadx.core.xmlgen.ResTableParser.decodeFiles(ResTableParser.java:71)
+

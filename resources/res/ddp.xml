@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="0x7f0b01e7" android:background="0x7f060c13" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xe="0dp">
+        <include android:id="0x7f0b22f2" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0" layout="0x7f0e0ccd"/>
+        <com.whatsapp.collections.ObservableRecyclerView android:id="0x7f0b0dc6" android:paddingLeft="0x7f070e07" android:paddingTop="0x7f070e0b" android:paddingRight="0x7f070e07" android:paddingBottom="0x7f070e0b" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:NOT_FOUND_0xc="0x7f070e07" android:NOT_FOUND_0xd="0x7f070e0b"/>
+        <View android:layout_gravity="bottom" android:id="0x7f0b0dc5" android:background="?unknown_attr_ref: 7f04032a" android:layout_width="match_parent" android:layout_height="1dp"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <com.whatsapp.collections.ObservableRecyclerView android:id="0x7f0b165c" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0xf="0x7f123153"/>
+    <ViewStub android:id="0x7f0b0aa5" android:layout="0x7f0e04a1" android:inflatedId="0x7f0b0aa4" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0xf="0x7f123153"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

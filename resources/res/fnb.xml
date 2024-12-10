@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.wds.components.banners.WDSBanner android:icon="0x7f080a3f" android:id="0x7f0b1fc1" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09" app:NOT_FOUND_0x5="0x7f120fef" app:NOT_FOUND_0x6="0x7f122759" style="0x7f150694"/>
+</merge>

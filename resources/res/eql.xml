@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b1060" android:layout_height="56dp" app:NOT_FOUND_0x6="0" app:NOT_FOUND_0x8="0" style="0x7f150632"/>
+    <View android:id="0x7f0b1ec9" android:layout_width="match_parent" app:NOT_FOUND_0x7="0x7f0b1060" style="0x7f15017a"/>
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x7="0x7f0b1ec9">
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b0e25" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.ui.media.MediaCardGrid android:id="0x7f0b13b4" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0dp" app:NOT_FOUND_0x5="?unknown_attr_ref: 7f0408ce" style="0x7f15029c"/>
+            <View android:layout_width="match_parent" android:layout_height="42dp"/>
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

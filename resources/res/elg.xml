@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ViewStub android:id="0x7f0b0772" android:layout="0x7f0e0593" android:inflatedId="0x7f0b0772" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b08b3" android:background="?unknown_attr_ref: 7f0409fb" android:paddingLeft="4dp" android:paddingTop="0dp" android:paddingRight="0dp" android:paddingBottom="2dp" android:clickable="true" android:clipChildren="false" android:layout_width="match_parent" android:layout_toRightOf="0x7f0b02ac" android:layout_centerVertical="true" android:animateLayoutChanges="true" android:paddingStart="4dp" android:paddingEnd="0dp" style="0x7f1501f3">
+    <FrameLayout android:layout_gravity="left" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.TextEmojiLabel android:textColor="?unknown_attr_ref: 7f040289" android:ellipsize="end" android:gravity="left" android:layout_gravity="left" android:id="0x7f0b08b4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:scrollHorizontally="true" android:singleLine="true" style="0x7f1504f9"/>
+    </FrameLayout>
+    <LinearLayout android:gravity="left" android:layout_gravity="left" android:orientation="horizontal" android:id="0x7f0b08b9" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="false">
+        <ViewStub android:layout_gravity="left" android:id="0x7f0b04b0" android:layout="0x7f0e02fe" android:inflatedId="0x7f0b04b0" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.TextEmojiLabel android:textColor="?unknown_attr_ref: 7f04028a" android:ellipsize="end" android:gravity="left" android:id="0x7f0b08b8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:singleLine="true" style="0x7f1504f6"/>
+        <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

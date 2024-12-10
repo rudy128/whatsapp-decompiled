@@ -1,0 +1,11 @@
+{
+  "type": "path",
+  "oncall": "android_systems_reliability",
+  "path": {
+    "name": "file_poolcollector",
+    "location": "PERSISTENT_ROOT"
+  },
+  "privacy": "NOT_SCOPED",
+  "name": "android_lacrima_file_pool_collector",
+  "id": 2004344551
+}

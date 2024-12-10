@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.conversation.conversationrow.components.contextcard.GroupPhoto android:id="0x7f0b0781" android:layout_width="0x7f0710e4" android:layout_height="0x7f0710e4" app:NOT_FOUND_0x9="0" app:NOT_FOUND_0xe="0" app:NOT_FOUND_0x10="0"/>
+    <com.whatsapp.WaTextView android:ellipsize="end" android:id="0x7f0b0780" android:layout_width="0dp" android:layout_height="wrap_content" android:maxLines="1" android:textAlignment="viewStart" android:layout_marginStart="0x7f070e09" app:NOT_FOUND_0x8="true" app:NOT_FOUND_0xa="0x7f0b077f" app:NOT_FOUND_0xb="0" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xd="0x7f0b0781" app:NOT_FOUND_0x10="0" style="0x7f1506bd"/>
+    <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:id="0x7f0b077f" android:layout_width="0dp" android:layout_height="wrap_content" android:textAlignment="viewStart" android:layout_marginStart="0x7f070e09" app:NOT_FOUND_0x8="true" app:NOT_FOUND_0x9="0" app:NOT_FOUND_0xb="0" app:NOT_FOUND_0xd="0x7f0b0781" app:NOT_FOUND_0xf="0x7f0b0780" style="0x7f1506be"/>
+</merge>

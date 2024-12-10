@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b1621" android:background="0x7f080238" android:padding="0x7f0703b3" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <View android:id="0x7f0b238a" android:layout_width="wrap_content" android:layout_height="0dp"/>
+        <com.whatsapp.wds.components.profilephoto.WDSProfilePhoto android:layout_gravity="center" android:id="0x7f0b1641" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" app:NOT_FOUND_0x11="1" app:NOT_FOUND_0x13="3"/>
+        <com.whatsapp.WaTextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="0x7f0b1618" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0703b8" android:importantForAccessibility="yes" style="0x7f1501d7"/>
+        <com.whatsapp.WaTextView android:gravity="center" android:id="0x7f0b1617" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0703ad" android:layout_marginTop="0x7f0703ae" android:layout_marginRight="0x7f0703ad" android:layout_marginBottom="0x7f0703ab" android:importantForAccessibility="yes" style="0x7f1501d2"/>
+        <ViewStub android:id="0x7f0b0146" android:layout="0x7f0e00cc" android:inflatedId="0x7f0b0146" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b0126" android:layout="0x7f0e00c7" android:inflatedId="0x7f0b0126" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1f6c" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f121914" app:NOT_FOUND_0x12="0x7f0809ca" app:NOT_FOUND_0x14="2" app:NOT_FOUND_0x15="0"/>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b1f8b" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f122738" app:NOT_FOUND_0x12="0x7f0803a8" app:NOT_FOUND_0x14="2" app:NOT_FOUND_0x15="0"/>
+    </LinearLayout>
+</merge>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:id="0x7f0b0ab9" android:layout_marginBottom="0x7f071108" style="0x7f1503bf"/>
+    <include android:id="0x7f0b2477" layout="0x7f0e0d36"/>
+    <include android:id="0x7f0b2478" layout="0x7f0e0d36"/>
+    <View android:layout_gravity="bottom" android:id="0x7f0b03f8" android:background="0x7f080963" android:layout_width="match_parent" android:layout_height="0x7f070c71"/>
+</LinearLayout>

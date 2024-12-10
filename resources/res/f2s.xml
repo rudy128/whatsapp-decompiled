@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1d01" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="0x7f0b084f" android:layout_width="0x7f0710be" android:layout_height="0x7f0710d1">
+        <com.whatsapp.wds.components.profilephoto.WDSProfilePhoto android:layout_gravity="center" android:id="0x7f0b0839" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" app:NOT_FOUND_0xa="2"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b2157" android:inflatedId="0x7f0b2157" android:layout_width="0x7f071062" android:layout_height="0x7f071055"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b17d0" android:inflatedId="0x7f0b17d0" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <ViewStub android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="0x7f0b17d1" android:inflatedId="0x7f0b17d1" android:layout_width="0x7f0710d9" android:layout_height="0x7f0710d9" android:layout_marginBottom="12dp" android:layout_marginEnd="0x7f071100"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b0f5a" android:inflatedId="0x7f0b0f5a" android:layout_width="0x7f0710e4" android:layout_height="0x7f0710e4"/>
+    </FrameLayout>
+    <ViewStub android:id="0x7f0b090e" android:inflatedId="0x7f0b090e" android:layout_width="0x7f0710d9" android:layout_height="0x7f0710d9" android:layout_marginLeft="0x7f071105" android:layout_marginTop="0x7f071105"/>
+    <ViewStub android:id="0x7f0b090a" android:inflatedId="0x7f0b090a" android:layout_width="0x7f0710d9" android:layout_height="0x7f0710d9" android:layout_marginLeft="0x7f071105" android:layout_marginTop="0x7f071105"/>
+    <ViewStub android:id="0x7f0b1e7a" android:inflatedId="0x7f0b1e7a" android:layout_width="0x7f0710d9" android:layout_height="0x7f0710d9" android:layout_marginLeft="0x7f071105" android:layout_marginTop="0x7f071105"/>
+</FrameLayout>

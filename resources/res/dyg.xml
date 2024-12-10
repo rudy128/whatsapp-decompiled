@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b04bd" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:id="0x7f0b04b4" style="0x7f15015c">
+        <include layout="0x7f0e01ae"/>
+    </LinearLayout>
+    <LinearLayout android:id="0x7f0b04b5" style="0x7f15015b">
+        <include layout="0x7f0e01ae"/>
+    </LinearLayout>
+    <LinearLayout android:id="0x7f0b04b6" style="0x7f15015b">
+        <include layout="0x7f0e01ae"/>
+    </LinearLayout>
+    <LinearLayout android:id="0x7f0b04b7" style="0x7f15015b">
+        <include layout="0x7f0e01ae"/>
+    </LinearLayout>
+    <LinearLayout android:id="0x7f0b04b8" style="0x7f15015b">
+        <include layout="0x7f0e01ae"/>
+    </LinearLayout>
+    <LinearLayout android:id="0x7f0b04b9" style="0x7f15015b">
+        <include layout="0x7f0e01ae"/>
+    </LinearLayout>
+    <LinearLayout android:id="0x7f0b04ba" style="0x7f15015d">
+        <include layout="0x7f0e01ae"/>
+    </LinearLayout>
+</LinearLayout>

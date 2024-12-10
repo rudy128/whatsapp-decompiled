@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.LockableCoodinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1cf8" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b0e99" android:background="0x7f080b4b" android:layout_width="match_parent" android:layout_height="match_parent" android:elevation="?unknown_attr_ref: 7f040034">
+        <FrameLayout android:id="0x7f0b1788" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e0ccc"/>
+    </LinearLayout>
+</com.whatsapp.LockableCoodinatorLayout>

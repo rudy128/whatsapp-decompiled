@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b0886" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="0x7f0e03b4"/>
+        <include layout="0x7f0e03d2"/>
+        <include layout="0x7f0e0405"/>
+        <include layout="0x7f0e0ca8"/>
+        <com.whatsapp.conversation.conversationrow.InteractiveMessageView android:orientation="vertical" android:id="0x7f0b114b" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="0x7f070423"/>
+        <View android:id="0x7f0b04f3" style="0x7f1503c0"/>
+        <com.whatsapp.conversation.conversationrow.InteractiveMessageButton android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="0x7f0b04e2" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</merge>

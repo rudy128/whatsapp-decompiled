@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="#ffffff" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="36dp">
+        <TextView android:textSize="12sp" android:textColor="0x7f06092c" android:ellipsize="end" android:gravity="center_vertical" android:id="0x7f0b2341" android:layout_width="0dp" android:layout_height="match_parent" android:maxLines="1" android:layout_weight="1" android:layoutDirection="ltr"/>
+        <TextView android:textSize="14sp" android:textColor="0x7f060929" android:ellipsize="end" android:gravity="center_vertical" android:id="0x7f0b2342" android:paddingLeft="8dp" android:layout_width="0dp" android:layout_height="match_parent" android:maxLines="2" android:layout_weight="3" android:fontFamily="monospace" android:layoutDirection="ltr"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b24a2" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12sp" android:textColor="0x7f06092c" android:ellipsize="end" android:gravity="top" android:layout_width="0dp" android:layout_height="match_parent" android:maxLines="1" android:layout_weight="1" android:layoutDirection="ltr"/>
+        <TextView android:textSize="10sp" android:textColor="0x7f06092f" android:ellipsize="end" android:gravity="center_vertical" android:id="0x7f0b249e" android:layout_width="0dp" android:layout_height="match_parent" android:maxLines="2" android:drawableLeft="0x7f080660" android:layout_weight="3" android:fontFamily="sans-serif-medium" android:layoutDirection="ltr"/>
+    </LinearLayout>
+</LinearLayout>

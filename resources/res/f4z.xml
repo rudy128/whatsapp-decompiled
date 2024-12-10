@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="0x7f080611" android:enabled="true" android:id="0x7f0b1585" android:visible="true" android:title="0x7f1233f3" android:titleCondensed="0x7f1233f3" app:iconTint="?unknown_attr_ref: 7f040d4b" app:showAsAction="always"/>
+    <item android:icon="0x7f080a58" android:enabled="true" android:id="0x7f0b1550" android:visible="true" android:title="0x7f123332" android:titleCondensed="0x7f123332" app:iconTint="?unknown_attr_ref: 7f040d4b" app:showAsAction="always">
+        <menu/>
+    </item>
+    <item android:icon="0x7f0804d8" android:enabled="true" android:id="0x7f0b0fb9" android:visible="true" android:title="0x7f12310f" android:titleCondensed="0x7f12310f" app:iconTint="?unknown_attr_ref: 7f040d4b" app:showAsAction="always"/>
+</menu>

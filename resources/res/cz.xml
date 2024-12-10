@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_enabled="true" app:state_dragged="true">
+        <set>
+            <objectAnimator android:interpolator="0x7f0d000f" android:duration="0x7f0c0036" android:valueTo="0x7f070a64" android:valueType="floatType" android:propertyName="translationZ" android:startDelay="0x7f0c0035"/>
+        </set>
+    </item>
+    <item android:state_enabled="true">
+        <set>
+            <objectAnimator android:interpolator="0x7f01004d" android:duration="0x7f0c0036" android:valueTo="0dp" android:valueType="floatType" android:propertyName="translationZ"/>
+        </set>
+    </item>
+</selector>

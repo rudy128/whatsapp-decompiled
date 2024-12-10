@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_pressed="true" android:drawable="0x7f08028f"/>
+    <item android:state_focused="true" android:drawable="0x7f08028f"/>
+    <item android:state_selected="true" android:drawable="0x7f08028f"/>
+    <item android:drawable="0x7f08028f" android:state_activated="true"/>
+    <item>
+        <shape>
+            <solid android:color="0x7f060c13"/>
+            <corners android:radius="0x7f070ad1"/>
+        </shape>
+    </item>
+</selector>

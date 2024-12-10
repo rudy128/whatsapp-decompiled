@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1dec" android:layout_width="match_parent" android:layout_height="0x7f0710f9" app:NOT_FOUND_0xe="0dp" style="0x7f15069f">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <EditText android:textAppearance="0x7f1506bc" android:id="0x7f0b1de6" android:background="@null" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:inputType="textNoSuggestions" android:imeOptions="actionUnspecified|actionNone|actionGo|actionSearch|flagNoExtractUi" android:textDirection="firstStrong"/>
+        <ImageButton android:id="0x7f0b1de2" android:background="?unknown_attr_ref: 7f04000e" android:padding="0x7f071109" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="0x7f0809db" android:contentDescription="0x7f1233ef"/>
+        <com.whatsapp.WaImageButton android:id="0x7f0b1d6d" android:background="?unknown_attr_ref: 7f04000e" android:padding="0x7f071109" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f08060c"/>
+    </LinearLayout>
+</androidx.appcompat.widget.Toolbar>

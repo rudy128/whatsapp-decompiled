@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="left|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <FrameLayout android:id="0x7f0b1d44" android:background="0x7f080894" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0x7f070d03">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="0x7f070d02">
+                <FrameLayout android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.whatsapp.WaDynamicRoundCornerImageView android:layout_gravity="center" android:id="0x7f0b08ee" android:background="0x7f080895" android:layout_width="match_parent" android:layout_height="0x7f070d01" android:scaleType="centerCrop" android:alpha="0x7f070bbd" app:NOT_FOUND_0x19="0x7f070d06"/>
+                    <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b1d43" android:layout_width="wrap_content" android:layout_height="0x7f070d01" app:NOT_FOUND_0x1a="0x7f0809c7"/>
+                </FrameLayout>
+                <LinearLayout android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:paddingLeft="0x7f070d04" android:paddingTop="0x7f070d05" android:paddingRight="0x7f070d04" android:paddingBottom="0x7f070d05" android:layout_width="match_parent" android:layout_height="wrap_content" android:NOT_FOUND_0x16="0x7f070d04" android:NOT_FOUND_0x17="0x7f070d05">
+                    <com.whatsapp.TextEmojiLabel android:textSize="0x7f0710a0" android:textColor="?unknown_attr_ref: 7f040d2e" android:id="0x7f0b058a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12247a" android:maxLines="2" app:NOT_FOUND_0x18="?unknown_attr_ref: 7f040569"/>
+                    <com.whatsapp.TextEmojiLabel android:textSize="0x7f070d07" android:textColor="?unknown_attr_ref: 7f040d2d" android:id="0x7f0b0588" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" app:NOT_FOUND_0x18="?unknown_attr_ref: 7f04056b"/>
+                    <com.whatsapp.TextEmojiLabel android:textSize="0x7f0710a0" android:textColor="?unknown_attr_ref: 7f040d2e" android:id="0x7f0b1d46" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" app:NOT_FOUND_0x18="?unknown_attr_ref: 7f040569"/>
+                    <com.whatsapp.TextEmojiLabel android:textSize="0x7f0710a0" android:textColor="?unknown_attr_ref: 7f040d2e" android:id="0x7f0b1d45" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f122485" android:maxLines="2" app:NOT_FOUND_0x18="?unknown_attr_ref: 7f040569"/>
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+        <com.whatsapp.components.TextAndDateLayout android:id="0x7f0b2219" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f0408cf" android:id="0x7f0b0bd2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" app:NOT_FOUND_0x18="?unknown_attr_ref: 7f040569"/>
+            <include layout="0x7f0e0367"/>
+        </com.whatsapp.components.TextAndDateLayout>
+        <ViewStub android:id="0x7f0b00ab" android:layout="0x7f0e0b0f" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b00a0" android:layout="0x7f0e0b0e" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b05db" android:layout="0x7f0e0b10" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</merge>

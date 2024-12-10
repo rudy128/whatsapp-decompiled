@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b20d1" android:paddingBottom="0x7f070e09" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b0e84" android:paddingLeft="0x7f070e09" android:paddingRight="0x7f070e09" android:paddingBottom="0x7f070e09" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+        <FrameLayout android:id="0x7f0b0717" android:background="?unknown_attr_ref: 7f0409fc" android:layout_width="0x7f070699" android:layout_height="0x7f070699" android:layout_marginTop="0x7f070e09" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x18="0">
+            <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b0716" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="?unknown_attr_ref: 7f0403a1" android:contentDescription="0x7f12319f" app:NOT_FOUND_0x1b="0x7f080446"/>
+        </FrameLayout>
+        <com.whatsapp.WaTextView android:textSize="20sp" android:textColor="?unknown_attr_ref: 7f0408cf" android:gravity="center" android:id="0x7f0b22b0" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f122868" android:lineSpacingExtra="1sp" android:importantForAccessibility="yes" android:fontFamily="?unknown_attr_ref: 7f04056b" app:NOT_FOUND_0x15="0x7f0b0717" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x18="0x7f0b0717"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b2436" android:background="?unknown_attr_ref: 7f0409fb" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x19="0x7f080b0f" app:NOT_FOUND_0x1a="0x7f12286b"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b2432" android:background="?unknown_attr_ref: 7f0409fb" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x19="0x7f080680" app:NOT_FOUND_0x1a="0x7f12286a"/>
+    </LinearLayout>
+</LinearLayout>

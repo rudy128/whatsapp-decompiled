@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="0x7f0b0828" android:paddingLeft="24dp" android:paddingRight="24dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="0x7f0e035b"/>
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ViewStub android:layout_gravity="center" android:id="0x7f0b152b" android:layout="0x7f0e037d" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.whatsapp.WaTextView android:gravity="left" android:layout_gravity="center" android:id="0x7f0b0059" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="0x7f1506d6"/>
+            <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:layout_marginBottom="12dp">
+                <com.whatsapp.conversation.conversationrow.ConversationRowContactInfoLinkedAccount android:id="0x7f0b125f" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0"/>
+                <com.whatsapp.WaTextView android:gravity="left" android:layout_gravity="center" android:id="0x7f0b1265" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="•" style="0x7f1506d6"/>
+                <com.whatsapp.conversation.conversationrow.ConversationRowContactInfoLinkedAccount android:id="0x7f0b1261" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" app:NOT_FOUND_0xf="1"/>
+            </LinearLayout>
+            <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center" android:id="0x7f0b0e0b" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="12dp" app:NOT_FOUND_0x10="2"/>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

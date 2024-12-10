@@ -1,0 +1,17 @@
+package X;
+
+/* renamed from: X.1lE  reason: invalid class name and case insensitive filesystem */
+public final class C34881lE {
+    public final AnonymousClass00H A00;
+    public final AnonymousClass00H A01;
+    public final C18600wl A02;
+
+    public C34881lE(AnonymousClass00H r2, AnonymousClass00H r3, C18600wl r4) {
+        C18070vi.A0d(r2, 1);
+        C18070vi.A0d(r3, 2);
+        C18070vi.A0d(r4, 3);
+        this.A01 = r2;
+        this.A00 = r3;
+        this.A02 = r4;
+    }
+}

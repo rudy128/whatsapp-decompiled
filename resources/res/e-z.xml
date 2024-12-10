@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.components.MainChildCoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x7="0x7f0b1eb7">
+    <com.whatsapp.KeyboardPopupLayout android:id="0x7f0b1eb7" android:layout_width="match_parent" android:layout_height="match_parent">
+        <include android:id="0x7f0b22f2" android:layout_width="match_parent" android:layout_height="wrap_content" layout="0x7f0e0cce"/>
+        <com.google.android.material.tabs.TabLayout android:id="0x7f0b18cf" android:background="?unknown_attr_ref: 7f0408c1" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="0x7f0b22f2" android:elevation="?unknown_attr_ref: 7f040034" app:NOT_FOUND_0x8="?unknown_attr_ref: 7f0408ce" app:NOT_FOUND_0x9="0x7f060e1d" app:NOT_FOUND_0xa="0x7f06099d" app:NOT_FOUND_0xb="0x7f06099e"/>
+        <include layout="0x7f0e09c3"/>
+    </com.whatsapp.KeyboardPopupLayout>
+</com.whatsapp.components.MainChildCoordinatorLayout>

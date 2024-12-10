@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <View android:id="0x7f0b04f4" android:layout_width="match_parent" style="0x7f1503c0"/>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b15d5" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="0x7f0b15d2" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="44dp">
+            <com.whatsapp.TextEmojiLabel android:id="0x7f0b04f0" app:NOT_FOUND_0xa="0x7f06025c" style="0x7f150314"/>
+        </FrameLayout>
+        <View android:id="0x7f0b04f5" android:visibility="gone" android:layout_width="match_parent" style="0x7f1503c0"/>
+        <View android:layout_gravity="center_vertical" android:id="0x7f0b04f6" android:visibility="gone" android:layout_width="1dp" android:layout_height="28dp" style="0x7f1503c4"/>
+        <FrameLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="0x7f0b15d3" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="44dp">
+            <com.whatsapp.TextEmojiLabel android:id="0x7f0b04f1" app:NOT_FOUND_0xa="0x7f06025c" style="0x7f150314"/>
+        </FrameLayout>
+    </LinearLayout>
+</merge>

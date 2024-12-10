@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0d5b" android:background="?unknown_attr_ref: 7f0403a7" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="0x7f0e0548"/>
+    <include android:id="0x7f0b044d" layout="0x7f0e0194"/>
+</LinearLayout>

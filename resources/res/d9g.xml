@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e0ca7"/>
+        <com.whatsapp.conversation.conversationrow.DynamicButtonsRowContentLayout android:id="0x7f0b0b42" android:layout_width="0x7f070423" android:layout_height="match_parent"/>
+    </LinearLayout>
+    <com.whatsapp.conversation.conversationrow.DynamicButtonsLayout android:id="0x7f0b0b40" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</merge>

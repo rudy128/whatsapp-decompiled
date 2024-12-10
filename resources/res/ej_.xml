@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="0x7f08087a" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.payments.ui.widget.PayToolbar android:id="0x7f0b180d" android:layout_width="match_parent" android:layout_height="48dp" app:NOT_FOUND_0x6="false" app:NOT_FOUND_0x7="1"/>
+    <ScrollView android:orientation="vertical" android:id="0x7f0b1d56" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

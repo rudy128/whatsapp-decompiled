@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.button.MaterialButtonToggleGroup android:id="0x7f0b044c" android:layout_width="match_parent" android:layout_height="28dp" android:layout_marginLeft="16dp" android:layout_marginTop="12dp" android:layout_marginRight="16dp" android:layout_marginBottom="8dp" app:NOT_FOUND_0x10="true" app:NOT_FOUND_0x11="true">
+        <com.google.android.material.button.MaterialButton android:id="0x7f0b0bd0" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0xe="0x7f0802ee" app:NOT_FOUND_0xf="0x7f080a56" style="0x7f150250"/>
+        <com.google.android.material.button.MaterialButton android:id="0x7f0b0eea" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0xe="0x7f0802ee" app:NOT_FOUND_0xf="0x7f080a1b" style="0x7f150250"/>
+        <com.google.android.material.button.MaterialButton android:id="0x7f0b02a0" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0xe="0x7f0802ee" app:NOT_FOUND_0xf="0x7f080624" style="0x7f150250"/>
+        <com.google.android.material.button.MaterialButton android:id="0x7f0b2108" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0xe="0x7f0802ee" app:NOT_FOUND_0xf="0x7f080aac" style="0x7f150250"/>
+    </com.google.android.material.button.MaterialButtonToggleGroup>
+    <ViewStub android:id="0x7f0b20f4" android:layout="0x7f0e0c67" android:inflatedId="0x7f0b20f4" android:layout_width="match_parent" android:layout_height="0x7f070616" android:layout_marginLeft="0x7f0710fd" android:layout_marginRight="0x7f0710fd" android:NOT_FOUND_0xd="0x7f0710fd"/>
+    <androidx.viewpager.widget.ViewPager android:id="0x7f0b044b" android:layout_width="match_parent" android:layout_height="match_parent" android:nestedScrollingEnabled="true"/>
+</LinearLayout>

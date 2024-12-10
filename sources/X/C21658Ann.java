@@ -1,0 +1,25 @@
+package X;
+
+import com.whatsapp.passkeys.PasskeyFacade;
+import kotlin.coroutines.jvm.internal.DebugMetadata;
+
+@DebugMetadata(c = "com.whatsapp.passkeys.PasskeyFacade", f = "PasskeyFacade.kt", i = {0, 1}, l = {305, 224}, m = "checkPasskeyExists", n = {"this", "this"}, s = {"L$0", "L$0"})
+/* renamed from: X.Ann  reason: case insensitive filesystem */
+public final class C21658Ann extends C30421du {
+    public Object L$0;
+    public int label;
+    public /* synthetic */ Object result;
+    public final /* synthetic */ PasskeyFacade this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public C21658Ann(PasskeyFacade passkeyFacade, C30391dr r2) {
+        super(r2);
+        this.this$0 = passkeyFacade;
+    }
+
+    public final Object invokeSuspend(Object obj) {
+        this.result = obj;
+        this.label |= Integer.MIN_VALUE;
+        return this.this$0.A02(this);
+    }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingTop="0x7f070c59" android:paddingRight="0x7f070512" android:paddingBottom="0x7f070c59" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingEnd="0x7f070512">
+    <View android:id="0x7f0b048b" android:background="0x7f0801bc" android:layout_width="0x7f07037a" android:layout_height="0x7f07037a" android:layout_margin="0x7f07050d" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0x10="0x7f0b04ca" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x14="0"/>
+    <View android:id="0x7f0b04ca" android:background="0x7f0801be" android:layout_width="0dp" android:layout_height="0x7f070522" app:NOT_FOUND_0xe="0x7f0b04a6" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x11="0x7f0b048b" app:NOT_FOUND_0x14="0"/>
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:id="0x7f0b04a6" android:paddingRight="0x7f070517" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f07050d" android:layout_marginRight="0x7f070517" android:paddingEnd="0x7f070517" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x11="0x7f0b048b" app:NOT_FOUND_0x13="0x7f0b04ca">
+        <View android:background="0x7f0801be" android:layout_width="match_parent" android:layout_height="0x7f070523" android:layout_marginTop="0x7f070521"/>
+        <View android:id="0x7f0b0639" android:background="0x7f0801be" android:layout_width="match_parent" android:layout_height="0x7f070523" android:layout_marginTop="0x7f070521"/>
+        <View android:id="0x7f0b0153" android:background="0x7f0801be" android:layout_width="match_parent" android:layout_height="0x7f070523" android:layout_marginTop="0x7f070521"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.constraintlayout.widget.ConstraintLayout>

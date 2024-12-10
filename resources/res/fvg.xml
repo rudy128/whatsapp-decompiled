@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.productinfra.avatar.squid.AvatarSquidUpsellView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070eaf" android:layout_marginBottom="0x7f070eaf" android:layout_marginStart="0x7f0706a1" android:layout_marginEnd="0x7f070ead" app:NOT_FOUND_0x6="0"/>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:layout_gravity="right" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="30dp">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e03d2"/>
+        <view android:id="0x7f0b08f6" android:paddingLeft="0x7f070e0f" android:paddingRight="0x7f070e0b" android:paddingBottom="0x7f070e0f" android:layout_width="match_parent" android:layout_height="wrap_content" class="com.whatsapp.components.TextAndDateLayout">
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409ea" android:gravity="left|center_vertical|center_horizontal|center|start" android:layout_gravity="left" android:id="0x7f0b14eb" android:paddingLeft="0x7f070430" android:paddingTop="0x7f07047c" android:paddingRight="0x7f070430" android:paddingBottom="0x7f07047c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" android:drawablePadding="0x7f070674" android:textAlignment="center"/>
+            <include layout="0x7f0e0368"/>
+        </view>
+    </LinearLayout>
+</merge>

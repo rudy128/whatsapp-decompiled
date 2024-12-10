@@ -1,0 +1,41 @@
+package X;
+
+import java.util.Arrays;
+
+/* renamed from: X.5zg  reason: invalid class name and case insensitive filesystem */
+public final class C117375zg extends AnonymousClass6T8 {
+    public final int A00;
+    public final int[] A01;
+
+    public C117375zg(int[] iArr, int i) {
+        C18070vi.A0d(iArr, 1);
+        this.A01 = iArr;
+        this.A00 = i;
+    }
+
+    public boolean equals(Object obj) {
+        if (this != obj) {
+            if (C18070vi.A18(getClass(), C108975cc.A0R(obj))) {
+                C18070vi.A0z(obj, "null cannot be cast to non-null type com.whatsapp.expressionstray.expression.emoji.EmojiExpressionsSideEffect.ShowMultiSkinTonePopup");
+                C117375zg r5 = (C117375zg) obj;
+                if (!Arrays.equals(this.A01, r5.A01) || this.A00 != r5.A00) {
+                    return false;
+                }
+            }
+            return false;
+        }
+        return true;
+    }
+
+    public int hashCode() {
+        return (Arrays.hashCode(this.A01) * 31) + this.A00;
+    }
+
+    public String toString() {
+        StringBuilder A10 = AnonymousClass000.A10();
+        A10.append("ShowMultiSkinTonePopup(emoji=");
+        A10.append(Arrays.toString(this.A01));
+        A10.append(", position=");
+        return AnonymousClass001.A1L(A10, this.A00);
+    }
+}

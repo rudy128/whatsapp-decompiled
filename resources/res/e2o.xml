@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1505" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.WaImageView android:layout_gravity="start" android:id="0x7f0b1506" android:background="?unknown_attr_ref: 7f0409fc" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginTop="0x7f070e0d" android:layout_marginBottom="0x7f070e09" android:src="0x7f080b9c" android:layout_marginStart="0x7f070e09"/>
+    <androidx.core.widget.NestedScrollView android:id="0x7f0b1507" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

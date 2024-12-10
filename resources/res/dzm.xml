@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b083c" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center_vertical" android:id="0x7f0b0839" android:background="?unknown_attr_ref: 7f0400e7" android:layout_width="0x7f07018b" android:layout_height="0x7f07018b" android:scaleType="fitCenter" app:NOT_FOUND_0x9="6dp" app:NOT_FOUND_0xa="0x7f080970"/>
+    <ViewStub android:gravity="bottom" android:layout_gravity="bottom" android:id="0x7f0b0247" android:layout="0x7f0e0552" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:gravity="center" android:layout_gravity="center_vertical" android:id="0x7f0b1903" android:layout="0x7f0e09ce" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+</FrameLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.facebook.shimmer.ShimmerFrameLayout android:id="0x7f0b1eb2" android:padding="8dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="24dp" style="0x7f150645">
+        <View android:layout_gravity="center" android:background="0x7f080815" android:layout_width="200dp" android:layout_height="16dp"/>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="0x7f0b1eb1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:background="0x7f080887" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b1eba" android:background="0x7f0808af" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="16dp" app:NOT_FOUND_0xe="0x7f080657"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0409e9" android:layout_gravity="center_vertical" android:id="0x7f0b1eae" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710ff" android:layout_marginRight="16dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

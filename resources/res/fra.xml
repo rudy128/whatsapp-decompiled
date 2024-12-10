@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:background="?unknown_attr_ref: 7f0409fb" android:paddingLeft="16dp" android:paddingTop="8dp" android:paddingRight="16dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center" android:id="0x7f0b2126" android:layout_width="0x7f07037c" android:layout_height="0x7f07037c" android:layout_marginRight="16dp" android:scaleType="fitCenter" app:NOT_FOUND_0x13="true" app:NOT_FOUND_0x14="0x7f070de1"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040a3e" android:ellipsize="end" android:gravity="start" android:id="0x7f0b2125" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16dp" android:maxLines="1" android:singleLine="true"/>
+        <Space android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+    </LinearLayout>
+    <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f040a3d" android:gravity="right|center_vertical|center_horizontal|center|end" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:id="0x7f0b212a" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.PagerSlidingTabStrip android:id="0x7f0b189e" android:background="?unknown_attr_ref: 7f0407ea" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x5="0x7f060c13" app:NOT_FOUND_0x6="?unknown_attr_ref: 7f0408f6"/>
+    <androidx.viewpager.widget.ViewPager android:id="0x7f0b189d" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

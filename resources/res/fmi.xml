@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.mediacomposer.doodle.shapepicker.ShapePickerView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1f50" android:background="?unknown_attr_ref: 7f0400e8" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.mediacomposer.doodle.shapepicker.ShapePickerRecyclerView android:id="0x7f0b1f59" android:paddingLeft="0x7f070dc0" android:paddingTop="?unknown_attr_ref: 7f040010" android:paddingRight="0x7f070dc0" android:paddingBottom="?unknown_attr_ref: 7f040010" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentTop="true"/>
+    <View android:id="0x7f0b1f51" android:background="0x7f08027c" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010"/>
+    <View android:id="0x7f0b1f53" android:background="0x7f060b4e" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f070dab" android:layout_alignBottom="0x7f0b1f52" android:layout_alignParentTop="true"/>
+    <include android:layout_width="match_parent" android:layout_height="0x7f070dad" android:layout_marginLeft="0x7f070dae" android:layout_marginTop="0x7f070daf" android:layout_marginRight="0x7f070dae" android:layout_centerHorizontal="true" layout="0x7f0e0bb5"/>
+    <FrameLayout android:id="0x7f0b1f54" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b20f7" android:background="0x7f060b50" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f070dc6"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b0bc4" android:background="0x7f060b50" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f070dc6"/>
+    </FrameLayout>
+</com.whatsapp.mediacomposer.doodle.shapepicker.ShapePickerView>

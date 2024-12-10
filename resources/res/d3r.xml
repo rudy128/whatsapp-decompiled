@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:id="0x7f0b076f" android:layout="0x7f0e027e" android:inflatedId="0x7f0b076f" android:layout_width="match_parent" android:layout_height="0x7f07031f" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e06" android:layout_marginRight="0x7f070e09"/>
+    <com.whatsapp.text.ReadMoreTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:gravity="left|center_vertical|center_horizontal|center|start" android:id="0x7f0b076e" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0x7f070317" app:NOT_FOUND_0xe="2" app:NOT_FOUND_0xf="?unknown_attr_ref: 7f0408cc" app:NOT_FOUND_0x10="0x7f122291"/>
+    <ViewStub android:id="0x7f0b076c" android:layout="0x7f0e027d" android:inflatedId="0x7f0b076c" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

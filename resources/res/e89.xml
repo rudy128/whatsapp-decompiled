@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="horizontal" android:background="?unknown_attr_ref: 7f040804" android:paddingLeft="0x7f070c59" android:paddingRight="0x7f070c59" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070c57" android:layout_marginBottom="0x7f070c57">
+    <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b1048" android:layout_width="0x7f070c5a" android:layout_height="0x7f070c5a" android:layout_marginLeft="0x7f070b70" android:layout_marginTop="22dp" android:layout_marginRight="0x7f070b6a" android:layout_marginBottom="22dp" android:scaleType="fitCenter"/>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:layout_gravity="start" android:id="0x7f0b0ae5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070c57" style="0x7f1502de"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:id="0x7f0b0dbb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070c57" style="0x7f1501dd"/>
+    </LinearLayout>
+    <FrameLayout android:gravity="center" android:layout_gravity="center_vertical" android:id="0x7f0b08a6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f07041b" android:layout_marginBottom="0x7f07041b">
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b08a5" android:background="@null" android:padding="0x7f070430" android:layout_width="0x7f07041d" android:layout_height="0x7f07041d" android:scaleType="fitCenter"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b1ac5" android:layout="0x7f0e025a" android:inflatedId="0x7f0b1ac5" android:layout_width="0x7f07041d" android:layout_height="0x7f07041d"/>
+    </FrameLayout>
+</LinearLayout>

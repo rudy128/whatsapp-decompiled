@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.WaTextView android:textSize="20dp" android:textColor="?unknown_attr_ref: 7f0408cf" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f12013f"/>
+</LinearLayout>

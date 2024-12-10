@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="vertical" android:id="0x7f0b028f" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+    <com.whatsapp.productinfra.avatar.coinflip.AvatarCoinFlipProfilePhotoImageView android:layout_gravity="center" android:id="0x7f0b0291" android:layout_width="0x7f070c24" android:layout_height="0x7f070c24" app:NOT_FOUND_0x8="1"/>
+    <com.whatsapp.CircularProgressBar android:layout_gravity="center" android:id="0x7f0b0292" android:layout_width="48dp" android:layout_height="48dp"/>
+</FrameLayout>

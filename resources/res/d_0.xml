@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <include layout="0x7f0e03d2"/>
+            <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b13bd" android:paddingLeft="0x7f07048b" android:paddingTop="0x7f07048b" android:paddingRight="0x7f07048b" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <view android:id="0x7f0b1066" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x15="0" class="com.whatsapp.conversation.conversationrow.ConversationRowImage$RowImageView"/>
+                <FrameLayout android:id="0x7f0b1076" android:layout_width="0dp" android:layout_height="wrap_content" app:NOT_FOUND_0x12="0x7f0b1066" app:NOT_FOUND_0x13="0x7f0b1066" app:NOT_FOUND_0x14="0x7f0b1066">
+                    <ViewStub android:id="0x7f0b1075" android:layout="0x7f0e03f9" android:inflatedId="0x7f0b1074" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                </FrameLayout>
+                <FrameLayout android:layout_gravity="center" android:id="0x7f0b08a8" android:background="0x7f080281" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x11="0x7f0b1066" app:NOT_FOUND_0x12="0x7f0b1066" app:NOT_FOUND_0x13="0x7f0b1066" app:NOT_FOUND_0x15="0x7f0b1066">
+                    <ViewStub android:layout_gravity="center" android:id="0x7f0b1ac5" android:layout="0x7f0e025d" android:inflatedId="0x7f0b1ac5" android:layout_width="0x7f070418" android:layout_height="0x7f070418"/>
+                    <ViewStub android:layout_gravity="center" android:id="0x7f0b05d4" android:layout="0x7f0e022a" android:inflatedId="0x7f0b05d4" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b08a5" style="0x7f1501e5"/>
+                </FrameLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <com.whatsapp.conversation.conversationrow.InteractiveMessageView android:orientation="vertical" android:id="0x7f0b114b" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="0x7f070423"/>
+            <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0b09b4" android:paddingLeft="0x7f071100" android:paddingRight="0x7f071100" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ViewStub android:id="0x7f0b0443" android:layout="0x7f0e034b" android:inflatedId="0x7f0b0443" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                <com.whatsapp.WaTextView android:id="0x7f0b099d" android:paddingBottom="0x7f071104" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150687"/>
+                <com.whatsapp.WaImageView android:id="0x7f0b205a" android:paddingLeft="0x7f0710ff" android:paddingRight="0x7f071104" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            </LinearLayout>
+            <View android:id="0x7f0b04f3" style="0x7f1503c0"/>
+            <com.whatsapp.conversation.conversationrow.InteractiveMessageButton android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="0x7f0b04e2" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </FrameLayout>
+</merge>

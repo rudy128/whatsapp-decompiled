@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1cea" android:background="0x7f080178" android:padding="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32dp" android:layout_marginRight="32dp">
+    <FrameLayout android:layout_gravity="center" android:id="0x7f0b0df1" android:layout_width="20dp" android:layout_height="20dp" android:layout_marginRight="10dp" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_marginEnd="10dp" android:layout_alignParentStart="true">
+        <ImageView android:id="0x7f0b11b7" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ProgressBar android:id="0x7f0b18fb" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:indeterminate="true"/>
+    </FrameLayout>
+    <TextView android:textSize="15sp" android:textColor="?unknown_attr_ref: 7f04099a" android:id="0x7f0b23b1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="0x7f0b0df1" android:layout_alignParentTop="true" android:fontFamily="?unknown_attr_ref: 7f040999" android:layout_toEndOf="0x7f0b0df1"/>
+    <TextView android:textSize="13sp" android:textColor="?unknown_attr_ref: 7f04099b" android:id="0x7f0b23b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="0x7f0b0df1" android:layout_below="0x7f0b23b1" android:fontFamily="?unknown_attr_ref: 7f040998" android:layout_toEndOf="0x7f0b0df1"/>
+</RelativeLayout>

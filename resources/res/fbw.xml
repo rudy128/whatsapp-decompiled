@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1a17" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:background="?unknown_attr_ref: 7f0408ce" android:paddingTop="0x7f070c52" android:paddingBottom="0x7f070c52" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:id="0x7f0b1a18" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070c53" android:tint="?unknown_attr_ref: 7f0405f2" android:layout_centerVertical="true" android:layout_marginStart="0x7f070c53" app:NOT_FOUND_0x14="0x7f080539"/>
+        <RelativeLayout android:paddingLeft="0x7f070c54" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="0x7f0b1a18" android:layout_centerVertical="true" android:paddingStart="0x7f070c54" android:layout_toEndOf="0x7f0b1a18">
+            <com.whatsapp.WaTextView android:id="0x7f0b1a1a" android:text="0x7f120771" android:letterSpacing="0.02" style="0x7f150389"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="0x7f060b1d" android:id="0x7f0b1a19" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="0x7f0b1a1a" android:letterSpacing="0.02" style="0x7f150388"/>
+        </RelativeLayout>
+    </RelativeLayout>
+    <View android:background="?unknown_attr_ref: 7f0400e2" android:layout_width="match_parent" android:layout_height="1dp"/>
+</LinearLayout>

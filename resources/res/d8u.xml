@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e03d2"/>
+    <include layout="0x7f0e0339"/>
+    <com.whatsapp.components.TextAndDateLayout android:id="0x7f0b2219" android:paddingLeft="0x7f07048b" android:paddingRight="0x7f07048b" android:paddingBottom="0x7f070e06" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="0x7f0e03a4"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f0710a0" android:gravity="center_vertical" android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="0x7f0b23e5" android:paddingLeft="0x7f07015b" android:paddingTop="0x7f071104" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f150685"/>
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0b09b4" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ViewStub android:id="0x7f0b165e" android:layout="0x7f0e08f7" android:inflatedId="0x7f0b165e" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.whatsapp.WaTextView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="0x7f0b099d" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150685"/>
+            <ViewStub android:id="0x7f0b25cd" android:layout="0x7f0e0403" android:inflatedId="0x7f0b25cd" android:layout_width="0x7f071022" android:layout_height="0x7f071021"/>
+        </LinearLayout>
+    </com.whatsapp.components.TextAndDateLayout>
+</LinearLayout>

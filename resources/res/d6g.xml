@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@android:id/content" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ViewStub android:layout_gravity="top" android:id="0x7f0b1e61" android:visibility="gone" android:layout="0x7f0e02eb" android:inflatedId="0x7f0b1e60" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.whatsapp.collections.observablelistview.ObservableListView android:id="@android:id/list" android:background="?unknown_attr_ref: 7f0406df" android:paddingLeft="0x7f070376" android:paddingRight="0x7f070377" android:paddingBottom="0x7f0709d3" android:layout_width="match_parent" android:layout_height="match_parent" android:cacheColorHint="@android:color/transparent" android:divider="@null" android:nestedScrollingEnabled="true"/>
+    <FrameLayout android:gravity="center" android:id="@android:id/empty" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b0871" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <FrameLayout android:id="0x7f0b0872" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ProgressBar android:layout_gravity="center" android:id="0x7f0b10cf" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyle"/>
+        <com.whatsapp.WaTextView android:textSize="18sp" android:textColor="?android:attr/textColorSecondary" android:gravity="center" android:id="0x7f0b1dbb" android:paddingLeft="12dp" android:paddingTop="96dp" android:paddingRight="12dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b0c78" android:layout="0x7f0e02e1" android:inflatedId="0x7f0b0c78" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </FrameLayout>
+</FrameLayout>

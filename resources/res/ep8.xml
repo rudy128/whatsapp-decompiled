@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingTop="0x7f070712" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f070aec">
+    <com.whatsapp.wds.components.fab.WDSFab android:id="0x7f0b0fcc" android:visibility="gone" android:contentDescription="0x7f121723" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f0403cc" style="0x7f15067d"/>
+    <com.whatsapp.wds.components.fab.WDSFab android:id="0x7f0b0fcb" android:visibility="gone" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f040d35" style="0x7f15067c"/>
+</FrameLayout>

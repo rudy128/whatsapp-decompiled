@@ -1,0 +1,12 @@
+{
+  "type": "path",
+  "oncall": "android_lacrima",
+  "path": {
+    "name": "file_poolreports",
+    "location": "PERSISTENT_ROOT"
+  },
+  "privacy": "NOT_SCOPED",
+  "description": "file_poolreports",
+  "name": "android_lacrima_file_pool_reports",
+  "id": 1404562392
+}

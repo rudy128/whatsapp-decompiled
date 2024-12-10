@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="0x7f122607" android:key="settings_chat_history">
+    <com.whatsapp.preference.ChatHistoryPreference android:icon="0x7f08067b" android:layout="0x7f0e0a20" android:title="0x7f123407" android:key="email_chat_history"/>
+    <com.whatsapp.preference.ChatHistoryPreference android:icon="0x7f0803b7" android:layout="0x7f0e0a20" android:title="0x7f123154" android:key="msgstore_archive_all_chats"/>
+    <com.whatsapp.preference.ChatHistoryPreference android:icon="0x7f080476" android:layout="0x7f0e0a20" android:title="0x7f12319d" android:key="msgstore_clear_all_chats"/>
+    <com.whatsapp.preference.ChatHistoryPreference android:icon="0x7f080465" android:layout="0x7f0e0a20" android:title="0x7f1231fc" android:key="msgstore_delete_all_chats"/>
+</PreferenceScreen>

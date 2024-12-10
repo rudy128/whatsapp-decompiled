@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:id="0x7f0b114a" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <FrameLayout android:id="0x7f0b08e3" android:paddingLeft="0x7f07048b" android:paddingRight="0x7f07048b" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b08e2" android:layout="0x7f0e03a2" android:inflatedId="0x7f0b08e1" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <ViewStub android:id="0x7f0b21ad" android:layout="0x7f0e0c99" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.whatsapp.TextEmojiLabel android:textAppearance="?unknown_attr_ref: 7f040cef" android:id="0x7f0b0a27" android:paddingLeft="0x7f070430" android:paddingRight="0x7f070c62" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:textDirection="firstStrong"/>
+    <com.whatsapp.conversation.conversationrow.dynamicview.DynamicMessageView android:gravity="center_horizontal" android:id="0x7f0b0b3f" android:paddingLeft="0x7f070430" android:paddingRight="0x7f070c62" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff"/>
+    <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0402a1" android:id="0x7f0b03ee" android:paddingLeft="0x7f070430" android:paddingTop="0x7f0710ff" android:paddingRight="0x7f070430" android:paddingBottom="0x7f07047b" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:textDirection="firstStrong"/>
+    <ViewStub android:id="0x7f0b08eb" android:layout="0x7f0e03d3" android:inflatedId="0x7f0b08d8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</merge>

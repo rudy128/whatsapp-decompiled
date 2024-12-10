@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="0x7f0b0fc7" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x15="0">
+        <LinearLayout android:orientation="vertical" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x15="0">
+            <LinearLayout android:orientation="horizontal" android:paddingLeft="8dp" android:paddingRight="8dp" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="0x7f070bfc" android:layout_marginStart="44dp" app:NOT_FOUND_0x15="0">
+                <com.google.android.material.button.MaterialButtonToggleGroup android:layout_gravity="center_vertical" android:id="0x7f0b044c" android:layout_width="0dp" android:layout_height="28dp" android:layout_marginLeft="30dp" android:layout_marginRight="30dp" android:layout_weight="1" app:NOT_FOUND_0x16="true" app:NOT_FOUND_0x17="true">
+                    <com.google.android.material.button.MaterialButton android:id="0x7f0b0bd0" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0x12="0x7f080a56" style="0x7f150250"/>
+                    <com.google.android.material.button.MaterialButton android:id="0x7f0b0eea" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0x12="0x7f080a1b" style="0x7f150250"/>
+                    <com.google.android.material.button.MaterialButton android:id="0x7f0b02a0" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0x12="0x7f080624" style="0x7f150250"/>
+                    <com.google.android.material.button.MaterialButton android:id="0x7f0b2108" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" app:NOT_FOUND_0x12="0x7f080aac" style="0x7f150250"/>
+                </com.google.android.material.button.MaterialButtonToggleGroup>
+                <com.whatsapp.WaImageView android:layout_gravity="right" android:id="0x7f0b0a12" android:visibility="gone" android:layout_width="40dp" android:layout_height="match_parent" android:contentDescription="0x7f12033e" app:NOT_FOUND_0x18="0x7f0803e3" style="0x7f150006"/>
+                <FrameLayout android:layout_gravity="right" android:id="0x7f0b0895" android:visibility="gone" android:layout_width="40dp" android:layout_height="match_parent">
+                    <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b0894" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x19="?unknown_attr_ref: 7f0403a4" style="0x7f150006"/>
+                    <View android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="0x7f0b0893" android:visibility="gone" style="0x7f150434"/>
+                </FrameLayout>
+            </LinearLayout>
+            <include android:id="0x7f0b1d68" layout="0x7f0e0549"/>
+        </LinearLayout>
+        <FrameLayout android:id="0x7f0b1d6c" android:background="0x7f060c13" android:layout_width="60dp" android:layout_height="44dp" android:layout_marginStart="8dp" app:NOT_FOUND_0x15="0">
+            <com.whatsapp.WaImageView android:layout_gravity="top" android:layout_width="40dp" android:layout_height="44dp" android:contentDescription="0x7f1233e9" app:NOT_FOUND_0x18="0x7f080a91" app:NOT_FOUND_0x19="?unknown_attr_ref: 7f0403a4" style="0x7f150006"/>
+        </FrameLayout>
+    </FrameLayout>
+    <androidx.viewpager.widget.ViewPager android:id="0x7f0b044b" android:layout_width="match_parent" android:layout_height="0dp" android:nestedScrollingEnabled="true" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0x7f0b0fc7"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

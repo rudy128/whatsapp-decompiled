@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingLeft="0x7f0710fe" android:paddingRight="0x7f0710fe" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:orientation="vertical" android:id="0x7f0b1338" android:background="?unknown_attr_ref: 7f040a07" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x15="0">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputLayout android:id="0x7f0b1aea" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710fe" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x15="0">
+                <EditText android:id="0x7f0b1ae9" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="0x7f1233c9" android:ems="10" android:layout_centerHorizontal="true" android:layout_centerVertical="true"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:id="0x7f0b1349" android:layout_marginTop="16dp" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0x7f0b1aea" style="0x7f1503cd"/>
+            <ViewStub android:id="0x7f0b1a05" android:inflatedId="0x7f0b1a05" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x11="0x7f0b1aea" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0x7f0b1349"/>
+            <include android:id="0x7f0b06bd" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0x7f0b1a05" layout="0x7f0e0d8c"/>
+            <include android:id="0x7f0b13d4" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0x7f0b06bd" layout="0x7f0e0d8c"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+    <com.whatsapp.wds.components.fab.WDSFab android:id="0x7f0b1d2c" android:src="0x7f08043e" android:contentDescription="0x7f12322d" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x10="0" style="0x7f15067b"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b0b66" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x7="0x7f080486" app:NOT_FOUND_0x8="false" app:NOT_FOUND_0x9="0x7f120dca" app:NOT_FOUND_0xa="0x7f07031b"/>
+    <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b1343" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x7="0x7f0804ce" app:NOT_FOUND_0x8="false" app:NOT_FOUND_0x9="0x7f121684" app:NOT_FOUND_0xa="0x7f07031b"/>
+    <ViewStub android:id="0x7f0b07a2" android:layout="0x7f0e0297" android:inflatedId="0x7f0b07a2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <View android:background="0x7f08021f" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

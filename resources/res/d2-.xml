@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1a3a" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.productinfra.avatar.coinflip.AvatarCoinFlipProfilePhotoImageView android:id="0x7f0b1ab6" android:layout_width="0x7f0702e3" android:layout_height="0x7f0702e3" android:src="0x7f080620" android:contentDescription="0x7f1233c4" app:NOT_FOUND_0xb="0" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xf="0"/>
+    <com.whatsapp.WaTextView android:gravity="center" android:id="0x7f0b21af" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0702e2" android:text="0x7f1208e6" android:layout_marginStart="0x7f0702dd" android:layout_marginEnd="0x7f0702dd" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0x7f0b1ab6" style="0x7f1504aa"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="0x7f070130" android:layout_height="0x7f07012e" android:layout_marginStart="0x7f071108">
+    <FrameLayout android:id="0x7f0b106b" android:layout_width="match_parent" android:layout_height="match_parent" android:foreground="0x7f080115">
+        <com.whatsapp.components.button.ThumbnailButton android:enabled="false" android:id="0x7f0b1948" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" app:NOT_FOUND_0x11="false" app:NOT_FOUND_0x12="0x7f07012f"/>
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="0x7f0b05ea" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710fd" android:layout_marginRight="0x7f0710fd" android:layout_marginBottom="0x7f0710fd" android:NOT_FOUND_0x10="0x7f0710fd">
+        <com.whatsapp.TextEmojiLabel android:textColor="0x7f060eb2" android:ellipsize="end" android:id="0x7f0b05f4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="0x7f1506c0"/>
+        <com.whatsapp.TextEmojiLabel android:textColor="0x7f060eb2" android:ellipsize="end" android:id="0x7f0b15c7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0b" android:maxLines="1" style="0x7f1506c3"/>
+        <com.whatsapp.TextEmojiLabel android:textColor="0x7f060eb2" android:ellipsize="end" android:id="0x7f0b216d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0b" android:maxLines="1" style="0x7f1506be"/>
+        <com.whatsapp.TextEmojiLabel android:textColor="0x7f060eb2" android:ellipsize="end" android:id="0x7f0b0249" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0b" android:maxLines="1" style="0x7f1506be"/>
+    </LinearLayout>
+</FrameLayout>

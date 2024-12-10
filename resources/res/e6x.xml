@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.SectionHeaderView android:id="0x7f0b110d" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x5="0x7f1219e1" style="0x7f15031b"/>
+    <com.whatsapp.newsletter.insights.view.InsightsSectionView android:id="0x7f0b110e" android:layout_width="match_parent" android:layout_height="wrap_content" android:divider="0x7f0806fc" android:showDividers="middle"/>
+</merge>

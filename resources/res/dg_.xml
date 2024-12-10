@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.WaImageButton android:id="0x7f0b071c" android:layout_marginLeft="0x7f070c7a" app:NOT_FOUND_0x15="0" app:NOT_FOUND_0x16="0" style="0x7f15000c"/>
+    <com.whatsapp.WaTextView android:layout_marginLeft="0x7f070c7a" android:text="0x7f12025e" android:layout_toRightOf="0x7f0b071c" android:layout_alignTop="0x7f0b071c" android:layout_alignBottom="0x7f0b071c" style="0x7f15000d"/>
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:layout_below="0x7f0b071c">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputLayout android:id="0x7f0b10e7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070c78" android:layout_marginTop="0x7f070c79" android:layout_marginRight="0x7f070c78" android:NOT_FOUND_0x13="0x7f070c78">
+                <com.whatsapp.WaEditText android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:imeOptions="flagNoFullscreen"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <Space android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+            <View android:layout_gravity="bottom" android:layout_marginTop="0x7f0710fd" style="0x7f1503c0"/>
+            <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="bottom" android:id="0x7f0b01f3" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710fd" android:layout_marginBottom="0x7f0710fd" android:text="0x7f122d7a" android:NOT_FOUND_0x14="0x7f0710fd"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

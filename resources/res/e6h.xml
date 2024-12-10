@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0829" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f15029d">
+    <LinearLayout android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b166c" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x8="0x7f122234" app:NOT_FOUND_0x9="0x7f0805e4" app:NOT_FOUND_0xa="0x7f060626" app:NOT_FOUND_0xb="0x7f122236"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b166d" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x8="0x7f122235" app:NOT_FOUND_0x9="0x7f0805e4" app:NOT_FOUND_0xa="0x7f060626" app:NOT_FOUND_0xb="0x7f122236"/>
+        <ViewStub android:id="0x7f0b169c" android:layout="0x7f0e090e" android:inflatedId="0x7f0b169b" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b166b" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x8="0x7f1219c6" app:NOT_FOUND_0x9="0x7f08046e" app:NOT_FOUND_0xa="0x7f060626" app:NOT_FOUND_0xb="0x7f1219c7"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b167c" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x9="0x7f08061a" app:NOT_FOUND_0xa="0x7f060626" app:NOT_FOUND_0xb="0x7f121a4b"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b161a" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x9="0x7f0806b6" app:NOT_FOUND_0xa="0x7f060626" app:NOT_FOUND_0xb="0x7f1219c5"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b25ce" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x9="0x7f08061a" app:NOT_FOUND_0xa="0x7f060626" app:NOT_FOUND_0xb="0x7f1234c4"/>
+    </LinearLayout>
+</com.whatsapp.InfoCard>

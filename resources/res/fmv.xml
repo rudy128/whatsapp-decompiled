@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="0x7f0b0562" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" android:background="?unknown_attr_ref: 7f040bde" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010" android:minHeight="?unknown_attr_ref: 7f040010" app:NOT_FOUND_0xf="0x7f150634" app:NOT_FOUND_0x10="0x7f150631"/>
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_height="wrap_content" style="0x7f1501d1">
+            <LinearLayout android:orientation="vertical" android:id="0x7f0b1f6a" android:layout_width="0dp" android:layout_height="match_parent" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0">
+                <com.whatsapp.TextEmojiLabel android:textSize="15sp" android:textColor="?unknown_attr_ref: 7f0406e7" android:id="0x7f0b1f68" android:paddingLeft="16dp" android:paddingTop="24dp" android:paddingRight="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</LinearLayout>

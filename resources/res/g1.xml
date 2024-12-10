@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_selected="true" android:state_pressed="true" android:color="?unknown_attr_ref: 7f040230" android:alpha="0x7f070947"/>
+    <item android:state_focused="true" android:state_selected="true" android:color="?unknown_attr_ref: 7f040230" android:alpha="0x7f070945"/>
+    <item android:state_selected="true" android:color="?unknown_attr_ref: 7f040230" android:alpha="0x7f070946" android:state_hovered="true"/>
+    <item android:state_pressed="true" android:color="?unknown_attr_ref: 7f040230" android:alpha="0x7f070947"/>
+    <item android:state_focused="true" android:color="?unknown_attr_ref: 7f04022a" android:alpha="0x7f070945"/>
+    <item android:color="?unknown_attr_ref: 7f04022a" android:alpha="0x7f070946" android:state_hovered="true"/>
+    <item android:color="@android:color/transparent"/>
+</selector>

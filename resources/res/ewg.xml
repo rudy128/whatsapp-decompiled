@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1218" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.airbnb.lottie.LottieAnimationView android:id="0x7f0b2196" android:paddingBottom="0x7f070ec5" android:layout_width="match_parent" android:layout_height="0x7f070ec4" android:layout_centerHorizontal="true"/>
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b03fe" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="0x7f0710a3" android:textColor="0x7f060bbe" android:gravity="center" android:id="0x7f0b22b0" android:paddingBottom="0x7f070ec5" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.recyclerview.widget.RecyclerView android:orientation="vertical" android:id="0x7f0b2191" android:paddingLeft="0x7f070ec6" android:paddingTop="0x7f070ec6" android:paddingRight="0x7f070ec6" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="0x7f070ec6" android:paddingEnd="0x7f070ec6" app:NOT_FOUND_0x10="LinearLayoutManager"/>
+    <TextView android:textSize="0x7f07109c" android:textColor="0x7f060bbd" android:layout_gravity="center_horizontal" android:id="0x7f0b2195" android:layout_width="0x7f070ecd" android:layout_height="wrap_content" android:layout_centerHorizontal="true"/>
+    <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b03fd" android:layout_margin="0x7f070ec2" style="0x7f150678"/>
+</LinearLayout>

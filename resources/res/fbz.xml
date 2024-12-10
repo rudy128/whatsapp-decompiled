@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.components.MaxHeightLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x8="true" app:NOT_FOUND_0x9="com.google.android.material.bottomsheet.BottomSheetBehavior">
+    <ViewStub android:id="0x7f0b0fd4" android:layout="0x7f0e0a10" android:inflatedId="0x7f0b0fbe" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b0fd8" android:layout="0x7f0e0a0f" android:inflatedId="0x7f0b0fbe" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b1bbe" android:layout="0x7f0e0a11" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b2042" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b1bbd" android:layout="0x7f0e0a13" android:layout_width="match_parent" android:layout_height="0x7f070e12"/>
+        <ViewStub android:id="0x7f0b0e28" android:layout="0x7f0e0a12" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.wds.components.button.WDSButtonGroup android:id="0x7f0b04fb" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0x7f070e07" app:NOT_FOUND_0xa="1">
+            <ViewStub android:id="0x7f0b204a" android:layout="0x7f0e0a14" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b2049" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </com.whatsapp.wds.components.button.WDSButtonGroup>
+    </LinearLayout>
+</com.whatsapp.components.MaxHeightLinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:paddingBottom="0x7f0707c9" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="0x7f0e08e0"/>
+        <com.whatsapp.SectionHeaderView android:id="0x7f0b110f" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xa="0x7f1219e4" style="0x7f15031b"/>
+        <com.whatsapp.newsletter.insights.view.InsightsSectionView android:id="0x7f0b10f6" android:paddingLeft="0x7f0710fd" android:paddingTop="0x7f071109" android:paddingRight="0x7f0710fd" android:paddingBottom="0x7f071109" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:layout_gravity="center_horizontal" android:id="0x7f0b10f7" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1506c2"/>
+            <com.whatsapp.WaTextView android:layout_gravity="center_horizontal" android:id="0x7f0b10f5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff"/>
+        </com.whatsapp.newsletter.insights.view.InsightsSectionView>
+        <include layout="0x7f0e08eb"/>
+    </LinearLayout>
+</ScrollView>

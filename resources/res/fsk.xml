@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.WaImageView android:id="0x7f0b1b32" style="0x7f15043f"/>
+    <com.whatsapp.TextEmojiLabel android:id="0x7f0b1b2f" style="0x7f150440"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b1b33" style="0x7f15043f"/>
+    <com.whatsapp.TextEmojiLabel android:id="0x7f0b1b30" style="0x7f150440"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b1b34" style="0x7f15043f"/>
+    <com.whatsapp.TextEmojiLabel android:id="0x7f0b1b31" style="0x7f150440"/>
+</merge>

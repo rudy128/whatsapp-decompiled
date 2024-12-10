@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b2399" android:background="?unknown_attr_ref: 7f0403ae" android:paddingBottom="0x7f070e07" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b17b3" android:background="?unknown_attr_ref: 7f0403ae" android:layout_width="0dp" android:layout_height="wrap_content" app:NOT_FOUND_0x7="0x7f0b00a9" app:NOT_FOUND_0x9="0" app:NOT_FOUND_0xa="0"/>
+    <com.whatsapp.WaImageView android:id="0x7f0b00a9" android:background="?unknown_attr_ref: 7f0403ae" android:layout_width="48dp" android:layout_height="48dp" android:contentDescription="0x7f1228b2" app:NOT_FOUND_0x6="0" app:NOT_FOUND_0x8="0x7f0b17b3" app:NOT_FOUND_0xa="0" app:NOT_FOUND_0xb="0x7f080967" app:NOT_FOUND_0xc="?unknown_attr_ref: 7f040af8" style="0x7f150006"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

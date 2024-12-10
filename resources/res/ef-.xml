@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="start" android:layout_gravity="start" android:orientation="vertical" android:id="0x7f0b22d1" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginStart="0x7f070e09" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xd="0x7f0b02f2" app:NOT_FOUND_0xe="0">
+        <com.whatsapp.WaTextView android:id="0x7f0b22b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" style="0x7f1502de"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="0x7f060dfb" android:id="0x7f0b216d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" style="0x7f1502dd"/>
+    </LinearLayout>
+    <androidx.constraintlayout.widget.Barrier android:id="0x7f0b02f2" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xa="0" app:NOT_FOUND_0xb="checkbox"/>
+    <CheckBox android:id="0x7f0b06d6" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xc="0x7f0b02f2" app:NOT_FOUND_0xd="0" app:NOT_FOUND_0xe="0"/>
+</merge>

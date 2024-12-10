@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageButton android:id="0x7f0b0712" android:background="0x7f0808ae" android:padding="0x7f070773" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f12319f" app:NOT_FOUND_0x22="0x7f080446"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textStyle="bold" android:textColor="?unknown_attr_ref: 7f0408cf" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b22b0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="0x7f071107" android:text="0x7f121772" app:NOT_FOUND_0x1d="0x7f0b0712" app:NOT_FOUND_0x1e="0" app:NOT_FOUND_0x1f="0" app:NOT_FOUND_0x21="0x7f0b0712"/>
+    </LinearLayout>
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:overScrollMode="never" app:NOT_FOUND_0x20="0x7f0b22b0">
+        <RelativeLayout android:orientation="vertical" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.FAQTextView android:textSize="0x7f071098" android:gravity="center" android:id="0x7f0b0a27" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:layout_marginBottom="12dp" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true"/>
+            <com.whatsapp.StarRatingBar android:id="0x7f0b1b4c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="0x7f0b0a27" android:layout_centerHorizontal="true" android:importantForAccessibility="yes"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b1b4e" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="0x7f0b1b4c" android:layout_centerHorizontal="true"/>
+            <com.whatsapp.wds.components.button.WDSButton android:enabled="false" android:id="0x7f0b2167" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginTop="16dp" android:layout_marginRight="16dp" android:text="0x7f12291a" android:layout_below="0x7f0b1b4e" style="0x7f150671"/>
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingLeft="0x7f070e0d" android:paddingTop="0x7f070e09" android:paddingRight="0x7f070e0d" android:paddingBottom="0x7f070e0e" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b1e57" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e08" android:layout_marginBottom="0x7f070e0e" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x15="0">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:layout_width="20dp" android:layout_height="20dp" android:importantForAccessibility="no" app:NOT_FOUND_0x16="0x7f080a17"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:id="0x7f0b1e58" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1211b9" android:layout_marginStart="0x7f070e0a"/>
+    </LinearLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b0ef4" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e11" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0x7f0b1e57">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b0ef5" android:layout_width="20dp" android:layout_height="20dp" android:importantForAccessibility="no" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x15="0" app:NOT_FOUND_0x16="0x7f080a9b"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:id="0x7f0b0ef6" android:layout_width="0dp" android:layout_height="wrap_content" android:text="0x7f1211b8" android:layout_marginStart="0x7f070e0a" app:NOT_FOUND_0x12="0x7f0b0ef5" app:NOT_FOUND_0x15="0"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409e9" android:layout_width="0dp" android:layout_height="wrap_content" android:text="0x7f1211b7" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x13="0x7f0b0ef6" app:NOT_FOUND_0x14="0x7f0b0ef6"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

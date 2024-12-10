@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.components.MaxHeightLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0230" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0xa="true" app:NOT_FOUND_0xb="com.google.android.material.bottomsheet.BottomSheetBehavior">
+    <ViewStub android:id="0x7f0b0fd8" android:layout="0x7f0e0db7" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b0fde" android:layout="0x7f0e0dbb" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070e09"/>
+    <ViewStub android:id="0x7f0b07ec" android:layout="0x7f0e0dba" android:layout_width="match_parent" android:layout_height="0dp" android:minHeight="0x7f070fb4" android:layout_weight="1"/>
+    <ViewStub android:id="0x7f0b054c" android:layout="0x7f0e0db9" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f070fb5">
+        <ViewStub android:id="0x7f0b2545" android:layout="0x7f0e0db6" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:layout_gravity="center_horizontal" android:id="0x7f0b08ab" android:layout="0x7f0e0dd8" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0b"/>
+    </FrameLayout>
+</com.whatsapp.components.MaxHeightLinearLayout>

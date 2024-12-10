@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1d0a" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.recyclerview.widget.RecyclerView android:id="@android:id/list" android:layout_width="match_parent" android:layout_height="match_parent" android:cacheColorHint="0x7f060c13" app:NOT_FOUND_0x7="androidx.recyclerview.widget.LinearLayoutManager"/>
+    <ViewStub android:id="0x7f0b1d0b" android:layout="0x7f0e0ae2" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:id="0x7f0b1d0c" android:layout="0x7f0e0ae3" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <View android:layout_gravity="top" android:id="0x7f0b2385" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123485"/>
+    <View android:layout_gravity="bottom" android:id="0x7f0b2384" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123484"/>
+</FrameLayout>

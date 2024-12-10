@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center" android:id="0x7f0b207b" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e25" android:layout_marginTop="0x7f070e25" android:layout_marginRight="0x7f070e25" android:layout_marginBottom="0x7f070e25" android:scaleType="centerInside" android:adjustViewBounds="true" android:NOT_FOUND_0xa="0x7f070e25" android:NOT_FOUND_0xb="0x7f070e25"/>
+</merge>

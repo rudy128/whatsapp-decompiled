@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="0x7f08022e" android:paddingLeft="0x7f070e09" android:paddingTop="0x7f070e07" android:paddingRight="0x7f070e09" android:paddingBottom="0x7f070e0a" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="0x7f0e035b"/>
+        <com.facebook.shimmer.ShimmerFrameLayout android:id="0x7f0b1f90" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e07" android:layout_marginRight="0x7f070e07" app:NOT_FOUND_0x17="0.4" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x19="1200" app:NOT_FOUND_0x1a="0.6" app:NOT_FOUND_0x1b="400" app:NOT_FOUND_0x1c="20">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <View android:background="0x7f080879" android:layout_width="match_parent" android:layout_height="0x7f070e09" android:layout_marginLeft="0x7f070e07" android:layout_marginRight="0x7f070e07" android:layout_marginBottom="0x7f070e0b"/>
+                <View android:background="0x7f080879" android:layout_width="match_parent" android:layout_height="0x7f070e09" android:layout_marginLeft="0x7f070e0d" android:layout_marginRight="0x7f070e0d"/>
+            </LinearLayout>
+        </com.facebook.shimmer.ShimmerFrameLayout>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b152b" android:layout="0x7f0e037d" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409e9" android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="center" android:id="0x7f0b1fb7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:maxLines="3" android:NOT_FOUND_0x15="0x7f070e0a"/>
+        <ViewStub android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="0x7f0b1026" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.wds.components.button.WDSButton android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="0x7f0b1d19" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f121127" app:NOT_FOUND_0x1d="3"/>
+        <com.whatsapp.wds.components.button.WDSButtonGroup android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="0x7f0b00d7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp">
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b036d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f120440" app:NOT_FOUND_0x16="0x7f0803e7" app:NOT_FOUND_0x1d="2"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b00fb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12111d" app:NOT_FOUND_0x16="0x7f0805ad" app:NOT_FOUND_0x1d="2"/>
+        </com.whatsapp.wds.components.button.WDSButtonGroup>
+    </LinearLayout>
+</merge>

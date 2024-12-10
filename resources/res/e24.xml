@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" style="0x7f150632"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b1bbc" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.whatsapp.WaTextView android:textSize="0x7f0710a6" android:textColor="0x7f060db2" android:gravity="center" android:id="0x7f0b2120" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:text="0x7f1233de" android:lineSpacingExtra="2sp" app:NOT_FOUND_0xa="?unknown_attr_ref: 7f040569" app:NOT_FOUND_0xb="28sp"/>
+</LinearLayout>

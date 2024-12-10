@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1354" android:background="0x7f080173" android:layout_width="match_parent" android:layout_height="146dp" android:layout_marginLeft="0x7f070c59" android:layout_marginTop="0x7f070c59" android:layout_marginRight="0x7f070c59" android:layout_marginBottom="0x7f070c60" app:NOT_FOUND_0x8="8dp" app:NOT_FOUND_0x9="0dp">
+    <FrameLayout android:id="0x7f0b1357" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.whatsapp.WaFrameLayout android:id="0x7f0b03c6" android:background="0x7f080173" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</androidx.cardview.widget.CardView>

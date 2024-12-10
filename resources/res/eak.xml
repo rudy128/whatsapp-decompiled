@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b046c" android:paddingBottom="3dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <include layout="0x7f0e03d2"/>
+        </LinearLayout>
+        <FrameLayout android:id="0x7f0b1af6" android:background="0x7f080852" android:layout_width="0x7f07044f" android:layout_height="0x7f07044f" android:layout_marginTop="0x7f070449" android:importantForAccessibility="no">
+            <com.whatsapp.pushtorecordmedia.MediaProgressRing android:id="0x7f0b19a6" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" app:NOT_FOUND_0x16="?unknown_attr_ref: 7f040889"/>
+            <com.whatsapp.WaFrameLayout android:id="0x7f0b13bd" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0x7f07044e" android:importantForAccessibility="yes">
+                <com.whatsapp.conversation.conversationrow.PushToVideoInlineVideoPlayer android:id="0x7f0b10db" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <RelativeLayout android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no">
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:importantForAccessibility="no">
+                        <com.whatsapp.WaImageView android:id="0x7f0b15ab" android:layout_width="wrap_content" android:layout_height="0x7f07044b" android:adjustViewBounds="true" android:tint="0x7f060d80" android:importantForAccessibility="no" android:paddingEnd="0x7f07044c" app:NOT_FOUND_0x17="0x7f0806a7"/>
+                        <com.whatsapp.pushtorecordmedia.MediaTimeDisplay android:id="0x7f0b13f4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+                    </LinearLayout>
+                    <include layout="0x7f0e03d0"/>
+                </RelativeLayout>
+            </com.whatsapp.WaFrameLayout>
+        </FrameLayout>
+        <com.whatsapp.WaLinearLayout android:gravity="center_vertical" android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="0x7f0b09b4" android:paddingLeft="0x7f07045b" android:paddingRight="0x7f07045b" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:id="0x7f0b099d" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150685"/>
+        </com.whatsapp.WaLinearLayout>
+    </LinearLayout>
+</merge>

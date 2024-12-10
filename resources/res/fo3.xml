@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.components.MainChildCoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x1a="0x7f0b03f9">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:id="0x7f0b0890" android:layout_width="match_parent" android:layout_height="match_parent">
+        <View android:id="0x7f0b178c" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no"/>
+        <FrameLayout android:id="0x7f0b0886" android:background="0x7f08090d" android:layout_width="0dp" android:layout_height="0dp" app:NOT_FOUND_0x11="0x7f0b01d3" app:NOT_FOUND_0x12="9:16" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x18="0" app:NOT_FOUND_0x19="2"/>
+        <ViewStub android:id="0x7f0b0c74" android:layout="0x7f0e0c13" android:inflatedId="0x7f0b0c74" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <View android:id="0x7f0b0706" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ViewStub android:id="0x7f0b05e2" android:layout="0x7f0e0c4c" android:inflatedId="0x7f0b05e2" android:layout_width="match_parent" android:layout_height="0dp" app:NOT_FOUND_0x10="0x7f0b0886" app:NOT_FOUND_0x18="0x7f0b05e3"/>
+        <View android:id="0x7f0b05e3" android:layout_width="match_parent" android:layout_height="0x7f070e3c" app:NOT_FOUND_0x11="0x7f0b05de"/>
+        <ViewStub android:id="0x7f0b05de" android:layout="0x7f0e0c4b" android:inflatedId="0x7f0b05de" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x11="0x7f0b0e8c"/>
+        <ViewStub android:id="0x7f0b0e8c" android:layout="0x7f0e0747" android:inflatedId="0x7f0b0e8c" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x11="0x7f0b05df"/>
+        <ViewStub android:id="0x7f0b08a8" android:layout="0x7f0e0c11" android:inflatedId="0x7f0b08a8" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0" app:NOT_FOUND_0x18="0"/>
+        <View android:id="0x7f0b2073" android:background="?unknown_attr_ref: 7f0400e8" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b2512" android:layout="0x7f0e073b" android:inflatedId="0x7f0b1325" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0" app:NOT_FOUND_0x18="0"/>
+        <ViewStub android:id="0x7f0b01d3" android:layout="0x7f0e0c10" android:inflatedId="0x7f0b01d3" android:layout_width="wrap_content" android:layout_height="0x7f070e3b" app:NOT_FOUND_0x10="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0x7f0b0886"/>
+        <ViewStub android:id="0x7f0b2516" android:layout="0x7f0e0c24" android:inflatedId="0x7f0b20b1" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x11="0x7f0b1c8a" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x16="0"/>
+        <androidx.constraintlayout.widget.Barrier android:id="0x7f0b1c8a" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xc="2" app:NOT_FOUND_0xe="reply_bar,caption"/>
+        <androidx.constraintlayout.widget.Barrier android:id="0x7f0b05df" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xc="2" app:NOT_FOUND_0xe="reply_bar,poster_bottom_bar,poster_bottom_bar_smb"/>
+        <ViewStub android:id="0x7f0b1c0b" android:layout="0x7f0e0c23" android:inflatedId="0x7f0b1c0b" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x17="0x7f0b0886"/>
+        <ViewStub android:id="0x7f0b1a1b" android:layout="0x7f0e0c20" android:inflatedId="0x7f0b1a1b" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x17="0x7f0b0886"/>
+        <ViewStub android:id="0x7f0b1a1c" android:layout="0x7f0e0c21" android:inflatedId="0x7f0b1a1c" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x17="0x7f0b0886"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b03f9" android:paddingTop="96dp" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f070e26" app:NOT_FOUND_0xf="com.google.android.material.bottomsheet.BottomSheetBehavior">
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b0b2b" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b1429" android:layout="0x7f0e0c09" android:inflatedId="0x7f0b1429" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ViewStub android:id="0x7f0b1426" android:layout="0x7f0e0c07" android:inflatedId="0x7f0b1426" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </LinearLayout>
+</com.whatsapp.components.MainChildCoordinatorLayout>

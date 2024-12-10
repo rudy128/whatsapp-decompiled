@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b183e" android:background="0x7f0806f1" android:addStatesFromChildren="true" android:layout_width="0x7f0707ad" android:layout_height="0x7f0707ad" android:layout_marginRight="0x7f0707ab" android:layout_marginBottom="0x7f0707ab" android:elevation="2dp" android:stateListAnimator="0x7f010033">
+    <com.whatsapp.WaImageButton android:layout_gravity="center" android:id="0x7f0b1eb9" android:background="@android:color/transparent" android:layout_width="47dp" android:layout_height="47dp" android:scaleType="center" android:contentDescription="0x7f122574" app:NOT_FOUND_0xc="0x7f0806fa" app:NOT_FOUND_0xd="?unknown_attr_ref: 7f0405f1"/>
+</FrameLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textfield.TextInputLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b15d0" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="0x7f123380" android:importantForAccessibility="yes" android:labelFor="0x7f0b1662" app:NOT_FOUND_0x10="0x7f1504ad">
+    <com.whatsapp.WaEditText android:textSize="0x7f071098" android:textColorHint="?unknown_attr_ref: 7f0409e9" android:id="0x7f0b1662" android:background="0x7f0807d4" android:paddingRight="0x7f0704a6" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:lines="1" android:singleLine="true" android:inputType="textCapWords" android:imeOptions="actionNext" android:contentDescription="0x7f123380"/>
+</com.google.android.material.textfield.TextInputLayout>

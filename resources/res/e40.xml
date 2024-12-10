@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:padding="16dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.TextEmojiLabel android:textAppearance="?unknown_attr_ref: 7f040cf0" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b16a5" android:paddingBottom="0x7f070ee8" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1229e2"/>
+        <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="false">
+            <LinearLayout android:orientation="vertical" android:id="0x7f0b16a4" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </androidx.core.widget.NestedScrollView>
+    </LinearLayout>
+    <com.whatsapp.WaImageButton android:id="0x7f0b04e8" android:background="?unknown_attr_ref: 7f0409fc" android:paddingLeft="16dp" android:paddingTop="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f12319f" app:NOT_FOUND_0xf="0x7f080446" app:NOT_FOUND_0x10="0x7f0601d7"/>
+</FrameLayout>

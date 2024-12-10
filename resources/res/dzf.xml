@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="0x7f070766" android:paddingEnd="0x7f070766" app:NOT_FOUND_0xb="?unknown_attr_ref: 7f0408ce" style="0x7f15029c">
+    <FrameLayout style="0x7f150263">
+        <com.whatsapp.WaTextView android:text="0x7f1204f5" style="0x7f150266"/>
+    </FrameLayout>
+    <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f040ba5" android:id="0x7f0b0490" android:paddingBottom="0x7f070e09" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e07"/>
+</com.whatsapp.InfoCard>

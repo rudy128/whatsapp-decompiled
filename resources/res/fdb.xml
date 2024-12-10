@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="?unknown_attr_ref: 7f040a07" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_height="wrap_content" style="0x7f1501d1">
+        <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="0x7f07011f" android:layout_marginBottom="0x7f07011f" app:NOT_FOUND_0xa="0" app:NOT_FOUND_0xb="0" app:NOT_FOUND_0xc="0" app:NOT_FOUND_0xd="0">
+            <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b0ec4" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xe="0x7f122662" app:NOT_FOUND_0xf="0x7f122661" app:NOT_FOUND_0x10="true" app:NOT_FOUND_0x12="0x7f0804cd" app:NOT_FOUND_0x13="2"/>
+            <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b2207" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f1226d3" app:NOT_FOUND_0x10="true" app:NOT_FOUND_0x11="1" app:NOT_FOUND_0x12="0x7f080469" app:NOT_FOUND_0x13="2"/>
+            <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b2426" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f1226f8" app:NOT_FOUND_0x10="true" app:NOT_FOUND_0x11="1"/>
+            <LinearLayout android:orientation="vertical" android:id="0x7f0b16ee" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <ViewStub android:id="0x7f0b1677" android:inflatedId="0x7f0b1675" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b1676" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f122689" app:NOT_FOUND_0x10="true" app:NOT_FOUND_0x11="1" app:NOT_FOUND_0x12="0x7f08055e" app:NOT_FOUND_0x13="2"/>
+            <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b0020" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xf="0x7f1225f1" app:NOT_FOUND_0x10="true" app:NOT_FOUND_0x11="1" app:NOT_FOUND_0x12="0x7f08050a" app:NOT_FOUND_0x13="2"/>
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

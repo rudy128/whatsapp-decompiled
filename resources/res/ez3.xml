@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="bottom" android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:gravity="bottom" android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="0x7f0b10e1" android:background="0x7f080763" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070afa" android:layout_marginRight="0x7f070afa" android:layout_marginBottom="0x7f070e0b" android:minHeight="0x7f07022c" android:layout_toLeftOf="0x7f0b1e86" android:layout_above="0x7f0b13e6" android:layout_alignParentLeft="true" android:layout_alignWithParentIfMissing="true">
+                <FrameLayout android:id="0x7f0b1423" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <androidx.fragment.app.FragmentContainerView android:name="com.whatsapp.mediacomposer.ui.caption.CaptionFragment" android:orientation="horizontal" android:id="0x7f0b10e2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            </LinearLayout>
+            <ViewStub android:layout_gravity="bottom" android:id="0x7f0b13e8" android:inflatedId="0x7f0b13e6" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0b" android:layout_alignParentBottom="true" android:layout_alignWithParentIfMissing="true" app:NOT_FOUND_0x1d="50"/>
+            <com.whatsapp.WaImageButton android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b1e86" android:background="0x7f0806f1" android:layout_width="0x7f0709d8" android:layout_height="0x7f0709d8" android:layout_marginLeft="0x7f07022e" android:layout_marginRight="0x7f070e06" android:layout_marginBottom="0x7f070e06" android:scaleType="center" android:layout_alignBottom="0x7f0b13e6" android:layout_alignParentRight="true" android:layout_alignWithParentIfMissing="true" android:contentDescription="0x7f122574" android:elevation="6dp" android:stateListAnimator="0x7f010033" app:NOT_FOUND_0x1e="0x7f0806fa" app:NOT_FOUND_0x1f="?unknown_attr_ref: 7f0405f1"/>
+        </RelativeLayout>
+        <com.whatsapp.emoji.search.EmojiSearchContainer android:id="0x7f0b0bbf" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</merge>

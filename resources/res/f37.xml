@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="0x7f08060f" android:id="0x7f0b14ac" android:title="0x7f1233e9" app:showAsAction="always"/>
+    <item android:icon="0x7f080397" android:enabled="true" android:id="0x7f0b14b8" android:visible="true" android:title="0x7f123431" app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:icon="@null" android:id="0x7f0b14ba" android:title="0x7f123430"/>
+                <item android:icon="@null" android:id="0x7f0b14b9" android:title="0x7f12342e"/>
+            </group>
+        </menu>
+    </item>
+</menu>

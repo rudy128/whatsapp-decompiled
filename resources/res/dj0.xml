@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b197c" android:background="?unknown_attr_ref: 7f0401b7" android:layout_width="match_parent" android:layout_height="wrap_content" android:accessibilityTraversalBefore="@android:id/list">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="0x7f07028e" android:paddingStart="0dp" android:paddingEnd="0dp" style="0x7f150696">
+        <com.whatsapp.pininchat.banner.PinInChatBannerMultiplePinsIndicator android:gravity="center_horizontal" android:orientation="vertical" android:id="0x7f0b197e" android:paddingTop="0x7f070e0b" android:paddingBottom="0x7f070e0b" android:visibility="invisible" android:layout_width="0x7f070c07" android:layout_height="match_parent" android:NOT_FOUND_0x17="0x7f070e0b"/>
+        <com.whatsapp.WaImageView android:background="0x7f08088d" android:padding="0x7f0710ff" android:clickable="false" android:contentDescription="0x7f120367" app:NOT_FOUND_0x18="0x7f080a80" app:NOT_FOUND_0x19="0x7f060db0" style="0x7f150698"/>
+        <com.whatsapp.TextEmojiLabel android:ellipsize="end" android:gravity="center_vertical" android:id="0x7f0b197d" android:layout_width="0dp" android:minWidth="0x7f070c04" android:lines="1" android:layout_weight="1" android:paddingEnd="0x7f071108" style="0x7f150699"/>
+        <ViewStub android:id="0x7f0b1980" android:layout="0x7f0e09e2" android:inflatedId="0x7f0b197f" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+        <ViewStub android:id="0x7f0b1982" android:layout="0x7f0e09e3" android:inflatedId="0x7f0b1981" android:layout_width="0x7f070292" android:layout_height="0x7f070292"/>
+    </LinearLayout>
+    <View android:layout_gravity="bottom" style="0x7f1503c0"/>
+</LinearLayout>

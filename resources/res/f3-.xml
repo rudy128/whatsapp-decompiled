@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:id="0x7f0b00da">
+        <item android:icon="0x7f080613" android:id="0x7f0b0e86" android:title="0x7f1233f7" app:iconTint="?unknown_attr_ref: 7f0403a1"/>
+        <item android:icon="0x7f08063d" android:id="0x7f0b0e80" android:title="0x7f12343f" app:iconTint="?unknown_attr_ref: 7f0403a1"/>
+    </group>
+    <group android:id="0x7f0b1c15">
+        <item android:icon="0x7f08065d" android:id="0x7f0b0e82" android:title="0x7f1232ac" app:iconTint="?unknown_attr_ref: 7f0403a1"/>
+    </group>
+</menu>

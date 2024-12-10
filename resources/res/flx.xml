@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingLeft="24dp" android:paddingTop="12dp" android:paddingRight="0x7f071103" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.WaFrameLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="0x7f0b211b" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginTop="0x7f070c59" android:layout_marginBottom="0x7f070c59" app:NOT_FOUND_0x15="0x7f0806b6"/>
+    </com.whatsapp.WaFrameLayout>
+    <com.whatsapp.WaTextView android:textSize="0x7f0710a3" android:ellipsize="none" android:gravity="center" android:id="0x7f0b086b" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f121c9d" android:maxLines="@null" android:singleLine="false"/>
+    <com.whatsapp.TextEmojiLabel android:id="0x7f0b086a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="3dp" style="?unknown_attr_ref: 7f040a22"/>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="0x7f0b21c3" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:layout_marginBottom="0x7f0710ff">
+        <CheckBox android:id="0x7f0b02c1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-5dp" android:layout_marginRight="11dp" style="0x7f1506bc"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:id="0x7f0b02c2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="26dp"/>
+    </LinearLayout>
+</LinearLayout>

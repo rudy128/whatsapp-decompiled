@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.biz.BusinessHoursView android:id="0x7f0b04b1" android:visibility="gone" style="0x7f150165"/>
+    <com.whatsapp.biz.BusinessProfileFieldView android:id="0x7f0b0496" android:visibility="gone" app:NOT_FOUND_0x7="0x7f080425" style="0x7f150165"/>
+    <com.whatsapp.biz.BusinessProfileFieldView android:id="0x7f0b04c9" android:visibility="gone" app:NOT_FOUND_0x7="0x7f080539" style="0x7f150165"/>
+    <com.whatsapp.biz.BusinessProfileFieldView android:id="0x7f0b04ac" android:visibility="gone" app:NOT_FOUND_0x6="3" app:NOT_FOUND_0x7="0x7f080552" app:NOT_FOUND_0x8="true" style="0x7f150165"/>
+    <com.whatsapp.biz.BusinessProfileFieldView android:id="0x7f0b04c6" android:tag="website" android:visibility="gone" app:NOT_FOUND_0x6="3" app:NOT_FOUND_0x7="0x7f0805e4" app:NOT_FOUND_0x8="true" style="0x7f150165"/>
+    <com.whatsapp.biz.BusinessProfileFieldView android:id="0x7f0b04c7" android:tag="website" android:visibility="gone" app:NOT_FOUND_0x6="3" app:NOT_FOUND_0x7="0x7f0805e4" app:NOT_FOUND_0x8="true" style="0x7f150165"/>
+</LinearLayout>

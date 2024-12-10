@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b1649" android:layout_width="match_parent" android:layout_height="match_parent" style="0x7f15029d">
+    <LinearLayout android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:paddingBottom="0x7f071108" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.SectionHeaderView android:id="0x7f0b10ec" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+            <include layout="0x7f0e0b65"/>
+        </LinearLayout>
+        <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.insights.InsightsTileViewGroup android:orientation="horizontal" android:id="0x7f0b10ee" android:paddingLeft="0x7f071109" android:paddingTop="0x7f071108" android:paddingRight="0x7f071109" android:paddingBottom="0x7f071108" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.insights.InsightsTileView android:id="0x7f0b10eb" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710ff" android:layout_marginRight="0x7f0710ff" android:layout_weight="1" app:NOT_FOUND_0x12="0x7f1219c9"/>
+                <com.whatsapp.insights.InsightsTileView android:id="0x7f0b10ed" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710ff" android:layout_marginRight="0x7f0710ff" android:layout_weight="1" app:NOT_FOUND_0x12="0x7f1219d2"/>
+            </com.whatsapp.insights.InsightsTileViewGroup>
+            <ViewStub android:layout_gravity="center_vertical" android:id="0x7f0b10f3" android:layout="0x7f0e08e1" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </FrameLayout>
+        <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:id="0x7f0b1104" android:paddingLeft="0x7f0710fd" android:paddingTop="0x7f071109" android:paddingRight="0x7f0710fd" android:paddingBottom="0x7f071108" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1219d1" style="0x7f1506be"/>
+    </LinearLayout>
+</com.whatsapp.InfoCard>

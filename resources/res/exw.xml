@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="?unknown_attr_ref: 7f0406e9" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:id="0x7f0b22b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" style="?unknown_attr_ref: 7f0406de"/>
+        <ProgressBar android:layout_gravity="center_vertical" android:id="0x7f0b0817" android:visibility="gone" android:layout_width="0x7f070b85" android:layout_height="0x7f070b84" android:layout_weight="0" android:layout_marginEnd="0x7f070b83"/>
+    </LinearLayout>
+</FrameLayout>

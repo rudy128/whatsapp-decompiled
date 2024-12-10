@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b09bc" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="0x7f0e0ccb"/>
+    <ScrollView android:orientation="vertical" android:id="0x7f0b09ba" android:layout_width="0dp" android:layout_height="0dp" android:fillViewport="true" android:layout_weight="1" app:NOT_FOUND_0x15="0x7f0b076a" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x18="0x7f0b22ee">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_height="wrap_content" style="0x7f1501d1">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x19="0">
+                <FrameLayout android:layout_width="140dp" android:layout_height="120dp" android:layout_marginTop="0x7f070e10">
+                    <com.whatsapp.components.button.ThumbnailButton android:layout_gravity="center" android:id="0x7f0b09b9" android:layout_width="0x7f0704bb" android:layout_height="0x7f0704bb"/>
+                    <com.whatsapp.WaImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:layout_width="0x7f070e11" android:layout_height="0x7f070e11" app:NOT_FOUND_0x1a="0x7f0809f7"/>
+                </FrameLayout>
+                <com.whatsapp.TextEmojiLabel android:textSize="0x7f0710a3" android:textColor="?unknown_attr_ref: 7f0408cf" android:gravity="center_horizontal" android:id="0x7f0b09bb" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0d" style="0x7f15049c"/>
+                <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0408cf" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e0d" android:layout_marginBottom="0x7f070e0d" android:text="0x7f120c2a"/>
+                <com.whatsapp.community.deactivate.DeactivateInfoRow android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070e09" app:NOT_FOUND_0x10="0x7f120c2f" app:NOT_FOUND_0x11="0x7f080a44" app:NOT_FOUND_0x12="0x7f060626" app:NOT_FOUND_0x13="0x7f120c30"/>
+                <com.whatsapp.community.deactivate.DeactivateInfoRow android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070e09" app:NOT_FOUND_0x10="0x7f120c2b" app:NOT_FOUND_0x11="0x7f0809ae" app:NOT_FOUND_0x12="0x7f060626" app:NOT_FOUND_0x13="0x7f120c2c"/>
+                <com.whatsapp.community.deactivate.DeactivateInfoRow android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070e10" app:NOT_FOUND_0x10="0x7f120c2d" app:NOT_FOUND_0x11="0x7f0809f8" app:NOT_FOUND_0x12="0x7f060626" app:NOT_FOUND_0x13="0x7f120c2e"/>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+    <FrameLayout android:id="0x7f0b076a" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x16="0" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x18="0x7f0b09ba" style="0x7f1501d0">
+        <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center" android:id="0x7f0b0769" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginTop="0x7f070e0d" android:layout_marginRight="0x7f070e09" android:layout_marginBottom="0x7f070e0d" android:text="0x7f120c29" style="0x7f150676"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

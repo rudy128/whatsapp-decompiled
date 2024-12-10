@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="left|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="0x7f0b1338" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="30dp">
+        <ViewStub android:id="0x7f0b08e8" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e03d2"/>
+        <ViewStub android:id="0x7f0b08d1" android:layout="0x7f0e0338" android:inflatedId="0x7f0b08d1" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b21ad" android:layout="0x7f0e0c99" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <include layout="0x7f0e0405"/>
+        <ViewStub android:id="0x7f0b08d6" android:layout="0x7f0e0356" android:inflatedId="0x7f0b08d5" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:overScrollMode="never">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <view android:layout_gravity="start" android:id="0x7f0b08f6" android:paddingLeft="0x7f070e0f" android:paddingRight="0x7f070e0f" android:paddingBottom="0x7f070e0f" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.whatsapp.components.TextAndDateLayout">
+                    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="start" android:orientation="vertical" android:id="0x7f0b1cd4" android:paddingLeft="0x7f070430" android:paddingTop="0x7f070ceb" android:paddingRight="0x7f070430" android:paddingBottom="0x7f070cea" android:layout_width="wrap_content" android:layout_height="wrap_content" android:overScrollMode="never" android:nestedScrollingEnabled="false" app:NOT_FOUND_0xf="androidx.recyclerview.widget.LinearLayoutManager"/>
+                </view>
+                <include android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="0x7f0e0367"/>
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+        <ViewStub android:layout_gravity="left" android:id="0x7f0b05f7" android:layout="0x7f0e0b4d" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:layout_gravity="left" android:id="0x7f0b1520" android:layout="0x7f0e0849" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</merge>

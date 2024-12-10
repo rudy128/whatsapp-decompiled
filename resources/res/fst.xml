@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.checkbox.MaterialCheckBox android:textAppearance="0x7f1506be" android:id="0x7f0b06d6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="0x7f07110a" android:layout_marginEnd="0x7f07110a" android:buttonTint="0x7f060afe"/>
+</LinearLayout>

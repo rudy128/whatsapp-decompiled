@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b032f" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x5="0dp" app:NOT_FOUND_0x6="0dp"/>
+    <FrameLayout android:id="0x7f0b038e" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

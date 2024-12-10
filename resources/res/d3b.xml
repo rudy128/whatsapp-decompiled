@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ViewStub android:id="0x7f0b214b" android:layout="0x7f0e0ccd" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                <androidx.recyclerview.widget.RecyclerView android:orientation="vertical" android:id="0x7f0b1a86" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <View android:layout_gravity="bottom" android:id="0x7f0b1f4b" android:background="0x7f080730" android:visibility="gone" android:layout_width="match_parent" android:layout_height="8dp"/>
+            </FrameLayout>
+            <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="center_horizontal" android:id="0x7f0b24ed" android:visibility="gone" android:layout_width="match_parent" android:layout_marginLeft="0x7f070c62" android:layout_marginTop="10dp" android:layout_marginRight="0x7f070c62" android:layout_marginBottom="10dp" style="0x7f150671"/>
+        </LinearLayout>
+        <ViewStub android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b0b69" android:inflatedId="0x7f0b073d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4dp"/>
+        <ViewStub android:gravity="center_horizontal" android:id="0x7f0b0bfa" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <FrameLayout android:id="0x7f0b0634" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+</LinearLayout>

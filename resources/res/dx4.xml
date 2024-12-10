@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x3="?unknown_attr_ref: 7f0408ce" style="0x7f15029c">
+    <com.whatsapp.ListItemWithLeftIcon android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x4="0x7f120396" app:NOT_FOUND_0x5="0x7f0809f3" app:NOT_FOUND_0x6="0x7f120397"/>
+</com.whatsapp.InfoCard>

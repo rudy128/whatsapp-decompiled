@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150340">
+    <View android:background="0x7f080815" android:layout_width="120dp" android:layout_height="24dp" android:layout_margin="0x7f070c62"/>
+</com.facebook.shimmer.ShimmerFrameLayout>

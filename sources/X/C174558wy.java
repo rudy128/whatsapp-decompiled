@@ -1,0 +1,13 @@
+package X;
+
+/* renamed from: X.8wy  reason: invalid class name and case insensitive filesystem */
+public final class C174558wy extends C175028xj {
+    public final AnonymousClass8Dq A00;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public C174558wy(AnonymousClass8Dq r2) {
+        super(r2);
+        C18070vi.A0d(r2, 1);
+        this.A00 = r2;
+    }
+}

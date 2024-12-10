@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:id="0x7f0b038d" android:background="?unknown_attr_ref: 7f0400ef" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b0397" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent">
+            <ProgressBar android:layout_gravity="center" android:id="0x7f0b039e" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.payments.ui.widget.PayToolbar android:id="0x7f0b22ee" android:layout_width="match_parent" android:layout_height="48dp" android:contentInsetLeft="0dp" app:NOT_FOUND_0x9="0dp" app:NOT_FOUND_0xa="0dp"/>
+        <View android:layout_gravity="bottom" android:id="0x7f0b22ef" android:background="0x7f08081f" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+    </LinearLayout>
+</FrameLayout>

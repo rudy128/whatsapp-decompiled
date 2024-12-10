@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.wds.components.textlayout.WDSTextLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b0c0e" android:paddingTop="0x7f07110a" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x5="0x7f080afa" app:NOT_FOUND_0x6="0"/>

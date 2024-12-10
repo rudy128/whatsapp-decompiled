@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.settings.chat.wallpaper.WallpaperImagePreview android:id="0x7f0b25b5" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.whatsapp.settings.chat.wallpaper.WallpaperImagePreview android:id="0x7f0b25b6" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+    </FrameLayout>
+    <com.whatsapp.settings.chat.wallpaper.WallpaperImagePreview android:id="0x7f0b25b7" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.whatsapp.settings.chat.wallpaper.WallpaperMockChatView android:id="0x7f0b25bc" android:paddingTop="0x7f0710ff" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:layout_gravity="center" android:id="0x7f0b25bb" android:background="0x7f080281" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.whatsapp.CircularProgressBar android:layout_gravity="center" android:id="0x7f0b25bf" android:visibility="gone" android:layout_width="64dp" android:layout_height="64dp" android:indeterminate="true" app:NOT_FOUND_0xe="?unknown_attr_ref: 7f040d35"/>
+        <com.whatsapp.wds.components.button.WDSButton android:textColor="?unknown_attr_ref: 7f040d35" android:id="0x7f0b25ba" android:layout_margin="16dp" android:text="0x7f1205e8" android:drawableLeft="0x7f08047c" android:drawablePadding="8dp" style="0x7f1501e3"/>
+    </FrameLayout>
+</merge>

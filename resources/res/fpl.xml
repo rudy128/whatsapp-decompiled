@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingLeft="34dp" android:paddingRight="0x7f07110a" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b15bb" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b15bc" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b0cf7" android:layout_width="wrap_content" android:layout_height="match_parent" style="0x7f150426"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b174b" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b10b2" android:layout_width="wrap_content" android:layout_height="match_parent" style="0x7f150426"/>
+    </LinearLayout>
+</RadioGroup>

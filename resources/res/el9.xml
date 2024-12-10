@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="24dp" android:paddingTop="24dp" android:paddingRight="24dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.TextEmojiLabel android:textColorLink="?unknown_attr_ref: 7f040d4d" android:gravity="center" android:layout_gravity="center_horizontal" android:id="0x7f0b0a27" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f122b5a" style="0x7f150443"/>
+        <com.whatsapp.WaEditText android:textColor="?unknown_attr_ref: 7f0408cf" android:textColorHint="?unknown_attr_ref: 7f0409e9" android:gravity="center" android:layout_gravity="center_horizontal" android:id="0x7f0b0b88" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f0710fe" android:layout_marginTop="0x7f071105" android:layout_marginRight="0x7f0710fe" android:hint="0x7f122b58" android:singleLine="true" android:inputType="textEmailAddress" android:imeOptions="actionDone"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f04092f" android:gravity="center" android:id="0x7f0b0c74" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:layout_marginBottom="4dp"/>
+        <Space android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <include android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="32dp" layout="0x7f0e093d"/>
+        <com.whatsapp.wds.components.button.WDSButton android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b2167" android:layout_marginTop="8dp" android:layout_marginBottom="16dp" android:text="0x7f122b6e" style="0x7f150671"/>
+    </LinearLayout>
+</ScrollView>

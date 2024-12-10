@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="0x7f080486" android:id="0x7f0b0908" android:title="0x7f1231cc"/>
+    <item android:icon="0x7f080aba" android:id="0x7f0b0907" android:title="0x7f1231cb"/>
+    <group android:id="0x7f0b1c04">
+        <item android:icon="0x7f080a52" android:id="0x7f0b0909" android:title="0x7f1231cd"/>
+    </group>
+</menu>

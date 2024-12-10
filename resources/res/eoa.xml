@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.components.MainChildCoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b0400" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0xf="0x7f0b03f9">
+    <View android:id="0x7f0b02b2" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b03f9" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xe="com.google.android.material.bottomsheet.BottomSheetBehavior">
+        <View style="0x7f1502e8"/>
+        <LinearLayout android:orientation="vertical" android:background="0x7f080347" android:layout_width="match_parent" android:layout_height="match_parent">
+            <FrameLayout android:id="0x7f0b1d93" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f0706da" android:elevation="?unknown_attr_ref: 7f040034">
+                <include layout="0x7f0e0653"/>
+            </FrameLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b22c6" android:visibility="visible" android:layout_width="match_parent" android:layout_height="0x7f0706da">
+                <com.whatsapp.WaTextView android:textSize="18sp" android:textColor="?unknown_attr_ref: 7f040105" android:id="0x7f0b1f8f" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+                <com.whatsapp.WaImageView android:id="0x7f0b1d6a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f1233e9" app:NOT_FOUND_0x10="0x7f08060a" app:NOT_FOUND_0x11="?unknown_attr_ref: 7f040105" style="0x7f150001"/>
+            </LinearLayout>
+            <include android:id="0x7f0b158f" layout="0x7f0e087c"/>
+        </LinearLayout>
+    </LinearLayout>
+</com.whatsapp.components.MainChildCoordinatorLayout>

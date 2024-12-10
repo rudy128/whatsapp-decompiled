@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="vertical" android:id="0x7f0b1302" android:background="0x7f080739" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="4dp">
+    <FrameLayout android:id="0x7f0b1355" android:layout_width="match_parent" android:layout_height="0x7f070437">
+        <com.whatsapp.WaImageView android:id="0x7f0b225b" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+        <com.whatsapp.location.WaMapView android:id="0x7f0b1356" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b2261" android:background="0x7f0808ae" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="0x7f12165c"/>
+        <com.whatsapp.WaFrameLayout android:id="0x7f0b0e5f" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x11="?unknown_attr_ref: 7f040d40"/>
+        <ProgressBar android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="0x7f0b1ac5" android:visibility="gone" android:layout_width="0x7f070438" android:layout_height="0x7f070438" android:layout_margin="8dp"/>
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b14e6" android:paddingLeft="0x7f070806" android:paddingTop="0x7f070807" android:paddingRight="0x7f070806" android:paddingBottom="0x7f070806" android:layout_width="wrap_content" android:layout_height="0dp" android:layout_weight="1">
+        <ViewStub android:id="0x7f0b1301" android:layout="0x7f0e0c9f" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <ViewStub android:id="0x7f0b1300" android:layout="0x7f0e0c9e" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

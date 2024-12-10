@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_activated="true">
+        <layer-list>
+            <item android:drawable="0x7f080308"/>
+            <item android:drawable="0x7f080307"/>
+        </layer-list>
+    </item>
+    <item>
+        <ripple android:color="?unknown_attr_ref: 7f040d64">
+            <item android:drawable="0x7f080308"/>
+        </ripple>
+    </item>
+</selector>

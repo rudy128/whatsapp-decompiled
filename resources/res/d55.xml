@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:id="0x7f0b0fd5" android:layout_width="match_parent" android:layout_height="0x7f070763"/>
+    <include layout="0x7f0e0bdc"/>
+    <View android:id="0x7f0b0fc3" android:visibility="gone" style="0x7f1502d7"/>
+    <ViewStub android:id="0x7f0b04ab" android:inflatedId="0x7f0b04aa" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b0814" android:inflatedId="0x7f0b0813" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e02da"/>
+    <ViewStub android:id="0x7f0b23ed" android:layout="0x7f0e0cf9" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b13b8" android:layout="0x7f0e024a" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="0x7f0e0791"/>
+    <include layout="0x7f0e0044"/>
+    <include layout="0x7f0e02d7"/>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b0fa4" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View style="0x7f1502e8"/>
+        <FrameLayout android:background="?unknown_attr_ref: 7f0408ce" android:paddingLeft="0x7f070766" style="0x7f150263">
+            <com.whatsapp.WaTextView android:ellipsize="end" android:id="0x7f0b0fa5" android:singleLine="true" style="0x7f150267"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <include layout="0x7f0e0443"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b0444" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xe="0x7f0803f5" app:NOT_FOUND_0xf="?unknown_attr_ref: 7f04032b" app:NOT_FOUND_0x10="false" app:NOT_FOUND_0x11="0x7f120555"/>
+    <ViewStub android:id="0x7f0b06ef" android:layout="0x7f0e04ac" android:inflatedId="0x7f0b0ae1" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ViewStub android:id="0x7f0b06f2" android:layout="0x7f0e04ab" android:inflatedId="0x7f0b0ae0" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <View android:background="?unknown_attr_ref: 7f04032a" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+    <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textStyle="bold" android:textColor="?unknown_attr_ref: 7f040771" android:id="0x7f0b1b99" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070cba" android:layout_marginTop="0x7f070cbb" android:layout_marginRight="0x7f070cba" android:NOT_FOUND_0xd="0x7f070cba"/>
+</LinearLayout>

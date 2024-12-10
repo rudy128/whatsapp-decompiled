@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x7f0b00db" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f15029d">
+    <LinearLayout android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+        <com.whatsapp.WaTextView android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="0x7f0b248e" android:background="0x7f0808ae" android:paddingLeft="0x7f070766" android:paddingRight="0x7f070766" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0x7f070768" android:text="0x7f122d8c" style="0x7f1502de"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b15b3" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f08058f" app:NOT_FOUND_0xe="0x7f12171f"/>
+        <ViewStub android:id="0x7f0b14ef" android:layout="0x7f0e083e" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.ListItemWithLeftIcon android:id="0x7f0b0257" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xd="0x7f0809ba" app:NOT_FOUND_0xe="0x7f1202d7"/>
+    </LinearLayout>
+</com.whatsapp.InfoCard>

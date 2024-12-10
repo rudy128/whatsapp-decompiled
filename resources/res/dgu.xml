@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b0c18" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:NOT_FOUND_0xb="16dp">
+        <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b0c1b" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:textAppearance="?android:attr/textAppearanceLarge" android:textColor="?unknown_attr_ref: 7f040d2d" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120e8a"/>
+        </com.whatsapp.wds.components.topbar.WDSToolbar>
+        <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b0c1a" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xc="0x7f120e8c" app:NOT_FOUND_0xd="0x7f120e8b" app:NOT_FOUND_0xe="true" app:NOT_FOUND_0xf="1" app:NOT_FOUND_0x10="0"/>
+        <com.whatsapp.wds.components.list.listitem.WDSListItem android:id="0x7f0b0c19" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0xc="" app:NOT_FOUND_0xd="" app:NOT_FOUND_0xe="true" app:NOT_FOUND_0xf="1" app:NOT_FOUND_0x10="0"/>
+    </LinearLayout>
+</ScrollView>

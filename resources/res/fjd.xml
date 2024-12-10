@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <HorizontalScrollView android:layout_gravity="center_vertical" android:id="0x7f0b1d97" android:scrollbars="none" android:fadingEdgeLength="10dp" android:layout_width="0dp" android:layout_height="match_parent" android:fillViewport="true" android:layout_weight="1" android:requiresFadingEdge="horizontal">
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b10e5" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <View android:id="0x7f0b0e1a" android:focusableInTouchMode="true" android:layout_width="0dp" android:layout_height="0dp"/>
+            <ViewStub android:id="0x7f0b1d9b" android:layout="0x7f0e0b37" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0x7f070d43"/>
+            <ViewStub android:id="0x7f0b1d96" android:layout="0x7f0e0b31" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0x7f070d43"/>
+            <ViewStub android:id="0x7f0b1d9a" android:layout="0x7f0e0b36" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0x7f070d43"/>
+            <ViewStub android:id="0x7f0b1beb" android:layout="0x7f0e0b30" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0x7f070d43"/>
+            <ViewStub android:id="0x7f0b1d92" android:layout_width="wrap_content" android:layout_height="0x7f070d40" android:minWidth="0x7f070d25" android:layout_weight="1"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+    <ViewStub android:id="0x7f0b0f40" android:layout="0x7f0e0b32" android:layout_width="0x7f070d28" android:layout_height="wrap_content" android:layout_marginRight="0x7f070d27" android:layout_marginEnd="0x7f070d27"/>
+    <com.whatsapp.WaImageView android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b1d74" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f12319c" android:layout_marginEnd="0x7f071108" app:NOT_FOUND_0x13="0x7f080446" app:NOT_FOUND_0x14="0x7f060ad3" style="?unknown_attr_ref: 7f040018"/>
+    <ViewStub android:id="0x7f0b1d99" android:layout="0x7f0e0b35" android:layout_width="0x7f07102f" android:layout_height="0x7f07102f" android:layout_marginLeft="0x7f071108" android:layout_marginRight="0x7f071108"/>
+    <ViewStub android:id="0x7f0b1d9c" android:layout="0x7f0e0dc3" android:layout_width="0x7f07102f" android:layout_height="0x7f07102f" android:layout_marginLeft="0x7f071108" android:layout_marginRight="0x7f071108"/>
+</merge>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="0x7f0b03c5" android:layout="0x7f0e02a0" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.WaImageView android:id="0x7f0b0fce" android:layout_width="0x7f070346" android:layout_height="0x7f070344" android:layout_marginBottom="0x7f070343" app:NOT_FOUND_0x11="0x7f08052d"/>
+        <ProgressBar android:layout_gravity="center" android:id="0x7f0b1ace" android:layout_width="0x7f070348" android:layout_height="wrap_content" android:progressTint="?unknown_attr_ref: 7f0408cc" android:indeterminateTint="?unknown_attr_ref: 7f0408cc" android:indeterminateTintMode="src_atop" style="?android:attr/progressBarStyleHorizontal"/>
+        <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f040ba5" android:gravity="center" android:id="0x7f0b22b0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f071105" android:layout_marginBottom="4dp" android:text="0x7f1209f3" style="0x7f1506bc"/>
+        <com.whatsapp.WaLinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaImageView android:layout_width="0x7f071109" android:layout_height="0x7f071109" app:NOT_FOUND_0x11="0x7f080547" app:NOT_FOUND_0x12="0x7f060e3b"/>
+            <com.whatsapp.WaTextView android:textColor="0x7f060e3b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:text="0x7f120ee1" style="0x7f1506c0"/>
+        </com.whatsapp.WaLinearLayout>
+    </LinearLayout>
+</ScrollView>

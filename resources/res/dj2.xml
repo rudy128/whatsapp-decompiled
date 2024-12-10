@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingLeft="0x7f0710fd" android:paddingRight="0x7f0710fd" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no" android:NOT_FOUND_0x11="0x7f0710fd">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f071108">
+        <ViewStub android:id="0x7f0b19c8" android:inflatedId="0x7f0b19c8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="0x7f0710fe"/>
+        <com.whatsapp.WaEditText android:textColorHint="?unknown_attr_ref: 7f0409e9" android:id="0x7f0b19c9" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="0x7f1221a0" android:inputType="none|text|textCapSentences|textMultiLine" android:imeOptions="actionNext" android:importantForAccessibility="yes" style="0x7f1506bc"/>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b0b2c" android:layout="0x7f0e09f3" android:inflatedId="0x7f0b0b2c" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="0x7f071104"/>
+    <ViewStub android:id="0x7f0b1395" android:layout="0x7f0e09ef" android:inflatedId="0x7f0b1395" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="yes" android:layout_marginStart="0x7f071104"/>
+</LinearLayout>

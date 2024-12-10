@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <androidx.constraintlayout.widget.ConstraintLayout style="0x7f1501d0">
+        <RelativeLayout android:layout_width="0dp" android:layout_height="0dp" android:nestedScrollingEnabled="true" app:NOT_FOUND_0x19="0" app:NOT_FOUND_0x1a="0" app:NOT_FOUND_0x1b="0" app:NOT_FOUND_0x1c="0">
+            <ListView android:id="@android:id/list" android:paddingBottom="90dp" android:clipToPadding="false" android:persistentDrawingCache="scrolling" android:alwaysDrawnWithCache="true" android:layout_width="match_parent" android:layout_height="match_parent" android:cacheColorHint="0x7f060c13" android:divider="0x7f080137" android:dividerHeight="0.5dp" android:headerDividersEnabled="false" android:footerDividersEnabled="false"/>
+            <com.whatsapp.WaTextView android:textSize="20sp" android:gravity="center_horizontal" android:id="0x7f0b0bd2" android:padding="8dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+            <RelativeLayout android:id="0x7f0b16af" android:layout_width="match_parent" android:layout_height="match_parent">
+                <FrameLayout android:id="0x7f0b16ae" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="52dp" android:layout_marginBottom="52dp" android:layout_centerHorizontal="true">
+                    <com.whatsapp.WaImageView android:layout_width="168dp" android:layout_height="168dp" app:NOT_FOUND_0x1d="0x7f080292"/>
+                    <com.whatsapp.WaImageView android:layout_gravity="center" android:layout_width="48dp" android:layout_height="48dp" app:NOT_FOUND_0x1d="0x7f0804dc" app:NOT_FOUND_0x1e="?unknown_attr_ref: 7f0405f1"/>
+                </FrameLayout>
+                <com.whatsapp.WaTextView android:textSize="17sp" android:id="0x7f0b16b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f121aae" android:layout_below="0x7f0b16ae" android:layout_centerHorizontal="true"/>
+            </RelativeLayout>
+            <RelativeLayout android:id="0x7f0b12da" android:layout_width="match_parent" android:layout_height="match_parent">
+                <ProgressBar android:id="0x7f0b10ba" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="112dp" android:layout_marginBottom="112dp" android:layout_centerHorizontal="true"/>
+                <com.whatsapp.WaTextView android:textSize="17sp" android:id="0x7f0b12e3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12330f" android:layout_below="0x7f0b10ba" android:layout_centerHorizontal="true"/>
+            </RelativeLayout>
+        </RelativeLayout>
+        <com.whatsapp.wds.components.fab.WDSFab android:id="0x7f0b0d6f" android:src="0x7f0806fa" app:NOT_FOUND_0x19="0" app:NOT_FOUND_0x1a="0" style="0x7f15067b"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</merge>

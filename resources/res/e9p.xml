@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1768" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:background="?unknown_attr_ref: 7f040804" android:paddingLeft="0x7f070b6a" android:paddingTop="0x7f070b68" android:paddingRight="0x7f070b6a" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View android:layout_gravity="center" android:id="0x7f0b1f9b" android:background="0x7f0801f1" android:paddingTop="0x7f070b6c" android:paddingRight="0x7f070b70" android:paddingBottom="0x7f070b6d" android:layout_width="120dp" android:layout_height="14dp" android:layout_centerHorizontal="true"/>
+        <com.whatsapp.WaImageView android:id="0x7f0b0989" android:layout_width="match_parent" android:layout_height="2dp" android:layout_marginTop="0x7f070b6a" android:layout_marginBottom="0x7f070b70" android:layout_below="0x7f0b1f9b" app:NOT_FOUND_0xe="0x7f0807f8"/>
+    </RelativeLayout>
+</com.facebook.shimmer.ShimmerFrameLayout>

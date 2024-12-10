@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b08cb" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.settings.chat.wallpaper.WallPaperView android:id="0x7f0b1991" android:background="@null" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:alpha="0.28"/>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:id="0x7f0b1071" android:layout_width="0x7f070715" android:layout_height="0x7f070715" app:NOT_FOUND_0x10="0x7f0809d3"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f0710a3" android:textColor="0x7f060614" android:gravity="center" android:id="0x7f0b23bb" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f07040a" android:text="0x7f120b6e"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070409">
+        <com.whatsapp.WaImageView android:id="0x7f0b0b5a" android:layout_width="wrap_content" android:layout_height="14dp" android:layout_marginLeft="0x7f070e0a" app:NOT_FOUND_0x10="0x7f080549"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:gravity="center_horizontal" android:id="0x7f0b23ba" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070587" android:layout_marginRight="0x7f070588" android:text="0x7f120b6d"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b0562" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <View android:id="0x7f0b0ab9" android:background="?unknown_attr_ref: 7f040ac8" android:layout_width="1px" android:layout_height="match_parent"/>
+</FrameLayout>

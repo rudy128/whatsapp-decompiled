@@ -1,0 +1,10 @@
+package X;
+
+/* renamed from: X.2ZE  reason: invalid class name */
+public class AnonymousClass2ZE {
+    public final /* synthetic */ AnonymousClass10H A00;
+
+    public AnonymousClass2ZE(AnonymousClass10H r1) {
+        this.A00 = r1;
+    }
+}

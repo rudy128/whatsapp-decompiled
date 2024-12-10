@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.InfoCard xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b164c" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f15029d">
+    <LinearLayout android:orientation="vertical" android:background="?unknown_attr_ref: 7f0408ce" android:paddingBottom="0x7f070e06" style="0x7f150263">
+        <com.whatsapp.WaTextView android:ellipsize="end" android:paddingLeft="0x7f070766" android:paddingRight="0x7f070766" android:paddingBottom="0x7f070e06" android:text="0x7f122757" style="0x7f150267"/>
+        <com.facebook.shimmer.ShimmerFrameLayout android:id="0x7f0b164f" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.recyclerview.widget.RecyclerView android:orientation="horizontal" android:id="0x7f0b164e" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e06" android:layout_marginBottom="0x7f070e06" android:paddingStart="0x7f070e07" android:paddingEnd="0x7f070e07" app:NOT_FOUND_0xf="androidx.recyclerview.widget.LinearLayoutManager"/>
+        </com.facebook.shimmer.ShimmerFrameLayout>
+    </LinearLayout>
+</com.whatsapp.InfoCard>

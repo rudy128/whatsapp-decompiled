@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b2074" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b2075" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="0x7f080806" android:paddingTop="10dp" android:paddingBottom="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x17="?unknown_attr_ref: 7f040840">
+            <com.whatsapp.WaTextView android:textSize="18sp" android:textColor="?unknown_attr_ref: 7f040d35" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b22b0" android:paddingLeft="0x7f071100" android:paddingRight="0x7f071100" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+            <ViewStub android:id="0x7f0b17c4" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </com.whatsapp.WaLinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b128e" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.45dp" android:layout_marginRight="5.65dp">
+            <ViewStub android:id="0x7f0b128f" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <androidx.recyclerview.widget.RecyclerView android:id="@android:id/list" android:paddingBottom="0x7f070e11" android:scrollbars="none" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <com.whatsapp.WaTextView android:gravity="center" android:id="@android:id/empty" android:paddingTop="0x7f070e0a" android:paddingBottom="0x7f070e0a" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f070de7" android:text="0x7f121ad6" android:paddingStart="0x7f070e07" android:paddingEnd="0x7f070e07"/>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

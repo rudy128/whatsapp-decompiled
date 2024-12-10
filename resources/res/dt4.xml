@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="0x7f070e09" android:paddingRight="0x7f070e09" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:textSize="20sp" android:textStyle="bold" android:textColor="?unknown_attr_ref: 7f040d2d" android:gravity="center_horizontal" android:id="0x7f0b16d9" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09" android:layout_marginBottom="0x7f070e09" android:text="0x7f1209c8" android:textAlignment="center" app:NOT_FOUND_0x12="0"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040d2d" android:id="0x7f0b16d8" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e09" android:layout_marginRight="0x7f070e09" android:layout_marginBottom="0x7f070e09"/>
+        <RadioGroup android:layout_gravity="center" android:orientation="vertical" android:id="0x7f0b1b4a" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x11="0x7f0b16d9">
+            <com.whatsapp.radio.RadioButtonWithSubtitle android:id="0x7f0b16d7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0x7f1231b9" app:NOT_FOUND_0x14="0x7f1231b8"/>
+            <com.whatsapp.radio.RadioButtonWithSubtitle android:id="0x7f0b16d6" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e09" android:layout_marginBottom="0x7f070e09" app:NOT_FOUND_0x11="0x7f0b16d7" app:NOT_FOUND_0x13="0x7f1231b7" app:NOT_FOUND_0x14="0x7f1231b6"/>
+        </RadioGroup>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:layout_marginBottom="16dp">
+        <ViewStub android:id="0x7f0b0ff7" android:layout="0x7f0e0cd2" android:inflatedId="0x7f0b2319" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.TextEmojiLabel android:textSize="0x7f0710a0" android:textColor="?unknown_attr_ref: 7f0409e9" android:layout_gravity="center_horizontal" android:id="0x7f0b0e32" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:textAlignment="center" app:NOT_FOUND_0xe="?unknown_attr_ref: 7f040569"/>
+    </LinearLayout>
+</merge>

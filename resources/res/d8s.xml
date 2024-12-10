@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b13bd" android:padding="0x7f07048b" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <view android:id="0x7f0b13cd" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.whatsapp.conversation.conversationrow.ConversationRowImageAndVideoAlbumGridFrame">
+        <com.whatsapp.WaFrameLayout android:layout_gravity="top|left|center_vertical|center_horizontal|center" android:id="0x7f0b225d" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f040131" app:NOT_FOUND_0x8="?unknown_attr_ref: 7f040d41">
+            <include layout="0x7f0e00f4"/>
+        </com.whatsapp.WaFrameLayout>
+        <com.whatsapp.WaFrameLayout android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="0x7f0b225e" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f040131" app:NOT_FOUND_0x8="?unknown_attr_ref: 7f040d41">
+            <include layout="0x7f0e00f4"/>
+        </com.whatsapp.WaFrameLayout>
+        <com.whatsapp.WaFrameLayout android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="0x7f0b225f" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f040131" app:NOT_FOUND_0x8="?unknown_attr_ref: 7f040d41">
+            <include layout="0x7f0e00f4"/>
+        </com.whatsapp.WaFrameLayout>
+        <com.whatsapp.WaFrameLayout android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b2260" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x7="?unknown_attr_ref: 7f040131" app:NOT_FOUND_0x8="?unknown_attr_ref: 7f040d41">
+            <include layout="0x7f0e00f4"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b1550" style="0x7f1501e2"/>
+        </com.whatsapp.WaFrameLayout>
+    </view>
+    <ViewStub android:layout_gravity="center" android:id="0x7f0b13bf" android:layout="0x7f0e03a5" android:inflatedId="0x7f0b13bf" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</FrameLayout>

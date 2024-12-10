@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:id="0x7f0b058c" android:layout="0x7f0e0516" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e0d" android:layout_marginTop="0x7f070e09" android:layout_marginRight="0x7f070e0d" android:NOT_FOUND_0xc="0x7f070e0d"/>
+    <RadioGroup android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0x7f070e09">
+        <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b24c6" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e06" android:layout_marginBottom="0x7f070e06" android:paddingStart="0x7f070e09" android:NOT_FOUND_0xd="0x7f070e06"/>
+        <RadioButton android:theme="?unknown_attr_ref: 7f040a0d" android:id="0x7f0b253f" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070e06" android:layout_marginBottom="0x7f070e06" android:paddingStart="0x7f070e09" android:NOT_FOUND_0xd="0x7f070e06"/>
+    </RadioGroup>
+</LinearLayout>

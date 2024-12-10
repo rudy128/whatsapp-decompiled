@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1335" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="0dp" app:NOT_FOUND_0x1e="0x7f0b03df" app:NOT_FOUND_0x1f="0" app:NOT_FOUND_0x20="0" app:NOT_FOUND_0x21="0">
+        <com.google.android.material.appbar.AppBarLayout android:id="0x7f0b01e7" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.wds.components.topbar.WDSToolbar android:theme="0x7f1501ff" android:id="0x7f0b22ee" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010" app:NOT_FOUND_0x1b="0dp" app:NOT_FOUND_0x22="15" app:NOT_FOUND_0x23="0x7f150634">
+                <RelativeLayout android:id="0x7f0b25f7" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+                    <com.whatsapp.WaImageView android:id="0x7f0b1051" android:layout_width="24dp" android:layout_height="24dp" android:layout_centerVertical="true" android:layout_marginEnd="16dp" android:layout_toEndOf="0x7f0b25f8" app:NOT_FOUND_0x24="0x7f080541" app:NOT_FOUND_0x25="0x7f060a2d"/>
+                    <com.whatsapp.TextEmojiLabel android:textAppearance="0x7f1506bf" android:textStyle="normal" android:textColor="?unknown_attr_ref: 7f0409e9" android:ellipsize="end" android:gravity="start" android:id="0x7f0b25f8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:maxEms="20" android:maxLength="20" android:layout_centerHorizontal="true" android:layout_marginEnd="8dp"/>
+                    <com.whatsapp.WaTextView android:textAppearance="0x7f1506c1" android:textColor="?unknown_attr_ref: 7f0409e9" android:ellipsize="end" android:id="0x7f0b25f9" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:maxEms="10" android:layout_below="0x7f0b25f8" android:layout_alignStart="0x7f0b25f8" android:layout_alignEnd="0x7f0b25f8"/>
+                </RelativeLayout>
+            </com.whatsapp.wds.components.topbar.WDSToolbar>
+        </com.google.android.material.appbar.AppBarLayout>
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="0x7f0b21b1" android:paddingBottom="?unknown_attr_ref: 7f040010" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x1c="com.whatsapp.webview.ui.views.CustomScrollingBehavior">
+            <com.whatsapp.webview.ui.WebViewWrapperView android:id="0x7f0b2605" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="0x7f0b03df" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x1d="0" app:NOT_FOUND_0x1f="0" app:NOT_FOUND_0x20="0">
+        <ViewStub android:id="0x7f0b0e31" android:inflatedId="0x7f0b0e31" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.whatsapp.webview.ui.views.WebViewNavigationBarView android:orientation="horizontal" android:id="0x7f0b15d9" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

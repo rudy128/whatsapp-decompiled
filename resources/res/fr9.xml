@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:padding="16dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.TextEmojiLabel android:textAppearance="?unknown_attr_ref: 7f040cf0" android:gravity="center" android:layout_gravity="center" android:id="0x7f0b21ff" android:paddingBottom="0x7f070ee8" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1229e2"/>
+        <androidx.core.widget.NestedScrollView android:id="0x7f0b21fc" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="false">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ViewStub android:id="0x7f0b0ff8" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0401" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1002" android:layout="0x7f0e018d" android:inflatedId="0x7f0b040b" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b0ffa" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0403" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1003" android:layout="0x7f0e018d" android:inflatedId="0x7f0b040c" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b0ffb" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0404" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1004" android:layout="0x7f0e018d" android:inflatedId="0x7f0b040d" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b0ffc" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0405" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1005" android:layout="0x7f0e018d" android:inflatedId="0x7f0b040e" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b0ffd" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0406" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1006" android:layout="0x7f0e018d" android:inflatedId="0x7f0b040f" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b0ffe" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0407" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1007" android:layout="0x7f0e018d" android:inflatedId="0x7f0b0410" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b0fff" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0408" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1008" android:layout="0x7f0e018d" android:inflatedId="0x7f0b0411" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b1000" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0409" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b1009" android:layout="0x7f0e018d" android:inflatedId="0x7f0b0412" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b1001" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b040a" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <ViewStub android:id="0x7f0b100a" android:layout="0x7f0e018d" android:inflatedId="0x7f0b0413" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+                <ViewStub android:id="0x7f0b0ff9" android:layout="0x7f0e0ca0" android:inflatedId="0x7f0b0402" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+    </LinearLayout>
+    <com.whatsapp.WaImageButton android:id="0x7f0b0500" android:background="?unknown_attr_ref: 7f0409fc" android:paddingLeft="16dp" android:paddingTop="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="0x7f12319f" app:NOT_FOUND_0x11="0x7f080446" app:NOT_FOUND_0x12="0x7f0601d7"/>
+</FrameLayout>

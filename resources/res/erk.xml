@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="0x7f0b22ee" layout="0x7f0e0ccb"/>
+    <com.google.android.material.textfield.TextInputLayout android:textAppearance="0x7f1506bc" android:textColor="?unknown_attr_ref: 7f0408cf" android:textColorHint="?unknown_attr_ref: 7f0409e9" android:id="0x7f0b10c0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070c59" android:layout_marginTop="0x7f070c62" android:layout_marginRight="0x7f070c59" android:layout_marginBottom="0x7f070c62" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0x7f0b22ee">
+        <com.google.android.material.textfield.TextInputEditText android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:lines="1" android:singleLine="true"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b10c3" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="0x7f070c62" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0" app:NOT_FOUND_0x15="0x7f0b10c0"/>
+    <LinearLayout android:orientation="vertical" android:background="?unknown_attr_ref: 7f040804" android:layout_width="match_parent" android:layout_height="wrap_content" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0" app:NOT_FOUND_0x14="0">
+        <com.whatsapp.wds.components.button.WDSButton android:enabled="false" android:gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b10bf" android:layout_marginBottom="16dp" android:text="0x7f121fca" android:maxLines="1" style="0x7f150678"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

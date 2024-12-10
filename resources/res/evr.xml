@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ListView android:id="@android:id/list" android:background="@null" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="0x7f060c13" android:textFilterEnabled="true" android:cacheColorHint="0x7f060c13" android:divider="0x7f080277" android:dividerHeight="0.5dp" android:fastScrollEnabled="false"/>
+    <FrameLayout android:id="@android:id/empty" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ScrollView android:id="0x7f0b0bfe" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:padding="48dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.whatsapp.WaImageView android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x16="0x7f080aee"/>
+                <com.whatsapp.WaTextView android:textSize="17sp" android:textColor="?unknown_attr_ref: 7f0409e9" android:gravity="center" android:paddingLeft="0x7f071103" android:paddingTop="0x7f071107" android:paddingRight="0x7f071103" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f121569" style="0x7f150441"/>
+            </LinearLayout>
+        </ScrollView>
+        <com.whatsapp.WaTextView android:textSize="18sp" android:textColor="?android:attr/textColorSecondary" android:gravity="center" android:id="0x7f0b1dbb" android:paddingLeft="12dp" android:paddingTop="96dp" android:paddingRight="12dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ProgressBar android:layout_gravity="center" android:id="0x7f0b1ac4" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleInverse"/>
+    </FrameLayout>
+    <View android:layout_gravity="top" android:id="0x7f0b2385" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123485"/>
+    <View android:layout_gravity="bottom" android:id="0x7f0b2384" android:layout_width="match_parent" android:layout_height="0dp" android:transitionName="0x7f123484"/>
+</FrameLayout>

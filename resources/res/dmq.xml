@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="0x7f07060f" android:layout_marginTop="2dp" android:layout_marginBottom="2dp" android:NOT_FOUND_0x8="2dp">
+    <ViewStub android:layout_gravity="center" android:id="0x7f0b1591" android:layout="0x7f0e0c5e" android:layout_width="0x7f07060d" android:layout_height="0x7f07060d"/>
+    <FrameLayout android:layout_gravity="center" android:id="0x7f0b20c8" android:background="0x7f0808b0" android:layout_width="0x7f07060d" android:layout_height="0x7f07060d">
+        <com.whatsapp.stickers.StickerView android:layout_gravity="center" android:id="0x7f0b20c7" android:layout_width="0x7f07060b" android:layout_height="0x7f07060b"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b1593" android:layout="0x7f0e0c57" android:layout_width="0x7f07060d" android:layout_height="0x7f07060d"/>
+    </FrameLayout>
+    <ViewStub android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:id="0x7f0b1592" android:layout="0x7f0e0c5f" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</FrameLayout>

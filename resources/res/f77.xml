@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="0x7f1201de">
+    <com.whatsapp.preference.WaListPreference android:persistent="false" android:entries="0x7f03001c" android:visibility="gone" android:title="0x7f12340e" android:key="jid_message_popup" android:summary="0x7f12340f" android:defaultValue="0" android:entryValues="0x7f03001d" app:allowDividerAbove="false" app:allowDividerBelow="false" app:iconSpaceReserved="false"/>
+    <com.whatsapp.preference.WaListPreference android:persistent="false" android:visibility="gone" android:title="0x7f12340c" android:key="jid_message_light" android:summary="0x7f12340d" android:defaultValue="FFFFFF" android:entryValues="0x7f030018" app:allowDividerAbove="false" app:allowDividerBelow="false" app:iconSpaceReserved="false"/>
+    <com.whatsapp.preference.WaCheckBoxPreference android:persistent="false" android:visibility="gone" android:title="0x7f123413" android:key="jid_use_high_priority_notifications" android:summary="0x7f123414" android:defaultValue="true" app:allowDividerAbove="false" app:iconSpaceReserved="false"/>
+</PreferenceScreen>

@@ -1,0 +1,25 @@
+package X;
+
+import kotlin.coroutines.jvm.internal.DebugMetadata;
+
+@DebugMetadata(c = "kotlinx.coroutines.flow.FlowKt__TransformKt$runningFold$1$1", f = "Transform.kt", i = {0}, l = {105, 106}, m = "emit", n = {"this"}, s = {"L$0"})
+/* renamed from: X.DdZ  reason: case insensitive filesystem */
+public final class C27418DdZ extends C30421du {
+    public Object L$0;
+    public Object L$1;
+    public int label;
+    public /* synthetic */ Object result;
+    public final /* synthetic */ C27186DXw this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public C27418DdZ(C27186DXw dXw, C30391dr r2) {
+        super(r2);
+        this.this$0 = dXw;
+    }
+
+    public final Object invokeSuspend(Object obj) {
+        this.result = obj;
+        this.label |= Integer.MIN_VALUE;
+        return this.this$0.BJt((Object) null, this);
+    }
+}

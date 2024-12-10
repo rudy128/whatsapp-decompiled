@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="0x7f0b1308" android:padding="24dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="0x7f0b0ff2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16dp" android:scaleType="fitCenter" android:minHeight="130dp" app:NOT_FOUND_0x10="0x7f0b221e" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x14="0"/>
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center" android:orientation="vertical" android:id="0x7f0b221e" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0x7f0b089f" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0x7f0b0ff2">
+            <com.whatsapp.WaTextView android:textSize="18sp" android:textStyle="bold" android:textColor="0x7f060a26" android:layout_gravity="center" android:id="0x7f0b22b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="16dp" android:text="0x7f12081b"/>
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409e9" android:layout_gravity="center" android:id="0x7f0b0a27" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="16dp" android:text="0x7f120819"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b089f" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070e09" android:text="0x7f120829" app:NOT_FOUND_0xf="0" app:NOT_FOUND_0x11="0" app:NOT_FOUND_0x12="0" app:NOT_FOUND_0x13="0x7f0b221e"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

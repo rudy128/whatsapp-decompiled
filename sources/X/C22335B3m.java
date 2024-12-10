@@ -1,0 +1,31 @@
+package X;
+
+import java.util.Map;
+
+/* renamed from: X.B3m  reason: case insensitive filesystem */
+public final class C22335B3m extends AnonymousClass11G implements C36001nB {
+    public final /* synthetic */ C20129A8p this$0;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public C22335B3m(C20129A8p a8p) {
+        super(3);
+        this.this$0 = a8p;
+    }
+
+    public /* bridge */ /* synthetic */ Object invoke(Object obj, Object obj2, Object obj3) {
+        String str = (String) obj;
+        Map map = (Map) obj2;
+        C20129A8p a8p = this.this$0;
+        C192819p2 r1 = a8p.A05;
+        if (r1 != null) {
+            C187379fi r0 = a8p.A01;
+            if (r0 == null) {
+                C18070vi.A11("flowManager");
+                throw null;
+            }
+            r1.A01((String) AnonymousClass8BT.A0s(r0.A03));
+        }
+        C20129A8p.A05(this.this$0, (C19980A1q) null, str, map, 2);
+        return C27621Wu.A00;
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:paddingBottom="0x7f0707c9" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <include layout="0x7f0e08e0"/>
+            <include layout="0x7f0e08e3"/>
+            <com.whatsapp.SectionHeaderView android:id="0x7f0b10fb" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x10="0x7f1219df" style="0x7f15031b"/>
+            <com.whatsapp.newsletter.insights.view.InsightsSectionView android:id="0x7f0b10fe" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.newsletter.insights.view.InsightsItemView android:id="0x7f0b10fd" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1219d2" app:NOT_FOUND_0xf="0x7f060648"/>
+                <com.whatsapp.newsletter.insights.view.InsightsItemView android:id="0x7f0b10fa" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f071109" android:text="0x7f1219ce" app:NOT_FOUND_0xf="0x7f060646"/>
+                <com.whatsapp.newsletter.insights.view.InsightsItemView android:id="0x7f0b10ff" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f071109" android:text="0x7f1219e6" app:NOT_FOUND_0xf="0x7f06064b"/>
+                <com.whatsapp.newsletter.insights.view.chart.LineChartView android:id="0x7f0b10fc" android:layout_width="match_parent" android:layout_height="0x7f0707bc" android:layout_marginTop="0x7f0710fd"/>
+            </com.whatsapp.newsletter.insights.view.InsightsSectionView>
+        </LinearLayout>
+        <androidx.cardview.widget.CardView android:id="0x7f0b10f8" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0xe="0x7f0707b3">
+            <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:id="0x7f0b10f9" android:paddingLeft="0x7f0710fd" android:paddingTop="0x7f071100" android:paddingRight="0x7f0710fd" android:paddingBottom="0x7f071100" android:layout_width="wrap_content" android:layout_height="wrap_content" android:NOT_FOUND_0xc="0x7f0710fd" android:NOT_FOUND_0xd="0x7f071100" style="0x7f1506be"/>
+        </androidx.cardview.widget.CardView>
+    </FrameLayout>
+</ScrollView>

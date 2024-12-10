@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.wds.components.topbar.WDSToolbar xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b22ee" android:background="?unknown_attr_ref: 7f040bde" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010" android:minHeight="?unknown_attr_ref: 7f040010" android:touchscreenBlocksFocus="false" app:NOT_FOUND_0x6="1" app:NOT_FOUND_0x7="0x7f150634" app:NOT_FOUND_0x8="0x7f15062f"/>

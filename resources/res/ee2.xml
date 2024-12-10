@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingLeft="24dp" android:paddingTop="12dp" android:paddingRight="0x7f071103" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b0a03" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:layout_marginBottom="0x7f0710ff">
+        <CheckBox android:id="0x7f0b0a01" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-5dp" android:layout_marginRight="11dp"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:id="0x7f0b0a02" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b0a11" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f0710ff" android:layout_marginBottom="0x7f0710ff">
+        <CheckBox android:id="0x7f0b0a10" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-5dp" android:layout_marginRight="11dp"/>
+        <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1208bb"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,31 @@
+package X;
+
+public enum C11 implements E68 {
+    STREAM_TELEMETRY_CANONICALS_EVENT(0),
+    STREAM_TELEMETRY_START_EVENT(1),
+    STREAM_TELEMETRY_CONFIGURE_AUDIO_EVENT(2),
+    STREAM_TELEMETRY_CONFIGURE_VIDEO_EVENT(3),
+    STREAM_TELEMETRY_END_EVENT(4),
+    STREAM_TELEMETRY_IN_PROGRESS_EVENT(5),
+    STREAM_TELEMETRY_SESSION_START_EVENT(6),
+    STREAM_TELEMETRY_SESSION_END_EVENT(7),
+    STREAM_TELEMETRY_CLIENT_CONNECT_EVENT(8),
+    STREAM_TELEMETRY_CLIENT_DISCONNECT_EVENT(9),
+    STREAM_TELEMETRY_FRAME_CAPTURE_START_EVENT(10),
+    STREAM_TELEMETRY_FRAME_CAPTURE_END_EVENT(11),
+    UNRECOGNIZED(-1);
+    
+    public final int value;
+
+    public final int BVW() {
+        if (this != UNRECOGNIZED) {
+            return this.value;
+        }
+        throw BE7.A0X();
+    }
+
+    /* access modifiers changed from: public */
+    C11(int i) {
+        this.value = i;
+    }
+}

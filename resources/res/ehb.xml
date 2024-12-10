@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b0bc2" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="0x7f0b0bcf" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b11ad" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="0x7f0b1ff2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b1e12" android:background="?unknown_attr_ref: 7f0403ae" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b0bc1" android:visibility="gone" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:id="0x7f0b0bc9" android:layout="0x7f0e04de" android:inflatedId="0x7f0b0bc9" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:id="0x7f0b0bca" android:layout="0x7f0e04eb" android:inflatedId="0x7f0b0bca" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</FrameLayout>

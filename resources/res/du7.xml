@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:id="0x7f0b2015" android:layout="0x7f0e0126" android:inflatedId="0x7f0b2015" android:layout_width="0x7f070fb2" android:layout_height="0x7f070fb2" app:NOT_FOUND_0x5="0" app:NOT_FOUND_0x7="0x7f0b03a4" app:NOT_FOUND_0x8="2" app:NOT_FOUND_0xa="0" app:NOT_FOUND_0xb="0"/>
+    <ViewStub android:id="0x7f0b03a4" android:layout="0x7f0e0126" android:inflatedId="0x7f0b03a4" android:layout_width="0x7f070fb2" android:layout_height="0x7f070fb2" app:NOT_FOUND_0x5="0" app:NOT_FOUND_0x7="0x7f0b15ad" app:NOT_FOUND_0x9="0x7f0b2015" app:NOT_FOUND_0xb="0"/>
+    <ViewStub android:id="0x7f0b15ad" android:inflatedId="0x7f0b15ad" android:layout_width="0x7f070fb2" android:layout_height="0x7f070fb2" app:NOT_FOUND_0x5="0" app:NOT_FOUND_0x7="0x7f0b1220" app:NOT_FOUND_0x9="0x7f0b03a4" app:NOT_FOUND_0xb="0"/>
+    <ViewStub android:id="0x7f0b1220" android:layout="0x7f0e0126" android:inflatedId="0x7f0b1220" android:layout_width="0x7f070fb2" android:layout_height="0x7f070fb2" app:NOT_FOUND_0x5="0" app:NOT_FOUND_0x7="0x7f0b11ba" app:NOT_FOUND_0x9="0x7f0b15ad" app:NOT_FOUND_0xb="0"/>
+    <ViewStub android:id="0x7f0b11ba" android:layout="0x7f0e0127" android:inflatedId="0x7f0b11ba" android:layout_width="0dp" android:layout_height="match_parent" app:NOT_FOUND_0x5="0" app:NOT_FOUND_0x7="0x7f0b2050" app:NOT_FOUND_0x9="0x7f0b1220" app:NOT_FOUND_0xb="0"/>
+    <ViewStub android:id="0x7f0b2050" android:layout="0x7f0e0127" android:inflatedId="0x7f0b2050" android:layout_width="0dp" android:layout_height="wrap_content" app:NOT_FOUND_0x5="0" app:NOT_FOUND_0x6="0" app:NOT_FOUND_0x9="0x7f0b11ba" app:NOT_FOUND_0xb="0"/>
+</merge>

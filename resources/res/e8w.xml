@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="0x7f060eb2" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" app:NOT_FOUND_0x16="0x7f0b0417">
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b041c" android:paddingLeft="0x7f0710fd" android:paddingRight="0x7f0710fd" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0409e9" android:id="0x7f0b0418" android:text="0x7f1204f9" style="0x7f150342"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f0710a0" android:textColor="?unknown_attr_ref: 7f0405c7" android:id="0x7f0b041f" android:text="0x7f12050e" android:layout_marginStart="0x7f070c60" style="0x7f150341"/>
+            <Spinner android:id="0x7f0b041e" android:paddingTop="0dp" android:paddingBottom="0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0dp" style="0x7f150735"/>
+            <com.google.android.material.textfield.TextInputLayout android:id="0x7f0b0421" app:NOT_FOUND_0x13="0x7f150489" app:NOT_FOUND_0x14="true" style="0x7f150341">
+                <com.whatsapp.WaEditText android:id="0x7f0b0420" android:hint="0x7f120514" android:inputType="text" style="0x7f150153"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout android:id="0x7f0b0423" app:NOT_FOUND_0x13="0x7f150489" app:NOT_FOUND_0x14="true" style="0x7f150341">
+                <com.whatsapp.WaEditText android:id="0x7f0b0422" android:hint="0x7f120515" android:maxLength="56" style="0x7f150153"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.whatsapp.WaTextView android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0409e9" android:id="0x7f0b0425" android:paddingTop="0x7f070e11" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120517" style="0x7f1506bf"/>
+            <com.whatsapp.TextEmojiLabel android:textSize="0x7f07109c" android:textColor="?unknown_attr_ref: 7f0405c7" android:id="0x7f0b0424" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120516" style="0x7f1506be"/>
+            <RelativeLayout android:id="0x7f0b1a68" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f0405c7" android:id="0x7f0b0426" android:paddingTop="0x7f07071f" android:layout_width="match_parent" android:layout_height="wrap_content" style="0x7f1506bc"/>
+                <com.whatsapp.WaImageView android:layout_width="24dp" android:layout_height="24dp" android:layout_marginTop="0x7f07071f" android:layout_alignParentEnd="true" app:NOT_FOUND_0x19="0x7f080443"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+    <com.whatsapp.WaButtonWithLoader android:textColor="?unknown_attr_ref: 7f040d35" android:id="0x7f0b0417" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f07071f" app:NOT_FOUND_0x15="0" app:NOT_FOUND_0x17="0" app:NOT_FOUND_0x18="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

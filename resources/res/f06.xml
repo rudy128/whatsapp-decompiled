@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:background="?unknown_attr_ref: 7f0409fb" android:paddingLeft="0x7f070c59" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f0704a1" android:paddingStart="0x7f070c59">
+    <com.whatsapp.components.button.ThumbnailButton android:enabled="false" android:layout_gravity="center" android:id="0x7f0b0839" android:layout_width="0x7f07037a" android:layout_height="0x7f07037a" android:layout_marginRight="0x7f070c59" android:scaleType="fitCenter" android:layout_marginEnd="0x7f070c59" app:NOT_FOUND_0x14="false" app:NOT_FOUND_0x15="0x7f070de1"/>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="0x7f0b0856" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <FrameLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <com.whatsapp.TextEmojiLabel android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="0x7f0b0834" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" style="0x7f1502de"/>
+            </FrameLayout>
+        </LinearLayout>
+        <com.whatsapp.TextEmojiLabel android:textStyle="normal" android:gravity="left" android:layout_gravity="left" android:id="0x7f0b0852" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" style="0x7f1502da"/>
+    </LinearLayout>
+    <com.whatsapp.WaImageButton android:layout_gravity="center" android:id="0x7f0b14df" android:layout_marginRight="0x7f070c62" android:contentDescription="0x7f121750" app:NOT_FOUND_0x13="0x7f0809d3" app:NOT_FOUND_0x16="?unknown_attr_ref: 7f0408cc" style="0x7f150212"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

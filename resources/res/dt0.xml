@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b01a5" android:paddingTop="12dp" android:paddingBottom="12dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b01af" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="28dp" android:layout_marginRight="0x7f0710fe"/>
+        <LinearLayout android:orientation="vertical" android:id="0x7f0b01b0" android:paddingRight="24dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <com.whatsapp.WaTextView android:id="0x7f0b01b3" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f15001a"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b01ad" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150015"/>
+            <com.whatsapp.WaTextView android:id="0x7f0b01a4" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150014"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b01ac" android:paddingRight="16dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent">
+            <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textStyle="bold" android:textColor="0x7f060dfb" android:id="0x7f0b1583" android:paddingRight="0x7f0710ff" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.whatsapp.WaImageView android:id="0x7f0b01b2" android:layout_width="16dp" android:layout_height="16dp" app:NOT_FOUND_0x12="0x7f0803c0" app:NOT_FOUND_0x13="0x7f060dfb"/>
+        </LinearLayout>
+        <com.whatsapp.WaImageView android:layout_gravity="center_vertical" android:id="0x7f0b01ab" android:paddingRight="16dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:NOT_FOUND_0x12="0x7f080446" app:NOT_FOUND_0x13="0x7f060df9"/>
+    </LinearLayout>
+</merge>

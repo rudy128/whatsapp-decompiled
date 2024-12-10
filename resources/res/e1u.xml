@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:id="0x7f0b15c2" android:paddingLeft="2dp" android:paddingRight="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:id="0x7f0b15c1" android:padding="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.whatsapp.CircleWaImageView android:id="0x7f0b15c0" android:background="0x7f080762" android:padding="0x7f0709e1" android:layout_width="0x7f0709e3" android:layout_height="0x7f0709e3" android:src="0x7f080147" android:contentDescription="0x7f12331a"/>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b15bf" android:layout="0x7f0e002d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="0x7f0b15c1" android:layout_alignRight="0x7f0b15c1"/>
+    <Space android:layout_width="0x7f0709e2" android:layout_height="0x7f0709e3" android:layout_toEndOf="0x7f0b15c1"/>
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1cf8" android:background="?unknown_attr_ref: 7f0408ce" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:layout_gravity="bottom" android:id="0x7f0b15e0" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:id="0x7f0b1334" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ViewStub android:layout_gravity="start" android:id="0x7f0b15e4" android:visibility="visible" android:layout="0x7f0e0650" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <FrameLayout android:id="0x7f0b0563" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:id="0x7f0b08ca" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0x7f0c0045">
+                    <FrameLayout android:id="0x7f0b1788" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                    <FrameLayout android:id="0x7f0b0562" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                    <FrameLayout android:id="@android:id/content" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                        <FrameLayout android:id="0x7f0b17bb" android:paddingTop="0dp" android:layout_width="match_parent" android:layout_height="match_parent">
+                            <view android:id="0x7f0b17b9" android:layout_width="match_parent" android:layout_height="match_parent" class="com.whatsapp.TabsPager"/>
+                        </FrameLayout>
+                        <LinearLayout android:orientation="vertical" android:id="0x7f0b0fbe" android:background="?unknown_attr_ref: 7f040230" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.whatsapp.wds.components.topbar.WDSToolbar android:id="0x7f0b22ee" android:background="?unknown_attr_ref: 7f040bde" android:layout_width="match_parent" android:layout_height="?unknown_attr_ref: 7f040010" android:minHeight="?unknown_attr_ref: 7f040010" app:NOT_FOUND_0x12="0x7f150634" app:NOT_FOUND_0x13="0x7f150631">
+                                <ViewStub android:id="0x7f0b22f4" android:layout="0x7f0e0655" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+                                <ViewStub android:id="0x7f0b22f5" android:layout="0x7f0e0656" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+                            </com.whatsapp.wds.components.topbar.WDSToolbar>
+                            <View android:id="0x7f0b22f6" android:layout_width="wrap_content" android:layout_height="0dp"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:id="0x7f0b1d8a" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="?unknown_attr_ref: 7f040034"/>
+                        <FrameLayout android:id="0x7f0b13cc" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="?unknown_attr_ref: 7f040034"/>
+                        <FrameLayout android:id="0x7f0b1d92" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="0x7f070002" android:elevation="?unknown_attr_ref: 7f040034"/>
+                        <ViewStub android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="0x7f0b0dc4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f070002"/>
+                        <ViewStub android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="0x7f0b0087" android:layout="0x7f0e002e" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f07005b"/>
+                        <ViewStub android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="0x7f0b03f3" android:layout="0x7f0e0183" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0x7f071107"/>
+                        <ViewStub android:id="0x7f0b1df2" android:layout="0x7f0e0b54" android:inflatedId="0x7f0b1df1" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150681"/>
+                        <com.whatsapp.wds.components.fab.WDSFab android:id="0x7f0b0d71" android:visibility="gone" android:layout_marginRight="0x7f070636" android:contentDescription="0x7f121723" android:layout_marginEnd="@null" app:NOT_FOUND_0x14="?unknown_attr_ref: 7f0403cc" style="0x7f15067f"/>
+                        <ViewStub android:id="0x7f0b0d73" android:layout="0x7f0e0551" android:inflatedId="0x7f0b0d72" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f150680"/>
+                        <com.whatsapp.wds.components.fab.WDSFab android:id="0x7f0b0d6f" android:visibility="gone" android:layout_marginEnd="@null" style="0x7f15067b"/>
+                        <ViewStub android:id="0x7f0b0d63" android:layout="0x7f0e0d5e" android:layout_width="wrap_content" android:layout_height="0x7f07108f" style="0x7f15069b"/>
+                    </FrameLayout>
+                    <ViewStub android:id="0x7f0b03f4" android:layout="0x7f0e064d" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="0x7f0b08f7" android:visibility="gone" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0x7f0c0044"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

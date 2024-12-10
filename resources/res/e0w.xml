@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="?unknown_attr_ref: 7f0400de" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:orientation="vertical" android:paddingTop="0x7f071102" android:paddingBottom="0x7f071102" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="0x7f0b0233" android:paddingBottom="0x7f071103" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <com.whatsapp.WaImageButton android:id="0x7f0b0232" android:padding="0dp" android:layout_width="48dp" android:layout_height="48dp" app:NOT_FOUND_0x13="0x7f0806ee" app:NOT_FOUND_0x14="?unknown_attr_ref: 7f040d35" style="0x7f150006"/>
+            <com.whatsapp.voicerecorder.VoiceNoteSeekBar android:id="0x7f0b023f" android:layout_width="0dp" android:layout_height="64dp" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_weight="1" app:NOT_FOUND_0x15="?unknown_attr_ref: 7f040d80" app:NOT_FOUND_0x16="?unknown_attr_ref: 7f040d35" app:NOT_FOUND_0x17="12dp" app:NOT_FOUND_0x18="3dp" style="0x7f15065a"/>
+            <com.whatsapp.WaTextView android:textSize="0x7f071098" android:textColor="?unknown_attr_ref: 7f040d35" android:id="0x7f0b1ad6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:text="00:00"/>
+        </LinearLayout>
+        <com.whatsapp.WaImageView android:id="0x7f0b023c" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="24dp" android:layout_above="0x7f0b0233" android:contentDescription="0x7f1202b9" app:NOT_FOUND_0x13="0x7f0804de" app:NOT_FOUND_0x14="0x7f06088b"/>
+    </RelativeLayout>
+    <include layout="0x7f0e0802"/>
+</FrameLayout>

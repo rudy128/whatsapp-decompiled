@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.imagine.InputPrompt android:id="0x7f0b1088" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0x7f070747" app:NOT_FOUND_0x4="0x7f060dff" app:NOT_FOUND_0x5="0x7f060e2b" app:NOT_FOUND_0x6="0x7f060d80" app:NOT_FOUND_0x7="0x7f1214a2" app:NOT_FOUND_0x8="0x7f1233c2" app:NOT_FOUND_0x9="true" app:NOT_FOUND_0xa="0x7f060d80"/>
+</FrameLayout>

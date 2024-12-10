@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="0x7f070c5a" android:paddingTop="0x7f070c56" android:paddingRight="0x7f070c5a" android:paddingBottom="0x7f070c56" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f040ba5" android:gravity="left" android:paddingLeft="0x7f070c59" android:paddingTop="0x7f070c59" android:paddingRight="0x7f070c59" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f120438" android:fontFamily="?unknown_attr_ref: 7f04056b" style="0x7f1506c3"/>
+        <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f040ba6" android:gravity="left" android:paddingLeft="0x7f070c59" android:paddingTop="0x7f070c59" android:paddingRight="0x7f070c59" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="0x7f1203c1" style="0x7f1506bc"/>
+        <com.whatsapp.components.AutoOrientationLinearLayout android:gravity="right" android:orientation="horizontal" android:id="0x7f0b0e2b" android:paddingTop="28dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b045c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1203d2" app:NOT_FOUND_0xc="0" style="0x7f150674"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b0462" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f1203d0" style="0x7f150674"/>
+            <com.whatsapp.wds.components.button.WDSButton android:id="0x7f0b0452" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0x7f12318e" style="0x7f150674"/>
+        </com.whatsapp.components.AutoOrientationLinearLayout>
+    </LinearLayout>
+</ScrollView>

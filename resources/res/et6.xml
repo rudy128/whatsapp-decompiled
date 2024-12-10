@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:id="0x7f0b1100" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="0x7f071108" style="0x7f1506be"/>
+        <Space android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:id="0x7f0b1103" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1506be"/>
+        <com.whatsapp.WaTextView android:textColor="0x7f060db2" android:id="0x7f0b1102" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="0x7f071108" style="0x7f1506bf"/>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b1101" android:layout="0x7f0e06ec" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f071108"/>
+</merge>

@@ -1,0 +1,25 @@
+package X;
+
+/* renamed from: X.14R  reason: invalid class name */
+public class AnonymousClass14R implements AnonymousClass12T {
+    public /* synthetic */ void BLp(AnonymousClass1F1 r1, AnonymousClass1F5 r2) {
+    }
+
+    /* JADX WARNING: type inference failed for: r5v0, types: [X.1Mo, java.lang.Object] */
+    public /* bridge */ /* synthetic */ void BLt(AnonymousClass1F3 r7) {
+        ? obj = new Object();
+        obj.A02 = "message_row_id";
+        C25041Mq r3 = C25041Mq.INTEGER;
+        obj.A00 = r3;
+        obj.A05 = true;
+        obj.A02 = "old_jid_row_id";
+        obj.A00 = r3;
+        obj.A02 = "new_jid_row_id";
+        obj.A00 = r3;
+        r7.CE6("message_system_number_change", obj.A0B(), obj.A0B(), obj.A0B());
+    }
+
+    public /* bridge */ /* synthetic */ void BLv(AnonymousClass1F4 r5) {
+        r5.CE9(C25071Mt.A01("message_system", "message_system_number_change", (String) null, "message_row_id=old.message_row_id"), "message_system_number_change");
+    }
+}

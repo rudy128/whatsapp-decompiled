@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:minHeight="0x7f0710d2">
+    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="0x7f071109" android:layout_marginBottom="0x7f071109" android:layout_weight="1" android:layout_marginStart="0x7f07110a" android:layout_marginEnd="1dp">
+        <com.whatsapp.WaTextView android:ellipsize="end" android:id="0x7f0b12bc" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="0x7f071097" android:maxLines="1" android:textAlignment="viewStart" style="0x7f1506bc"/>
+        <com.whatsapp.WaTextView android:textColor="0x7f060db0" android:ellipsize="end" android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="0x7f0b12bb" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0x7f070844" android:minHeight="0x7f07109b" android:maxLines="1" android:textAlignment="viewStart" style="0x7f1506be"/>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="0x7f0710fd" android:layout_marginEnd="0x7f071108">
+        <com.whatsapp.WaImageView android:id="0x7f0b12b5" android:padding="0x7f071108" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="0x7f080aba" android:layout_marginEnd="0x7f071104"/>
+        <com.whatsapp.WaImageView android:id="0x7f0b12bf" android:padding="0x7f071108" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="0x7f080a8a" android:layout_marginEnd="0x7f0710ff"/>
+    </LinearLayout>
+</LinearLayout>

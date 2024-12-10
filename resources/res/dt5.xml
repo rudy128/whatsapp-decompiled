@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:id="0x7f0b11f1" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:layout_marginBottom="12dp">
+        <com.whatsapp.WaTextView android:textSize="20sp" android:ellipsize="end" android:gravity="center" android:id="0x7f0b22b0" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" style="0x7f15049d"/>
+    </LinearLayout>
+    <ViewStub android:id="0x7f0b0ab9" android:layout="0x7f0e0738" android:inflatedId="0x7f0b0ab9" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+    <androidx.core.widget.NestedScrollView android:id="0x7f0b1d4f" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:overScrollMode="never">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.whatsapp.labelitem.view.bottomsheet.NewLabelView android:id="0x7f0b1611" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <com.whatsapp.labelitem.view.bottomsheet.AddLabelView android:id="0x7f0b0118" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <androidx.recyclerview.widget.RecyclerView android:id="0x7f0b1285" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" app:NOT_FOUND_0x10="androidx.recyclerview.widget.LinearLayoutManager"/>
+            <ViewStub android:id="0x7f0b11ef" android:inflatedId="0x7f0b11ef" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <com.whatsapp.wds.components.button.WDSButton android:enabled="false" android:id="0x7f0b1d21" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="16dp" android:text="0x7f121577" style="0x7f150671"/>
+</LinearLayout>

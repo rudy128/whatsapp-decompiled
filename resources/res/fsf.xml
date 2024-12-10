@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingLeft="0x7f07047c" android:paddingTop="0x7f07047c" android:paddingRight="0x7f07047c" android:paddingBottom="0x7f07047d" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.whatsapp.WaFrameLayout android:id="0x7f0b13bd" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b24ca" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <view android:id="0x7f0b225b" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" class="com.whatsapp.conversation.conversationrow.ConversationRowVideo$RowVideoView"/>
+    </com.whatsapp.WaFrameLayout>
+    <com.whatsapp.WaImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="0x7f0b0ece" android:paddingLeft="10dp" android:paddingBottom="0x7f0710ff" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <FrameLayout android:layout_gravity="center" android:id="0x7f0b08a8" android:background="0x7f080281" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b1ac5" android:layout="0x7f0e025a" android:inflatedId="0x7f0b1ac5" android:layout_width="64dp" android:layout_height="64dp"/>
+        <ViewStub android:layout_gravity="center" android:id="0x7f0b05d4" android:layout="0x7f0e022c" android:inflatedId="0x7f0b05d4" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.whatsapp.WaTextView android:textColor="?unknown_attr_ref: 7f0402a3" android:ellipsize="none" android:layout_gravity="center" android:id="0x7f0b08a5" android:background="@null" android:paddingLeft="0x7f0710fe" android:paddingRight="0x7f0710fe" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:drawablePadding="0x7f070430" android:textAllCaps="true" app:NOT_FOUND_0x12="0x7f08047c" app:NOT_FOUND_0x13="?unknown_attr_ref: 7f0402ab"/>
+    </FrameLayout>
+</FrameLayout>

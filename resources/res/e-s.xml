@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.facebook.shimmer.ShimmerFrameLayout android:id="0x7f0b18c5" android:layout_width="match_parent" android:layout_height="72dp" style="0x7f150340">
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <View android:background="0x7f080816" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="0x7f070be6" android:layout_marginRight="0x7f070be6"/>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="0x7f070be6">
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="8dp">
+                    <View android:background="0x7f080815" android:layout_width="160dp" android:layout_height="0x7f070beb"/>
+                    <Space android:layout_width="0dp" android:layout_height="0x7f070beb" android:layout_weight="1"/>
+                    <View android:background="0x7f080815" android:layout_width="64dp" android:layout_height="0x7f070beb"/>
+                </LinearLayout>
+                <View android:background="0x7f080815" android:layout_width="96dp" android:layout_height="0x7f070beb"/>
+            </LinearLayout>
+        </LinearLayout>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="0x7f0b2058" android:visibility="gone" android:layout_width="match_parent" android:layout_height="72dp">
+        <View android:layout_gravity="center_vertical" android:background="0x7f080818" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="0x7f070be6" android:layout_marginRight="0x7f070be6"/>
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginRight="0x7f070be6" android:layout_weight="1">
+            <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="8dp">
+                <View android:background="0x7f080817" android:layout_width="160dp" android:layout_height="0x7f070beb"/>
+            </LinearLayout>
+            <View android:background="0x7f080817" android:layout_width="96dp" android:layout_height="0x7f070beb"/>
+        </LinearLayout>
+        <com.whatsapp.WaImageView android:id="0x7f0b234f" android:layout_width="18dp" android:layout_height="18dp" android:layout_marginTop="18dp" android:layout_marginRight="0x7f070be6" app:NOT_FOUND_0xd="0x7f080510"/>
+    </LinearLayout>
+    <View android:layout_gravity="bottom" android:id="0x7f0b0ab9" android:background="0x7f08081f" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="0x7f071101"/>
+</merge>

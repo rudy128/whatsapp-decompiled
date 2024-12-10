@@ -1,0 +1,72 @@
+package X;
+
+public interface EBJ {
+    public static final AnonymousClass1C0 A00;
+    public static final AnonymousClass1C0 A01;
+    public static final AnonymousClass1C0 A02;
+    public static final AnonymousClass1C0 A03;
+    public static final AnonymousClass1C0 A04;
+    public static final AnonymousClass1C0 A05;
+    public static final AnonymousClass1C0 A06;
+    public static final AnonymousClass1C0 A07;
+    public static final AnonymousClass1C0 A08;
+    public static final AnonymousClass1C0 A09;
+    public static final AnonymousClass1C0 A0A;
+    public static final AnonymousClass1C0 A0B;
+    public static final AnonymousClass1C0 A0C;
+    public static final AnonymousClass1C0 A0D;
+    public static final AnonymousClass1C0 A0E;
+    public static final AnonymousClass1C0 A0F;
+    public static final AnonymousClass1C0 A0G;
+    public static final AnonymousClass1C0 A0H;
+    public static final AnonymousClass1C0 A0I;
+    public static final AnonymousClass1C0 A0J;
+    public static final AnonymousClass1C0 A0K;
+    public static final AnonymousClass1C0 A0L;
+    public static final AnonymousClass1C0 A0M;
+    public static final AnonymousClass1C0 A0N;
+    public static final AnonymousClass1C0 A0O;
+    public static final AnonymousClass1C0 A0P;
+    public static final AnonymousClass1C0 A0Q;
+    public static final AnonymousClass1C0 A0R;
+    public static final AnonymousClass1C0 A0S;
+    public static final AnonymousClass1C0 A0T;
+    public static final AnonymousClass1C0 A0U;
+    public static final AnonymousClass1C0 A0V;
+
+    static {
+        AnonymousClass1C0 A19 = BE6.A19("1.2.643.2.2");
+        A00 = A19;
+        A0I = AnonymousClass1By.A00("9", A19);
+        A0J = AnonymousClass1By.A00("10", A19);
+        A0V = AnonymousClass1By.A00("13.0", A19);
+        A0T = AnonymousClass1By.A00("13.1", A19);
+        A01 = AnonymousClass1By.A00("21", A19);
+        A0U = AnonymousClass1By.A00("31.0", A19);
+        A0P = AnonymousClass1By.A00("31.1", A19);
+        A0Q = AnonymousClass1By.A00("31.2", A19);
+        A0R = AnonymousClass1By.A00("31.3", A19);
+        A0S = AnonymousClass1By.A00("31.4", A19);
+        A0A = AnonymousClass1By.A00("20", A19);
+        A02 = AnonymousClass1By.A00("19", A19);
+        A0M = AnonymousClass1By.A00("4", A19);
+        A0L = AnonymousClass1By.A00("3", A19);
+        A0K = AnonymousClass1By.A00("30.1", A19);
+        A0B = AnonymousClass1By.A00("32.2", A19);
+        A0C = AnonymousClass1By.A00("32.3", A19);
+        A0D = AnonymousClass1By.A00("32.4", A19);
+        A0E = AnonymousClass1By.A00("32.5", A19);
+        A0F = AnonymousClass1By.A00("33.1", A19);
+        A0G = AnonymousClass1By.A00("33.2", A19);
+        A0H = AnonymousClass1By.A00("33.3", A19);
+        A04 = AnonymousClass1By.A00("35.1", A19);
+        A05 = AnonymousClass1By.A00("35.2", A19);
+        A06 = AnonymousClass1By.A00("35.3", A19);
+        A08 = AnonymousClass1By.A00("36.0", A19);
+        A09 = AnonymousClass1By.A00("36.1", A19);
+        A0O = AnonymousClass1By.A00("36.0", A19);
+        A0N = AnonymousClass1By.A00("36.1", A19);
+        A07 = AnonymousClass1By.A00("96", A19);
+        A03 = AnonymousClass1By.A00("98", A19);
+    }
+}

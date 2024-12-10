@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.whatsapp.KeyboardPopupLayout android:id="0x7f0b05f9" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.whatsapp.WaImageButton android:id="0x7f0b05fb" style="0x7f15032c"/>
+        <com.whatsapp.WaTextView android:id="0x7f0b176a" android:text="0x7f1230e6" android:layout_alignTop="0x7f0b05fb" android:layout_alignBottom="0x7f0b05fb" style="0x7f15032d"/>
+        <include layout="0x7f0e0589"/>
+        <include layout="0x7f0e058a"/>
+    </com.whatsapp.KeyboardPopupLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

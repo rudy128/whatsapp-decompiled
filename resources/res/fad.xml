@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:descendantFocusability="blocksDescendants" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingRight="0x7f07083b" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="0x7f070de7">
+        <FrameLayout android:id="0x7f0b084f" android:layout_width="0x7f07039b" android:layout_height="0x7f070de7">
+            <com.whatsapp.components.button.ThumbnailButton android:enabled="false" android:layout_gravity="center" android:id="0x7f0b0867" android:layout_width="0x7f070de6" android:layout_height="0x7f070de6" android:scaleType="fitCenter" app:NOT_FOUND_0x12="false" app:NOT_FOUND_0x13="0x7f070de1"/>
+            <com.whatsapp.components.SelectionCheckView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b1e7a" android:layout_width="0x7f070d63" android:layout_height="0x7f070d63" android:layout_marginRight="10dp" android:layout_marginBottom="9dp"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:clipChildren="false" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <LinearLayout android:orientation="horizontal" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.whatsapp.TextEmojiLabel android:gravity="left" android:id="0x7f0b15c7" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" style="0x7f1502de"/>
+            </LinearLayout>
+            <com.whatsapp.TextEmojiLabel android:gravity="left" android:id="0x7f0b193d" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="0x7f1502da"/>
+        </LinearLayout>
+        <ViewStub android:id="0x7f0b1173" android:layout="0x7f0e0706" android:inflatedId="0x7f0b1173" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <View android:id="0x7f0b0ab9" android:background="0x7f080278" android:layout_width="match_parent" android:layout_height="0dp"/>
+</LinearLayout>

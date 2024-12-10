@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b04d6" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.recyclerview.widget.RecyclerView android:orientation="vertical" android:id="0x7f0b1d9f" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.google.android.material.chip.Chip android:textColor="?unknown_attr_ref: 7f040d35" android:id="0x7f0b2400" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0x7f07051e" android:text="0x7f12316b" android:layout_centerHorizontal="true" app:NOT_FOUND_0xa="?unknown_attr_ref: 7f0409dc" app:NOT_FOUND_0xb="0x7f070510" app:NOT_FOUND_0xc="0x7f0805f1" app:NOT_FOUND_0xd="0x7f070510"/>
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.whatsapp.KeyboardPopupLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1333" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="0x7f0b132f" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="0x7f0b2578" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <RelativeLayout android:id="0x7f0b03f9" android:fitsSystemWindows="true" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include android:visibility="gone" layout="0x7f0e0c3e"/>
+            <ViewStub android:gravity="center_horizontal" android:id="0x7f0b072c" android:layout="0x7f0e0263" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true"/>
+            <FrameLayout android:id="0x7f0b1423" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:layout_marginBottom="-5dp" android:layout_above="0x7f0b08c0"/>
+            <FrameLayout android:id="0x7f0b08c0" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+                <include layout="0x7f0e0311"/>
+            </FrameLayout>
+        </RelativeLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</com.whatsapp.KeyboardPopupLayout>

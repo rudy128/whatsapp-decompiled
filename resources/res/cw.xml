@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <selector>
+        <item android:state_enabled="true" android:state_pressed="true">
+            <set>
+                <objectAnimator android:duration="0x7f0c0031" android:valueTo="0x7f0708c8" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="0x7f0708c1" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_enabled="true" android:state_hovered="true">
+            <set>
+                <objectAnimator android:duration="0x7f0c0031" android:valueTo="0x7f0708c5" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="0x7f0708c1" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_focused="true" android:state_enabled="true">
+            <set>
+                <objectAnimator android:duration="0x7f0c0031" android:valueTo="0x7f0708c3" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="0x7f0708c1" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_enabled="true">
+            <set>
+                <objectAnimator android:duration="0x7f0c0031" android:valueTo="0x7f070a79" android:valueType="floatType" android:propertyName="translationZ" android:startDelay="0x7f0c0030"/>
+                <objectAnimator android:duration="0" android:valueTo="0x7f0708c1" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item>
+            <set>
+                <objectAnimator android:duration="0" android:valueTo="0x7f070a6e" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="0x7f070a6d" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+    </selector>
+</set>

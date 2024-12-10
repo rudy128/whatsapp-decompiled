@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="0x7f0b1d01" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ViewStub android:id="0x7f0b1584" android:layout_width="0x7f0710e5" android:layout_height="0x7f0710e5" android:layout_marginBottom="0x7f0710de" android:layout_marginEnd="0x7f0710de"/>
+    <ViewStub android:id="0x7f0b0839" android:layout_width="0x7f0710e5" android:layout_height="0x7f0710e5" android:layout_marginBottom="0x7f0710de" android:layout_marginEnd="0x7f0710de"/>
+    <ViewStub android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="0x7f0b1e7a" android:layout_width="0x7f07102d" android:layout_height="0x7f07102d" android:layout_marginStart="11dp"/>
+</FrameLayout>

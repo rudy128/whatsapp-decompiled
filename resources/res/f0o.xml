@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:layout_width="match_parent" android:layout_height="match_parent" layout="0x7f0e08a5"/>
+    <ViewStub android:id="0x7f0b013e" android:layout="0x7f0e0dea" android:inflatedId="0x7f0b013e" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0x7f070e07" android:layout_marginTop="0x7f070e0b" android:layout_marginRight="0x7f070e07" android:layout_marginBottom="0x7f070e0b" app:NOT_FOUND_0x9="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
